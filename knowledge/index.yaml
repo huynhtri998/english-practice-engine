@@ -20,9 +20,9 @@ knowledge:
     count: 59
     root: knowledge/vocabulary
   maturity:
-    expanded: 79
+    expanded: 104
     curated: 0
-    normalized_core_remaining: 74
+    normalized_core_remaining: 49
 
 cross_book_units:
   - vocabulary.verb.go
