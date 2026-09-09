@@ -3,50 +3,51 @@ title: Useful Conversation Expressions
 kind: vocabulary
 level: A1-A2
 category: vocabulary.conversation
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 9
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for useful conversation expressions, with emphasis on
-  natural combinations and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [9]
+source_coverage: Unit 9 conversational adverbs, suggestion patterns, reactions, warnings and agreement patterns are represented with source-highlighted form errors.
+core_concept: Use short fixed expressions to manage everyday conversation: suggest, decide, react, warn and agree.
+mental_model: Treat these as ready-made speaking chunks rather than sentences to build word by word.
 key_items:
-- actually
-- really
-- else
-- around
-- anyway
-- Why don’t we ...?
-- Let’s ...
-- I don’t mind.
-- It’s up to you.
-- How about ...?
-- What about ...?
-- Oh dear!
-- It doesn’t matter.
-- What a pity!
-- Hurry up!
-- Look out!
-- Be careful!
-- Absolutely!
-- I agree.
+  - actually
+  - really
+  - else
+  - around
+  - anyway
+  - Why don't we ...?
+  - Let's ...
+  - I don't mind.
+  - It's up to you.
+  - How about ...?
+  - What about ...?
+  - Oh dear!
+  - It doesn't matter.
+  - What a pity!
+  - Hurry up!
+  - Look out!
+  - Be careful!
+  - Absolutely!
+  - I agree.
 collocations:
-- Why don’t we + base verb
-- Let’s + base verb
-- How/What about + -ing
+  - Why don't we + base verb
+  - Let's + base verb
+  - How/What about + verb-ing
 common_mistakes:
-- Actually means in reality, not now.
-- Say I agree, not I am agree.
-- Use How about going, not How about go.
+  - Actually means "in reality" in this unit, not "now".
+  - Use "Why don't we go" and "Let's go", not verb-ing after these patterns.
+  - Use "How about going?" / "What about going?", not the base verb.
+  - Say "I agree", not "I am agree".
+examples:
+  - Why don't we review this tomorrow?
+  - I don't mind. It's up to you.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Useful Conversation Expressions; do not copy
-  the source exercise.
+  - Choose the correct verb form after Why don't we, Let's and How about.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Useful Conversation Expressions, then wait
-  for an English answer.
+  - Make one suggestion and one natural response using the unit's chunks.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Useful Conversation Expressions.
+  - Suggest something we could do this weekend.
+related:
+  - vocabulary.greetings-wishes
+  - vocabulary.feelings

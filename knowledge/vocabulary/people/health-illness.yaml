@@ -3,47 +3,45 @@ title: Health and Illness
 kind: vocabulary
 level: A1-A2
 category: vocabulary.people
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 6
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for health and illness, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [6]
+source_coverage: Unit 6 common symptoms/illnesses, basic treatment chunks and health-related personalisation are represented.
+core_concept: Learn health vocabulary as symptom + natural response/treatment chunks rather than isolated nouns.
+mental_model: What is wrong? -> name the symptom/illness -> say what someone does about it.
 key_items:
-- well
-- ill
-- sick
-- headache
-- toothache
-- cold
-- hay fever
-- asthma
-- malaria
-- cholera
-- cancer
-- heart attack
-- healthy diet
-- exercise
-- stressed
+  - feel sick
+  - feel ill
+  - headache
+  - toothache
+  - a cold
+  - heart attack
+  - asthma
+  - hay fever
+  - cancer
+  - operation
+  - exercise
+  - stressed
 collocations:
-- feel ill
-- be sick
-- have a headache
-- have a cold
-- go to the dentist
-- have a heart attack
-- do exercise
+  - have a headache
+  - have toothache
+  - have a cold
+  - take an aspirin
+  - go to the dentist
+  - go to hospital
+  - go to bed with a hot drink
 common_mistakes:
-- Say have/had a heart attack, not get/got a heart attack in the source pattern.
+  - Use have/have got with common symptoms such as a headache or a cold in the patterns taught by the book.
+examples:
+  - I've got a headache, so I'm going to rest.
+  - She went to the dentist because she had toothache.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Health and Illness; do not copy the source exercise.
+  - Match a common symptom to the natural basic response taught in the unit.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Health and Illness, then wait for an English
-  answer.
+  - Translate one short health complaint and one response sentence.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Health and Illness.
+  - What do you usually do when you have a cold?
+related:
+  - vocabulary.body-parts
+  - vocabulary.feelings

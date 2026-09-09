@@ -3,49 +3,48 @@ title: Describing People
 kind: vocabulary
 level: A1-A2
 category: vocabulary.people
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 5
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for describing people, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [5]
+source_coverage: Unit 5 appearance vocabulary for height, build, age, hair/skin and facial hair plus the question pattern "What does ... look like?" is represented.
+core_concept: Describe appearance by combining a small number of dimensions: height, build, age, hair/skin and distinctive features.
+mental_model: Build a description in layers instead of searching for one perfect adjective.
 key_items:
-- tall
-- short
-- medium height
-- slim
-- thin
-- overweight
-- fat
-- dark skin
-- fair skin
-- blonde hair
-- dark hair
-- beard
-- moustache
-- beautiful
-- pretty
-- good-looking
-- average-looking
-- young
-- middle-aged
-- elderly
+  - tall
+  - short
+  - medium height
+  - slim
+  - thin
+  - overweight
+  - young
+  - middle-aged
+  - elderly
+  - dark hair
+  - fair/blonde hair
+  - dark skin
+  - beard
+  - moustache
+  - pretty
+  - beautiful
+  - good-looking
+  - average-looking
 collocations:
-- be 1.75 metres tall
-- weigh 70 kilos
-- What does ... look like?
+  - have short fair hair
+  - have a beard/moustache
+  - be tall and slim
+  - What does somebody look like?
 common_mistakes:
-- Use tall for people, not high.
-- 'Hair is normally singular: blonde hair, not blonde hairs.'
+  - The source notes that asking whether somebody is elderly can be more polite than directly asking whether they are old.
+examples:
+  - He's medium height with short dark hair.
+  - She has long fair hair and is quite tall.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Describing People; do not copy the source exercise.
+  - Choose the best word for height, build, age or hair in a short description.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Describing People, then wait for an English
-  answer.
+  - Describe a fictional person using at least three source categories.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Describing People.
+  - What does one of your friends look like?
+related:
+  - vocabulary.clothes
+  - vocabulary.body-parts

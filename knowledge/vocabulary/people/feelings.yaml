@@ -3,49 +3,55 @@ title: Feelings
 kind: vocabulary
 level: A1-A2
 category: vocabulary.people
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 7
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for feelings, with emphasis on natural combinations and
-  active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [7]
+source_coverage: Unit 7 like/love/hate, common states, prefer/hope/want and source-highlighted pattern errors are represented.
+core_concept: Express preferences, wants, hopes and everyday physical/emotional states with the natural verb patterns that accompany them.
+mental_model: Learn the feeling word together with the sentence frame it normally uses.
 key_items:
-- love
-- like
-- hate
-- happy
-- sad
-- angry
-- upset
-- cold
-- hot
-- thirsty
-- hungry
-- well
-- ill
-- tired
-- surprised
-- prefer
-- hope
-- want
+  - love
+  - like
+  - don't like
+  - hate
+  - happy
+  - sad
+  - angry
+  - upset
+  - cold
+  - hot
+  - thirsty
+  - hungry
+  - well
+  - ill
+  - tired
+  - surprised
+  - prefer
+  - hope
+  - want
 collocations:
-- prefer coffee to tea
-- hope to do something
-- want to do something
-- want somebody to do something
-- happy about news
-- happy for somebody
+  - prefer coffee to tea
+  - hope to do something
+  - hope that ...
+  - want something
+  - want to do something
+  - want somebody to do something
+  - really like something
+  - like something very much
 common_mistakes:
-- 'Do not place very directly before like: use really like or like ... very much.'
-- Use want somebody to do, not want that somebody does.
+  - Say "I really like it" or "I like it very much", not "I very like it".
+  - Say "want somebody to do something", not "want that somebody does something".
+  - Use "happy about" news/results; "happy for" a person can mean pleased on their behalf.
+examples:
+  - I really like learning new tools.
+  - I want my English to become more automatic.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Feelings; do not copy the source exercise.
+  - Choose the natural pattern after prefer, hope or want.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Feelings, then wait for an English answer.
+  - Make one sentence with prefer ... to ... and one with want somebody to ...
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Feelings.
+  - What do you prefer doing after work?
+related:
+  - vocabulary.health-illness
+  - vocabulary.conversation-expressions

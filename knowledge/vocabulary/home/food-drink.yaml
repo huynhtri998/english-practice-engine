@@ -3,60 +3,64 @@ title: Food and Drink
 kind: vocabulary
 level: A1-A2
 category: vocabulary.home
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 10
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for food and drink, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [10]
+source_coverage: Unit 10 everyday food, fast food, fruit/vegetables, drinks and the source's countability warnings for bread and fruit are represented.
+core_concept: Learn common food/drink vocabulary together with basic countability and natural eating/drinking chunks.
+mental_model: Picture a meal or supermarket category and retrieve the whole food/drink phrase.
 key_items:
-- bread
-- rice
-- pasta
-- salt
-- pepper
-- meat
-- fish
-- vegetarian
-- hamburger
-- hot dog
-- pizza
-- chips
-- carrot
-- bean
-- potato
-- tomato
-- pea
-- onion
-- garlic
-- mushroom
-- apple
-- orange
-- banana
-- pear
-- grapes
-- strawberries
-- pineapple
-- tea
-- coffee
-- milk
-- fruit juice
-- mineral water
+  - bread
+  - rice
+  - pasta
+  - salt
+  - pepper
+  - meat
+  - fish
+  - hamburger
+  - hot dog
+  - pizza
+  - fish and chips
+  - carrots
+  - beans
+  - potatoes
+  - tomatoes
+  - peas
+  - onions
+  - garlic
+  - mushrooms
+  - apple
+  - pineapple
+  - orange
+  - banana
+  - pear
+  - strawberries
+  - grapes
+  - mineral water
+  - tea
+  - coffee
+  - milk
+  - fruit juice
 collocations:
-- some bread
-- eat meat/fish
-- take sugar in tea/coffee
+  - some bread
+  - eat meat/fish
+  - put salt on food
+  - take sugar in tea or coffee
+  - fruit and vegetables
 common_mistakes:
-- 'Bread and fruit are normally uncountable in the basic meanings taught here: some bread, fruit.'
+  - Say "some bread" or a piece/slice of bread, not "a bread" for the ordinary uncountable use taught here.
+  - Fruit is treated as singular/uncountable in the unit's general statement pattern: "I love fruit".
+examples:
+  - I usually have rice and vegetables for lunch.
+  - Do you take sugar in your coffee?
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Food and Drink; do not copy the source exercise.
+  - Choose the natural countability pattern for bread or fruit in a fresh sentence.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Food and Drink, then wait for an English
-  answer.
+  - Describe a simple meal using at least four unit words.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Food and Drink.
+  - What do you usually eat for lunch?
+related:
+  - vocabulary.kitchen
+  - vocabulary.eating-out
+  - vocabulary.uncountable-nouns
