@@ -1,0 +1,20 @@
+# Copyrighted/private source material
+sources/files/
+*.pdf
+*.epub
+
+# Real personal learning state
+user-data/progress.yaml
+user-data/mistakes.yaml
+user-data/review-queue.yaml
+user-data/private/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store

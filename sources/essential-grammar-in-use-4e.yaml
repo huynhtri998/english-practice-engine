@@ -1,0 +1,18 @@
+id: egiu-4e
+title: Essential Grammar in Use
+author: Raymond Murphy
+edition: 4
+publisher: Cambridge University Press
+year: 2015
+type: grammar
+level: elementary
+units: 115
+
+storage:
+  committed_to_git: false
+  expected_location: chatgpt-project-source
+
+notes:
+  - Source is used as a grammar reference and syllabus input.
+  - Explanations in the knowledge layer must be paraphrased.
+  - Practice items should be original rather than copied from the book.

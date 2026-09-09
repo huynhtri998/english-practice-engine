@@ -1,0 +1,20 @@
+id: eviu-elementary-3e
+title: "English Vocabulary in Use: Elementary"
+authors:
+  - Michael McCarthy
+  - Felicity O'Dell
+edition: 3
+publisher: Cambridge University Press
+year: 2017
+type: vocabulary
+level: A1-A2
+units: 60
+
+storage:
+  committed_to_git: false
+  expected_location: chatgpt-project-source
+
+notes:
+  - Source is registered now; detailed normalization is deferred until the grammar taxonomy is stable.
+  - Normalize useful words, phrases, collocations, common mistakes, and usage patterns into reusable vocabulary KUs.
+  - Explanations and practice items in the repository must be original/paraphrased rather than copied from the book.

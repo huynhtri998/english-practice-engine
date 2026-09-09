@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/review-state.schema.json",
+  "title": "Knowledge Review State",
+  "type": "object",
+  "required": ["knowledge_id", "mastery", "review"],
+  "properties": {
+    "knowledge_id": {"type": "string"},
+    "status": {"type": "string", "enum": ["new", "learning", "active", "maintenance"]},
+    "mastery": {
+      "type": "object",
+      "required": ["recognition", "production", "speaking"],
+      "properties": {
+        "recognition": {"type": "number", "minimum": 0, "maximum": 1},
+        "production": {"type": "number", "minimum": 0, "maximum": 1},
+        "speaking": {"type": "number", "minimum": 0, "maximum": 1}
+      },
+      "additionalProperties": false
+    },
+    "review": {
+      "type": "object",
+      "properties": {
+        "last_review": {"type": ["string", "null"], "format": "date"},
+        "next_review": {"type": ["string", "null"], "format": "date"},
+        "interval_days": {"type": "integer", "minimum": 0}
+      },
+      "additionalProperties": false
+    },
+    "mistakes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["type", "count"],
+        "properties": {
+          "type": {"type": "string"},
+          "count": {"type": "integer", "minimum": 1},
+          "note": {"type": "string"}
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

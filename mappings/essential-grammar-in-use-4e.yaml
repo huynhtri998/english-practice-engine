@@ -1,0 +1,39 @@
+book: egiu-4e
+status: draft
+
+# Keep source labels short. Do not copy source explanations or exercises here.
+units:
+  1:
+    source_label: be — statements
+    knowledge:
+      - grammar.be
+  2:
+    source_label: be — questions
+    knowledge:
+      - grammar.be.questions
+  3:
+    source_label: present continuous — statements
+    knowledge:
+      - grammar.present-continuous
+  4:
+    source_label: present continuous — questions
+    knowledge:
+      - grammar.present-continuous.questions
+  5:
+    source_label: present simple — statements
+    knowledge:
+      - grammar.present-simple
+  6:
+    source_label: present simple — negatives
+    knowledge:
+      - grammar.present-simple.negative
+  7:
+    source_label: present simple — questions
+    knowledge:
+      - grammar.present-simple.questions
+  8:
+    source_label: present continuous vs present simple
+    knowledge:
+      - grammar.present-simple-vs-continuous
+
+# TODO: continue mapping units 9–115 after the canonical KU taxonomy is reviewed.

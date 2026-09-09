@@ -1,0 +1,17 @@
+knowledge_id: grammar.present-continuous
+status: active
+
+mastery:
+  recognition: 0.90
+  production: 0.75
+  speaking: 0.60
+
+review:
+  last_review: null
+  next_review: null
+  interval_days: 1
+
+mistakes:
+  - type: missing-auxiliary-be
+    count: 1
+    note: Example only; do not store real learner history in this tracked file.

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/knowledge-unit.schema.json",
+  "title": "Knowledge Unit",
+  "type": "object",
+  "required": ["id", "title", "level", "category", "source_refs", "core_concept"],
+  "properties": {
+    "id": {"type": "string", "minLength": 1},
+    "title": {"type": "string", "minLength": 1},
+    "level": {"type": "string"},
+    "category": {"type": "string"},
+    "source_refs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source"],
+        "properties": {
+          "source": {"type": "string"},
+          "units": {
+            "type": "array",
+            "items": {"type": "integer", "minimum": 1}
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "prerequisites": {"type": "array", "items": {"type": "string"}},
+    "related": {"type": "array", "items": {"type": "string"}},
+    "core_concept": {"type": ["string", "array"]},
+    "mental_model": {"type": ["string", "array"]},
+    "forms": {"type": ["object", "array", "string"]},
+    "usage": {"type": ["object", "array", "string"]},
+    "contrasts": {"type": ["object", "array", "string"]},
+    "common_mistakes": {"type": "array", "items": {"type": "string"}},
+    "examples": {"type": "array", "items": {"type": "string"}},
+    "recognition_drills": {"type": "array"},
+    "production_drills": {"type": "array"},
+    "speaking_drills": {"type": "array"}
+  },
+  "additionalProperties": true
+}
