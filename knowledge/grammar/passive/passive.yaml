@@ -1,28 +1,41 @@
 id: grammar.passive
-title: Passive Voice
+title: Passive
 kind: grammar
 level: elementary
 category: grammar.passive
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 21
-  - 22
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use be + past participle when the focus is on the action/result or receiver rather than the doer;
-  the be form carries the tense.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Passive Voice distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Passive Voice; add a negative/question transformation when that
-  form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Passive Voice without naming the grammar point
-  in the question.
+  - source: egiu-4e
+    units: [21, 22]
+source_coverage: Units 21-22 cover passive forms with present/past simple, present continuous and present perfect, plus by-agents and was/were born; source exercises remain in the book.
+core_concept: Build the passive with a form of be + past participle when the sentence focuses on what happens to the subject rather than on who performs the action.
+mental_model: Move the receiver/result into subject position, then choose the tense on be and keep the lexical verb as a past participle.
 forms:
-  form: appropriate form of be + past participle
+  present_simple: am/is/are + past participle
+  past_simple: was/were + past participle
+  present_continuous: am/is/are + being + past participle
+  present_perfect: have/has + been + past participle
+usage:
+  - describe processes or facts when the doer is not central
+  - describe a past event in passive form
+  - describe something currently being done
+  - describe something that has already been done
+  - add by + agent when the doer matters
+common_mistakes:
+  - Use the past participle after be, not the past-simple form when they differ.
+  - For birth, use was/were born for a past birth.
+  - Keep the tense on the auxiliary sequence, for example "is being tested" and "has been tested".
+examples:
+  - The service is monitored every day.
+  - The issue was fixed yesterday.
+  - The database is being upgraded now.
+  - The release has been approved.
+recognition_drills:
+  - Identify the tense and passive structure in four original passive sentences.
+production_drills:
+  - Rewrite an active deployment sentence in the passive, then change it from present simple to present continuous.
+speaking_drills:
+  - How is code reviewed on your team?
+related:
+  - grammar.verb-forms-regular-irregular
+  - grammar.auxiliaries-be-have-do

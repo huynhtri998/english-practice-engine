@@ -3,27 +3,35 @@ title: Be Going To
 kind: grammar
 level: elementary
 category: grammar.future
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 26
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use be going to + base verb for plans/intentions and for predictions based on present evidence.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Be Going To distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Be Going To; add a negative/question transformation when that
-  form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Be Going To without naming the grammar point in
-  the question.
+  - source: egiu-4e
+    units: [26]
+source_coverage: Unit 26 covers going to for decided intentions and for predictions based on present evidence.
+core_concept: Use am/is/are going to + base verb for an intention already decided or for a future event that current evidence makes likely/clear.
+mental_model: Decision already in your head, or evidence already in front of you -> going to.
 forms:
-  form: subject + am/is/are going to + base verb
+  affirmative: subject + am/is/are + going to + base verb
+  negative: subject + am/is/are + not + going to + base verb
+  question: Am/Is/Are + subject + going to + base verb?
+usage:
+  - intention or decision made before speaking
+  - prediction from visible/current evidence
+contrasts:
+  present_continuous: commonly used for an arrangement with practical organisation
+  will: Unit 28 contrasts spontaneous decisions with prior decisions/plans
+common_mistakes:
+  - Keep am/is/are before going to.
+  - Use the base verb after to.
+examples:
+  - I'm going to study English tonight.
+  - Look at those logs; the disk is going to fill up soon.
+recognition_drills:
+  - Identify whether a going-to sentence expresses an intention or evidence-based prediction.
+production_drills:
+  - Make one sentence about a decision you have already made and one prediction from visible evidence.
+speaking_drills:
+  - What are you going to do this weekend?
 related:
-- grammar.future-present-continuous-arrangements
-- grammar.future-will-shall
+  - grammar.future-present-continuous-arrangements
+  - grammar.future-will-shall

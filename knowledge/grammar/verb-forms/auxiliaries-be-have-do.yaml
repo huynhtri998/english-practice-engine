@@ -1,24 +1,42 @@
 id: grammar.auxiliaries-be-have-do
-title: Be, Have and Do Across Tenses
+title: Be, Have and Do in Tense Forms
 kind: grammar
 level: elementary
 category: grammar.verb-forms
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 23
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Recognize and form common present and past forms of be, have and do, which also act as important auxiliaries.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [23]
+source_coverage: Unit 23 consolidates be/have/do across present continuous, past continuous, passive, present perfect and simple-tense question/negative patterns.
+core_concept: Be, have and do act as structural helpers in different tense patterns: be supports continuous/passive forms, have supports perfect forms, and do supports simple-tense questions/negatives.
+mental_model: First identify the tense pattern, then retrieve the helper verb that carries grammar for that pattern.
+forms:
+  be_continuous:
+    - am/is/are + -ing
+    - was/were + -ing
+  be_passive:
+    - am/is/are + past participle
+    - was/were + past participle
+  have_perfect: have/has + past participle
+  do_simple:
+    - do/does + base verb for present questions
+    - don't/doesn't + base verb for present negatives
+    - did/didn't + base verb for past questions/negatives
+common_mistakes:
+  - Do not add do to a be-question such as "Are you working?"
+  - After do/does/did, use the base verb.
+  - Distinguish have as a main verb from have as the perfect auxiliary.
+examples:
+  - Are you working today?
+  - Has the build finished?
+  - Did the job fail?
 recognition_drills:
-- Generate two original sentences that differ on the main Be, Have and Do Across Tenses distinction and ask the
-  learner to choose the natural/correct one.
+  - For each sentence, identify whether be, have or do is carrying the grammar pattern.
 production_drills:
-- Ask for one original sentence that demonstrates Be, Have and Do Across Tenses; add a negative/question transformation
-  when that form is relevant.
+  - Turn one affirmative sentence into a question using the correct auxiliary.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Be, Have and Do Across Tenses without naming the
-  grammar point in the question.
+  - Have you finished your work, and are you relaxing now?
+related:
+  - grammar.passive
+  - grammar.present-perfect
+  - grammar.past-simple

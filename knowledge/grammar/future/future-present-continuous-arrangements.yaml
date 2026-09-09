@@ -3,26 +3,35 @@ title: Present Continuous for Future Arrangements
 kind: grammar
 level: elementary
 category: grammar.future
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 25
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use the present continuous with future time expressions for personal arrangements that are already
-  planned.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [25]
+source_coverage: Unit 25 covers present continuous for arranged future plans and contrasts it with present simple for timetables/programmes.
+core_concept: Use present continuous for a future arrangement that has already been organised; use present simple for fixed timetables and programmes.
+mental_model: Person's arranged plan -> present continuous; timetable/system schedule -> present simple.
+forms:
+  arrangement: am/is/are + verb-ing + future time
+  timetable: present simple + future time
+usage:
+  - appointments, meetings and arranged social plans
+  - questions about somebody's arranged plans
+contrasts:
+  present_continuous: arranged personal plan
+  present_simple: timetable, programme, train/bus schedule
+common_mistakes:
+  - Do not use ordinary present simple for a personal arrangement in the source contrast.
+  - Do not assume every future sentence needs will.
+examples:
+  - I'm meeting the team tomorrow morning.
+  - The train leaves at 7:30.
 recognition_drills:
-- Generate two original sentences that differ on the main Present Continuous for Future Arrangements distinction
-  and ask the learner to choose the natural/correct one.
+  - Choose between present continuous and present simple for an appointment versus a timetable.
 production_drills:
-- Ask for one original sentence that demonstrates Present Continuous for Future Arrangements; add a negative/question
-  transformation when that form is relevant.
+  - Say one arranged plan for tomorrow and one scheduled event using the appropriate form.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Present Continuous for Future Arrangements without
-  naming the grammar point in the question.
+  - What are you doing tomorrow evening?
 related:
-- grammar.future-going-to
-- grammar.future-will-shall
+  - grammar.future-going-to
+  - grammar.future-will-shall
+  - grammar.present-continuous

@@ -2,26 +2,37 @@ id: grammar.modal-can-could
 title: Can and Could
 kind: grammar
 level: elementary
-category: grammar.modals-imperatives
-status: normalized-core
+category: grammar.modals
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 30
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use can for present ability/possibility/permission and could for past ability or more tentative/polite
-  uses.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Can and Could distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Can and Could; add a negative/question transformation when that
-  form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Can and Could without naming the grammar point
-  in the question.
+  - source: egiu-4e
+    units: [30]
+source_coverage: Unit 30 practices can/can't for present ability/possibility, could/couldn't for past ability/possibility, and Can/Could ...? for requests.
+core_concept: Use can + base verb for present ability or possibility and could + base verb for the corresponding past meaning; Can/Could questions can also make requests.
+mental_model: Ability/possibility now -> can; ability/possibility in the past -> could; request -> Can/Could you...?
 forms:
-  form: subject + can/could + base verb
+  present: can/can't + base verb
+  past: could/couldn't + base verb
+  request:
+    - Can you + base verb ...?
+    - Could you + base verb ...?
+usage:
+  - ability
+  - possibility/perception such as can see/hear/find
+  - polite requests with can/could
+common_mistakes:
+  - Use the base verb directly after can/could; do not add to.
+  - Can/could do not take do/does/did in their own questions or negatives.
+examples:
+  - I can read technical English quite well.
+  - I couldn't understand that accent before.
+  - Could you repeat that, please?
+recognition_drills:
+  - Choose can, can't, could or couldn't for a present/past ability context.
+production_drills:
+  - Make one sentence about something you can do now and something you couldn't do before.
+speaking_drills:
+  - What can you do in English now that you couldn't do a year ago?
+related:
+  - grammar.modal-might
+  - grammar.modal-should

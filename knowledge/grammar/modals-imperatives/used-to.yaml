@@ -2,25 +2,35 @@ id: grammar.used-to
 title: Used To
 kind: grammar
 level: elementary
-category: grammar.modals-imperatives
-status: normalized-core
+category: grammar.modals
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 36
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use used to + base verb for past habits or states that are no longer true now.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Used To distinction and ask the learner to choose the
-  natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Used To; add a negative/question transformation when that form
-  is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Used To without naming the grammar point in the
-  question.
+  - source: egiu-4e
+    units: [36]
+source_coverage: Unit 36 covers used to + base verb for a past state/habit that is no longer true, plus didn't use to and Did ... use to ...?; it explicitly distinguishes present usually from used to.
+core_concept: Use used to + base verb for a past habit or state that was true before but is not true now.
+mental_model: Old normal -> changed now.
 forms:
-  form: used to + base verb
+  affirmative: used to + base verb
+  negative: didn't use to + base verb
+  question: Did + subject + use to + base verb?
+usage:
+  - repeated past habits that have changed
+  - past states that are no longer true
+contrasts:
+  present_habit: use present simple/frequency words such as usually for a current routine, not use to
+common_mistakes:
+  - After did/didn't, write use to in the source pattern.
+  - Do not use "I use to" for a present habit.
+examples:
+  - I used to translate sentences in my head more often.
+  - I didn't use to practise speaking every day.
+recognition_drills:
+  - Choose used to or usually for a changed past habit versus a current routine.
+production_drills:
+  - Make one sentence about an old habit that is different now.
+speaking_drills:
+  - What did you use to do differently when you first learned English?
+related:
+  - grammar.past-simple
+  - grammar.frequency-adverbs

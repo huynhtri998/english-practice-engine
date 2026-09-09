@@ -2,24 +2,36 @@ id: grammar.modal-might
 title: Might
 kind: grammar
 level: elementary
-category: grammar.modals-imperatives
-status: normalized-core
+category: grammar.modals
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 29
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use might + base verb when something is possible but uncertain.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Might distinction and ask the learner to choose the natural/correct
-  one.
-production_drills:
-- Ask for one original sentence that demonstrates Might; add a negative/question transformation when that form is
-  relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Might without naming the grammar point in the question.
+  - source: egiu-4e
+    units: [29]
+source_coverage: Unit 29 covers might/might not for future possibility, may as an equivalent possibility form, and distinguishes May I...? as permission.
+core_concept: Use might + base verb when something is possible but not certain; might not means it is possible that it will not happen.
+mental_model: Put the event in the "maybe" zone, below a sure plan.
 forms:
-  form: subject + might + base verb
+  affirmative: subject + might + base verb
+  negative: subject + might not + base verb
+usage:
+  - uncertain future possibility
+  - short reply "I might" when the omitted action is understood
+contrasts:
+  sure_plan: present continuous/going to can present something as much more certain
+  may: may can express the same possibility meaning in this unit
+  may_i: May I...? asks permission and is a different use
+common_mistakes:
+  - Use the base verb after might; do not add to.
+  - Do not treat might as a sure future plan.
+examples:
+  - I might study for another hour tonight.
+  - The deployment might not finish before midnight.
+recognition_drills:
+  - Choose between a sure arrangement and might for an uncertain possibility.
+production_drills:
+  - Make one might and one might not sentence about tomorrow.
+speaking_drills:
+  - What might you do this weekend?
+related:
+  - grammar.future-will-shall
+  - grammar.modal-can-could

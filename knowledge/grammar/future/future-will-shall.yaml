@@ -3,30 +3,41 @@ title: Will and Shall
 kind: grammar
 level: elementary
 category: grammar.future
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 27
-  - 28
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use will for future statements, predictions, decisions and offers; shall is used mainly with I/we
-  in a limited set of questions or suggestions at this level.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Will and Shall distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Will and Shall; add a negative/question transformation when that
-  form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Will and Shall without naming the grammar point
-  in the question.
+  - source: egiu-4e
+    units: [27, 28]
+source_coverage: Units 27-28 cover will/shall future uses, including predictions, offers/decisions at speaking time, I think I'll, and Shall I/shall we for suggestions/decisions.
+core_concept: Use will for future statements/predictions and, especially in Unit 28, for offers or decisions made at the moment of speaking; use Shall I/shall we to ask what is a good idea to do.
+mental_model: Prediction/statement about future, or decision made now -> will; ask for a shared next step -> shall I/we.
 forms:
-  form: subject + will + base verb
-  negative: won't + base verb
+  affirmative: subject + will + base verb
+  negative: subject + will not/won't + base verb
+  question: will + subject + base verb?
+  shall_patterns:
+    - Shall I + base verb?
+    - Shall we + base verb?
+usage:
+  - predictions and future statements
+  - offers
+  - decisions made while speaking
+  - I think I'll / I don't think I'll
+  - asking for a suggestion with Shall I/shall we
+contrasts:
+  prior_plan: use an arrangement/going-to pattern when the decision was made before, rather than spontaneous I'll in the Unit 28 contrast
+common_mistakes:
+  - Use the base verb after will/shall.
+  - Do not use spontaneous I'll for a plan already arranged when the source contrast calls for present continuous/going to.
+examples:
+  - I think I'll review one more unit tonight.
+  - I'll help you with that file.
+  - Shall we practise speaking now?
+recognition_drills:
+  - Decide whether a context is a spontaneous decision, prior plan or suggestion request.
+production_drills:
+  - Respond to a small problem with an offer using I'll, then make a Shall we...? suggestion.
+speaking_drills:
+  - You're tired but still have work left. What do you think you'll do?
 related:
-- grammar.future-going-to
-- grammar.future-present-continuous-arrangements
+  - grammar.future-going-to
+  - grammar.future-present-continuous-arrangements
