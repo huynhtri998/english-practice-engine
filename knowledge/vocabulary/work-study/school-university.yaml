@@ -1,59 +1,61 @@
 id: vocabulary.school-university
-title: School and University
+title: At School and University
 kind: vocabulary
 level: A1-A2
 category: vocabulary.work-study
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 15
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for school and university, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [15]
+source_coverage: Unit 15 subjects, classroom objects and study/exam/course/degree expressions are represented with the source's homework error warning.
+core_concept: Learn education vocabulary as subject + classroom item + study/exam action chunks.
+mental_model: What are you studying? What do you use? What result are you working toward?
 key_items:
-- English
-- maths
-- history
-- geography
-- biology
-- art
-- modern languages
-- PE
-- ICT
-- physics
-- music
-- chemistry
-- board
-- notebook
-- textbook
-- pencil
-- pen
-- ruler
-- computer
-- course
-- exam
-- degree
+  - English
+  - maths
+  - history
+  - geography
+  - biology
+  - art
+  - physics
+  - chemistry
+  - music
+  - PE
+  - ICT
+  - board
+  - noticeboard
+  - pencil
+  - notebook
+  - textbook
+  - ruler
+  - whiteboard
+  - computer
+  - course
+  - exam
+  - degree
 collocations:
-- teach/study maths
-- go to school
-- go to university
-- learn to read and write
-- do a course
-- take/do an exam
-- pass/fail an exam
-- get a degree
-- do homework
+  - teach maths
+  - study maths
+  - go to school
+  - go to university
+  - learn to read and write
+  - do a course
+  - take/do an exam
+  - pass an exam
+  - fail an exam
+  - get a degree
+  - do homework
 common_mistakes:
-- Say do homework, not make homework or homeworks.
+  - Say "do homework", not "make homework" and not "do homeworks".
+examples:
+  - I'm doing an English course.
+  - I hope to pass the exam and get a certificate.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for School and University; do not copy the source
-  exercise.
+  - Choose the natural verb with homework, course, exam and degree.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from School and University, then wait for an
-  English answer.
+  - Describe one course you have done and one exam you passed or failed.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from School and University.
+  - What subject did you enjoy most at school?
+related:
+  - vocabulary.jobs
+  - vocabulary.collocation.do-vs-make

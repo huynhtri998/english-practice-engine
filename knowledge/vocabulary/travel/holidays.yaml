@@ -3,43 +3,56 @@ title: Holidays
 kind: vocabulary
 level: A1-A2
 category: vocabulary.travel
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 18
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for holidays, with emphasis on natural combinations and
-  active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [18]
+source_coverage: Unit 18 covers types of holidays, transport, travel documents/money/luggage and basic holiday expressions.
+core_concept: Organise holiday vocabulary around type of trip, transport, what to take and what to do at the destination.
+mental_model: Plan the trip in four steps: holiday type -> transport -> essentials -> activities.
 key_items:
-- holiday
-- package holiday
-- winter holiday
-- camping
-- walking holiday
-- coach tour
-- passport
-- visa
-- ticket
-- currency
-- camera
-- luggage
-- suitcase
-- rucksack
-- nightlife
-- postcard
+  - holiday
+  - package holiday
+  - winter holiday
+  - camping
+  - walking holiday
+  - coach tour
+  - plane
+  - train
+  - car
+  - ferry
+  - coach
+  - passport
+  - visa
+  - ticket
+  - currency
+  - camera
+  - luggage
+  - suitcase
+  - rucksack
+  - local food
+  - nightlife
+  - postcard
 collocations:
-- be/go on holiday
-- go camping
-- by plane/train/car/ferry/coach
-- try the local food
-- have a great time
+  - be on holiday
+  - go on holiday
+  - go on a package holiday
+  - go camping
+  - go by ferry/train/plane
+  - take your passport
+  - try the local food
+  - enjoy the nightlife
+  - send a postcard
+  - Have a great time!
+examples:
+  - We're going on holiday by train this summer.
+  - Don't forget to take your passport and some currency.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Holidays; do not copy the source exercise.
+  - Sort holiday words into transport, documents, luggage and activities.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Holidays, then wait for an English answer.
+  - Plan a short holiday using at least five unit chunks.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Holidays.
+  - What kind of holiday do you enjoy most?
+related:
+  - vocabulary.travelling
+  - vocabulary.hotel

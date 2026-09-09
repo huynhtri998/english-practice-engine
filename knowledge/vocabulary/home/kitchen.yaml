@@ -3,53 +3,59 @@ title: In the Kitchen
 kind: vocabulary
 level: A1-A2
 category: vocabulary.home
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 11
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for in the kitchen, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [11]
+source_coverage: Unit 11 kitchen storage/appliances, cooking/eating objects and useful location/help questions are represented; the source picture and exercises remain in the book.
+core_concept: Retrieve kitchen vocabulary by function: storing food, cooking, eating/drinking and cleaning.
+mental_model: Ask "what do I need to do this kitchen task?" and retrieve the object together with its usual place/function.
 key_items:
-- fridge
-- freezer
-- cupboard
-- shelf
-- microwave
-- tap
-- worktop
-- sink
-- bin
-- washing machine
-- cooker
-- dishwasher
-- saucepan
-- frying pan
-- teapot
-- coffee maker
-- tea towel
-- washing-up liquid
-- plate
-- bowl
-- cup
-- mug
-- glass
-- knife
-- fork
-- spoon
-- chopsticks
+  - fridge
+  - freezer
+  - cupboard
+  - shelf
+  - cooker
+  - microwave
+  - worktop
+  - sink
+  - tap
+  - bin
+  - dishwasher
+  - washing machine
+  - saucepan
+  - frying pan
+  - coffee maker
+  - teapot
+  - plate
+  - bowl
+  - knife
+  - fork
+  - spoon
+  - glass
+  - cup
+  - mug
+  - tea towel
+  - washing-up liquid
 collocations:
-- do the washing-up
-- dry the plates
-- put it in the cupboard
+  - turn on the tap
+  - do the washing-up
+  - dry the plates with a tea towel
+  - Where can I find ...?
+  - Where does this ... go?
+  - Can I help with the washing-up/cooking?
+common_mistakes:
+  - A freezer is colder than a fridge.
+  - A tea towel is for drying dishes, not for making tea.
+examples:
+  - The milk is in the fridge on the bottom shelf.
+  - Can I help with the washing-up?
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for In the Kitchen; do not copy the source exercise.
+  - Choose the kitchen object needed for a cooking, drinking or cleaning task.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from In the Kitchen, then wait for an English
-  answer.
+  - Describe where three kitchen objects are using cupboard, shelf, worktop or fridge.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from In the Kitchen.
+  - What do you use most often in your kitchen?
+related:
+  - vocabulary.food-drink
+  - vocabulary.living-room

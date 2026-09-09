@@ -3,49 +3,54 @@ title: Communications
 kind: vocabulary
 level: A1-A2
 category: vocabulary.work-study
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 16
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for communications, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [16]
+source_coverage: Unit 16 letters, email/internet, telephone/mobile vocabulary and phone-message expressions are represented.
+core_concept: Learn communication vocabulary by channel: post, email/internet and phone/mobile.
+mental_model: Choose the channel, then retrieve the action/object chunk used with it.
 key_items:
-- address
-- stamp
-- envelope
-- letter
-- letter box
-- email
-- computer
-- screen
-- keyboard
-- mouse
-- laptop
-- memory stick
-- mobile device
-- mobile phone
-- phone box
-- phone number
-- voicemail
-- text message
+  - address
+  - stamp
+  - date
+  - envelope
+  - letter
+  - letter box
+  - computer screen
+  - keyboard
+  - mouse
+  - laptop
+  - memory stick
+  - email address
+  - mobile device
+  - phone number
+  - voicemail
+  - text message
 collocations:
-- put a stamp on an envelope
-- post a letter
-- send/get an email
-- make a phone call
-- leave a voicemail
-- send a text
-- call back
-- take a message
+  - put a stamp on an envelope
+  - post a letter
+  - get an email
+  - make a phone call
+  - phone somebody
+  - turn a smartphone off
+  - leave a voicemail
+  - send somebody a text
+  - Can I speak to ...?
+  - Can I take a message?
+  - call back later
+pronunciation_notes:
+  - Email addresses use at for @ and dot for . in the source model.
+  - Phone numbers may use oh for zero and double + digit for repeated digits.
+examples:
+  - I'll leave a voicemail and call back later.
+  - What's your email address?
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Communications; do not copy the source exercise.
+  - Match communication actions to letter, email or phone contexts.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Communications, then wait for an English
-  answer.
+  - Leave a short original phone message for a colleague.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Communications.
+  - How do you usually communicate with your team at work?
+related:
+  - vocabulary.phone
+  - vocabulary.say-tell-ask

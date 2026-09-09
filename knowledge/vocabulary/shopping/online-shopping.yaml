@@ -3,43 +3,47 @@ title: Online Shopping
 kind: vocabulary
 level: A1-A2
 category: vocabulary.shopping
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 20
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for online shopping, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [20]
+source_coverage: Unit 20 online-search/review/basket/payment/delivery workflow plus address, post code and order-number language are represented.
+core_concept: Learn online-shopping vocabulary as a process from search and reviews to basket, payment, order tracking and delivery.
+mental_model: Search -> compare/read reviews -> add to basket -> pay -> receive delivery.
 key_items:
-- search
-- product
-- review
-- basket
-- size
-- price
-- delivery
-- order
-- order number
-- delivery address
-- post code
-- checkout
-- credit card
+  - search
+  - price
+  - online review
+  - size
+  - basket
+  - delivery
+  - delivery address
+  - post code
+  - credit card
+  - order number
+  - next-day delivery
 collocations:
-- search for a product
-- read reviews
-- add to basket
-- delete an item
-- next-day delivery
-- pay by credit card
-- wait for delivery
+  - shop online
+  - search for the best price
+  - read online reviews
+  - add something to your basket
+  - delete something from your basket
+  - pay by/with credit card
+  - pay for delivery
+  - wait for a delivery
+  - choose next-day delivery
+common_mistakes:
+  - Use search for when looking for a product/price in the unit pattern.
+  - An order number identifies the order; a post code belongs to the delivery address.
+examples:
+  - I read the reviews before I added the headphones to my basket.
+  - What's your order number and delivery address?
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Online Shopping; do not copy the source exercise.
+  - Put the online-shopping actions in a natural order from search to delivery.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Online Shopping, then wait for an English
-  answer.
+  - Explain how you buy something online using at least five process chunks.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Online Shopping.
+  - Do you usually read reviews before you buy something online?
+related:
+  - vocabulary.shopping
+  - vocabulary.phone

@@ -3,45 +3,45 @@ title: Shops and Shopping
 kind: vocabulary
 level: A1-A2
 category: vocabulary.shopping
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 19
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for shops and shopping, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [19]
+source_coverage: Unit 19 shop types, department-store shopping, trying clothes, size/colour requests and payment/receipt/change language are represented.
+core_concept: Learn shopping vocabulary as a sequence: find the shop/item, try/choose it, then pay and handle the receipt/change.
+mental_model: Shopping journey from shelf to payment.
 key_items:
-- butcher
-- post office
-- supermarket
-- bookshop
-- baker
-- department store
-- chemist
-- newsagent
-- gift shop
-- size
-- colour
-- credit card
-- debit card
-- cash
-- change
-- receipt
-- carrier bag
+  - chemist's
+  - department store
+  - post office
+  - gift shop
+  - shop assistant
+  - size
+  - colour
+  - price
+  - cash
+  - credit card
+  - debit card
+  - change
+  - receipt
+  - carrier bag
 collocations:
-- try something on
-- a bigger/smaller size
-- pay by card/cash
-- How much does it cost?
-- I’ll take it.
+  - go shopping
+  - try something on
+  - a bigger/smaller size
+  - a different colour
+  - pay by credit/debit card
+  - pay in cash
+  - keep the receipt
+examples:
+  - Can I try this jacket on?
+  - Do you have this in a smaller size?
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Shops and Shopping; do not copy the source exercise.
+  - Choose the natural phrase for trying clothes, requesting size or paying.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Shops and Shopping, then wait for an English
-  answer.
+  - Role-play buying a piece of clothing and asking for a different size.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Shops and Shopping.
+  - Do you prefer paying by card or in cash?
+related:
+  - vocabulary.online-shopping
+  - vocabulary.clothes

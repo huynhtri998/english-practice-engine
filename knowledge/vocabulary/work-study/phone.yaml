@@ -3,46 +3,40 @@ title: Your Phone
 kind: vocabulary
 level: A1-A2
 category: vocabulary.work-study
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 17
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for your phone, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [17]
+source_coverage: Unit 17 phone vocabulary is represented around apps, screen/device controls, messages, photos/selfies and common phone actions; detailed source illustrations remain in the book.
+core_concept: Learn phone vocabulary as action chunks for controlling the device, using apps, messaging and managing photos/files.
+mental_model: What are you doing on the phone? Retrieve verb + phone object together.
 key_items:
-- camera
-- battery
-- screen
-- phone case
-- apps
-- power button
-- charger
-- SIM card
-- selfie
-- voicemail
-- message
-- PIN
-- swipe
-- save
-- delete
-- download
+  - app
+  - screen
+  - SIM card
+  - power button
+  - voicemail
+  - text
+  - selfie
+  - password
 collocations:
-- take a selfie
-- post a photo online
-- leave a voicemail
-- text somebody an address
-- download an app
-- unlock a phone
-- swipe the screen
-- save/delete photos
+  - download an app
+  - swipe the screen
+  - save a photo/file
+  - delete a photo/file
+  - take a selfie
+  - leave a voicemail
+  - send a text
+  - turn the phone on/off
+examples:
+  - I downloaded a new app yesterday.
+  - I deleted some old photos from my phone.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Your Phone; do not copy the source exercise.
+  - Choose the natural phone action: download, swipe, save, delete or take.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Your Phone, then wait for an English answer.
+  - Explain three things you did on your phone today using verb + object chunks.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Your Phone.
+  - Which apps do you use most on your phone?
+related:
+  - vocabulary.communications
+  - vocabulary.online-shopping
