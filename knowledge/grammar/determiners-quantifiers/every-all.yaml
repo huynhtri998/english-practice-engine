@@ -3,23 +3,27 @@ title: Every and All
 kind: grammar
 level: elementary
 category: grammar.determiners-quantifiers
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 80
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use every with a singular noun to consider members individually, and all with plural/uncountable nouns
-  to refer to the whole group/amount.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [80]
+source_coverage: Unit 80 every + singular noun, all + plural/uncountable noun, all day vs every day, and everybody/everything/everywhere are represented.
+core_concept: Every treats members individually and takes singular nouns; all refers to the whole set/amount and works with plural or uncountable nouns.
+mental_model: Each member one by one -> every; whole group/period -> all.
+forms:
+  every: every + singular noun
+  all: all + plural/uncountable noun
+usage:
+  - every day vs all day
+  - everybody/everyone/everything/everywhere take singular verb agreement in the source patterns
+common_mistakes:
+  - Say every student, not every students.
+examples:
+  - I review English every day.
+  - I studied almost all day yesterday.
 recognition_drills:
-- Generate two original sentences that differ on the main Every and All distinction and ask the learner to choose
-  the natural/correct one.
+  - Choose every/all and correct noun agreement.
 production_drills:
-- Ask for one original sentence that demonstrates Every and All; add a negative/question transformation when that
-  form is relevant.
+  - Contrast every day with all day in two original sentences.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Every and All without naming the grammar point
-  in the question.
+  - What do you do every day, and what did you do all day yesterday?

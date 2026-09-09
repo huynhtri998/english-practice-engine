@@ -3,32 +3,36 @@ title: Present Continuous
 kind: grammar
 level: elementary
 category: grammar.present
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 3
-  - 4
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use am/is/are + -ing for actions happening now or around the time of speaking; invert am/is/are for
-  questions.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Present Continuous distinction and ask the learner to
-  choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Present Continuous; add a negative/question transformation when
-  that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Present Continuous without naming the grammar point
-  in the question.
+  - source: egiu-4e
+    units: [3, 4, 8]
+source_coverage: Units 3-4 supply present continuous statements/questions and Unit 8 supplies the contrast with present simple.
+core_concept: Use am/is/are + verb-ing for an action happening now, at the time of speaking.
+mental_model: Put the action inside the current moment: it is in progress rather than a general habit or fact.
 forms:
-  form: subject + am/is/are + verb-ing
+  affirmative: subject + am/is/are + verb-ing
+  negative: subject + am/is/are + not + verb-ing
   question: am/is/are + subject + verb-ing?
+usage:
+  - action happening now
+  - ask what somebody is doing now
+contrasts:
+  present_simple: Present simple describes what is generally true or happens regularly; present continuous focuses on what is happening now.
+common_mistakes:
+  - Do not omit am/is/are before verb-ing.
+  - In questions, put am/is/are before the subject.
+  - Do not use the base verb after am/is/are when describing an action in progress.
+examples:
+  - I'm reviewing a pull request right now.
+  - The team isn't deploying at the moment.
+  - Are you working from home today?
+recognition_drills:
+  - Decide which sentence describes the current action: "I check logs every morning" or "I'm checking the logs now".
+production_drills:
+  - Say what you are doing now, then make the sentence negative.
+speaking_drills:
+  - What are you doing right now?
 related:
-- grammar.present-simple
-- grammar.present-simple-vs-continuous
-prerequisites:
-- grammar.be
+  - grammar.present-simple
+  - grammar.present-simple-vs-continuous

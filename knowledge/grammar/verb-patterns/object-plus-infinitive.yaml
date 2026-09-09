@@ -1,24 +1,34 @@
 id: grammar.object-plus-infinitive
-title: Object + To-infinitive
+title: Object + Infinitive Patterns
 kind: grammar
 level: elementary
 category: grammar.verb-patterns
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 53
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use verb + object + to-infinitive in patterns such as wanting, asking or telling someone to do something.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [53]
+source_coverage: Unit 53 patterns with want/tell/ask/advise/teach + person + to-infinitive, negative infinitives, and let/make + person + base verb are represented.
+core_concept: When one person wants, tells, asks or advises another person to act, put the person object before the infinitive; let and make use the base verb without to in the source pattern.
+mental_model: Controller verb -> person -> action.
+forms:
+  to_pattern: verb + person + to + base verb
+  negative: verb + person + not to + base verb
+  bare_pattern:
+    - let + person + base verb
+    - make + person + base verb
+common_mistakes:
+  - Say "I want you to listen", not "I want that you listen" in the source pattern.
+  - Do not add to after let or make in the source's bare-infinitive pattern.
+examples:
+  - I want you to check this file.
+  - She told me not to deploy yet.
+  - The bug made me rewrite the test.
 recognition_drills:
-- Generate two original sentences that differ on the main Object + To-infinitive distinction and ask the learner
-  to choose the natural/correct one.
+  - Choose whether the object is followed by to + verb or a bare verb after the target controller.
 production_drills:
-- Ask for one original sentence that demonstrates Object + To-infinitive; add a negative/question transformation
-  when that form is relevant.
+  - Make one want/tell/ask sentence and one let/make sentence.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Object + To-infinitive without naming the grammar
-  point in the question.
+  - What does your manager sometimes ask you to do?
+related:
+  - grammar.infinitive-vs-ing
+  - grammar.infinitive-purpose

@@ -1,27 +1,34 @@
 id: grammar.phrasal-verb-object-order
-title: Phrasal Verb Object Order
+title: Object Order with Phrasal Verbs
 kind: grammar
 level: elementary
 category: grammar.phrasal-verbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 115
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: With separable phrasal verbs, a noun object may often go before or after the particle, but an object
-  pronoun goes between the verb and particle.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [115]
+source_coverage: Unit 115 separable phrasal verbs with noun objects, obligatory pronoun placement, and common object phrasal verbs are represented.
+core_concept: With many separable phrasal verbs, a noun object can go after the particle or between verb and particle, but a pronoun object must go between them.
+mental_model: Noun object -> two positions may be possible; it/them -> always put the pronoun in the middle.
+forms:
+  noun_after: verb + particle + noun
+  noun_middle: verb + noun + particle
+  pronoun_middle: verb + pronoun + particle
+key_items:
+  - put on / take off
+  - turn on / turn off
+  - switch on / switch off
+  - pick up / put down
+  - bring back / take back / give back / put back
+common_mistakes:
+  - Say put it on and take them off, not put on it or take off them.
+examples:
+  - Turn the monitor off, or turn off the monitor; but turn it off.
+  - I picked the keys up and put them back.
 recognition_drills:
-- Generate two original sentences that differ on the main Phrasal Verb Object Order distinction and ask the learner
-  to choose the natural/correct one.
+  - Decide which noun-object orders are possible and correct pronoun placement errors.
 production_drills:
-- Ask for one original sentence that demonstrates Phrasal Verb Object Order; add a negative/question transformation
-  when that form is relevant.
+  - Rewrite noun-object phrasal verbs with pronouns.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Phrasal Verb Object Order without naming the grammar
-  point in the question.
-related:
-- vocabulary.phrasal-verbs-basic
+  - Give me three quick instructions using turn on/off, pick up or put back.
+related: [vocabulary.phrasal-verbs-basic]

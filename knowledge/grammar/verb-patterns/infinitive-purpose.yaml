@@ -1,26 +1,31 @@
 id: grammar.infinitive-purpose
-title: Infinitive of Purpose
+title: Infinitive for Purpose
 kind: grammar
 level: elementary
 category: grammar.verb-patterns
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 54
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use to + base verb to explain why someone does something.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Infinitive of Purpose distinction and ask the learner
-  to choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Infinitive of Purpose; add a negative/question transformation
-  when that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Infinitive of Purpose without naming the grammar
-  point in the question.
+  - source: egiu-4e
+    units: [54]
+source_coverage: Unit 54 uses to + base verb for purpose and contrasts it with for + noun and for + person/thing + to-infinitive patterns.
+core_concept: Use to + base verb to answer why an action is done; use for before a noun, and use for + person/thing + to-infinitive when naming who/what performs the infinitive action.
+mental_model: Purpose action -> to + verb; purpose thing/use -> for + noun.
 forms:
-  form: to + base verb
+  purpose: to + base verb
+  noun_purpose: for + noun
+  person_infinitive: for + person/thing + to + base verb
+common_mistakes:
+  - Do not say "for buy" when the purpose is an action; use "to buy".
+examples:
+  - I opened the logs to find the error.
+  - This tool is for testing APIs.
+  - I'm waiting for the build to finish.
+recognition_drills:
+  - Choose to + verb or for + noun in a fresh purpose context.
+production_drills:
+  - Explain why you use one work tool with an infinitive of purpose.
+speaking_drills:
+  - Why are you learning English?
+related:
+  - grammar.object-plus-infinitive
+  - grammar.how-long-does-it-take

@@ -1,25 +1,27 @@
 id: grammar.frequency-adverbs
-title: Frequency Adverbs
+title: Frequency Adverbs and Mid-position Adverbs
 kind: grammar
 level: elementary
 category: grammar.word-order
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 94
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: 'Place always/usually/often/sometimes/never in their usual position: generally before the main verb
-  but after be.'
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [94]
+source_coverage: Unit 94 always/usually/often/sometimes/rarely/never plus also/just/already/ever/still placement around auxiliaries and be is represented.
+core_concept: Many short adverbs sit before the main verb but after be; with auxiliaries, they normally follow the first auxiliary.
+mental_model: Find the verb group: be -> adverb after be; ordinary main verb -> adverb before it; auxiliary + main -> adverb after auxiliary.
+forms:
+  main_verb: subject + adverb + main verb
+  be: subject + be + adverb
+  auxiliary: subject + auxiliary + adverb + main verb
+common_mistakes:
+  - Say I usually finish at five, but I am usually home by six.
+examples:
+  - I usually review English after work.
+  - I can never remember that preposition quickly.
 recognition_drills:
-- Generate two original sentences that differ on the main Frequency Adverbs distinction and ask the learner to choose
-  the natural/correct one.
+  - Move adverbs to the natural mid-position.
 production_drills:
-- Ask for one original sentence that demonstrates Frequency Adverbs; add a negative/question transformation when
-  that form is relevant.
+  - Answer routine questions using five different frequency adverbs.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Frequency Adverbs without naming the grammar point
-  in the question.
+  - What do you usually do after work, and what do you rarely do?

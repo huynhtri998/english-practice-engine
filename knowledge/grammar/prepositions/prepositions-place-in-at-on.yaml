@@ -1,26 +1,29 @@
 id: grammar.prepositions-place-in-at-on
-title: 'Place Prepositions: In, At, On'
+title: In, At and On for Place
 kind: grammar
 level: elementary
 category: grammar.prepositions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 106
-  - 107
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use in, at and on for common location patterns; the choice depends on whether the place is viewed
-  as an area/container, a point/event, or a surface/line.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [106, 107]
+source_coverage: Units 106-107 core container/area, point/event/institution, surface/transport/floor patterns and common fixed place expressions are represented.
+core_concept: In commonly places something inside an area/container, at treats a location as a point/activity place, and on places something on a surface/line or certain public transport/floors.
+mental_model: Inside area/container -> in; point/event/activity location -> at; surface/line/public transport layer -> on.
+usage:
+  - in a room/city/country, in bed/hospital/the sky/a photo/a car
+  - at home/work/school/university/station/airport/a person's house/event
+  - on a wall/floor/shelf, on a bus/train/plane/ship, on a floor, on the way
+  - in and at can both be possible for some buildings depending on viewpoint
+common_mistakes:
+  - Learn common place chunks as units because literal physical logic does not explain every fixed pattern.
+  - Distinguish in a car/taxi from on a bus/train/plane in the source patterns.
+examples:
+  - I met her at the station and we talked on the train.
+  - My laptop is on the desk in the living room.
 recognition_drills:
-- 'Generate two original sentences that differ on the main Place Prepositions: In, At, On distinction and ask the
-  learner to choose the natural/correct one.'
+  - Choose in/at/on for a mix of containers, events, institutions, surfaces and transport.
 production_drills:
-- 'Ask for one original sentence that demonstrates Place Prepositions: In, At, On; add a negative/question transformation
-  when that form is relevant.'
+  - Describe where five objects/people are using varied place patterns.
 speaking_drills:
-- 'Ask one short everyday or work question that naturally elicits Place Prepositions: In, At, On without naming
-  the grammar point in the question.'
+  - Where do you usually work, and where is your computer when you work at home?

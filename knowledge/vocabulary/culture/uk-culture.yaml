@@ -3,48 +3,43 @@ title: UK Culture
 kind: vocabulary
 level: A1-A2
 category: vocabulary.culture
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 33
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for uk culture, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [33]
+source_coverage: Unit 33 special days, traditional food, school types and basic UK political/cultural vocabulary are represented.
+core_concept: Recognize everyday UK cultural vocabulary across festivals, food, education and public institutions.
+mental_model: Culture topic -> event/food/school/institution -> typical action or meaning.
 key_items:
-- Christmas
-- New Year’s Eve
-- New Year’s Day
-- Valentine’s Day
-- Easter
-- Halloween
-- Bonfire Night
-- bank holiday
-- fireworks
-- fish and chips
-- roast beef
-- Yorkshire pudding
-- nursery school
-- primary school
-- secondary school
-- state school
-- private school
-- royal family
-- Houses of Parliament
-- Prime Minister
+  - Christmas
+  - New Year's Eve
+  - Easter
+  - Halloween
+  - Bonfire Night
+  - bank holiday
+  - fireworks
+  - fish and chips
+  - roast beef
+  - Yorkshire pudding
+  - nursery school
+  - primary school
+  - secondary school
+  - state school
+  - private school
+  - royal family
+  - Houses of Parliament
+  - Prime Minister
 collocations:
-- send cards
-- give presents
-- decorate a Christmas tree
-- dress up
-- have a bonfire
-- go to school
+  - send cards
+  - give presents
+  - decorate a Christmas tree
+  - dress up
+  - have a bonfire
+examples:
+  - Bonfire Night is associated with bonfires and fireworks.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for UK Culture; do not copy the source exercise.
+  - Match cultural items to dates/actions/categories.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from UK Culture, then wait for an English answer.
+  - Compare one UK celebration with one celebration in Vietnam.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from UK Culture.
+  - Which UK tradition would you most like to experience?

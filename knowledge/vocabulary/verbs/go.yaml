@@ -3,49 +3,50 @@ title: 'Go: Core Uses and Collocations'
 kind: vocabulary
 level: A1-A2
 category: vocabulary.verbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 39
-- source: egiu-4e
-  units:
-  - 55
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core movement and activity patterns with go, including go + -ing and common place expressions.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [39]
+  - source: egiu-4e
+    units: [55]
+source_coverage: Both source units are represented: movement/place patterns, go + prepositions, go to/on/for chunks and go + -ing activities; exercises remain in the books.
+core_concept: Go combines with different complements depending on meaning: go to + place, go on + event/trip, go for + selected noun activities, and go + -ing for many leisure activities.
+mental_model: Learn the destination/activity as a whole chunk rather than adding one default preposition after go.
 key_items:
-- go to work
-- go by car
-- go in/into
-- go out of
-- go up/down
-- be going to
-- go shopping
-- go swimming
-- go dancing
-- go sightseeing
-- go skiing
-- go fishing
-- go home
-- go there
+  - go to work
+  - go to university
+  - go to the cinema
+  - go on holiday
+  - go on a trip/tour/cruise
+  - go for a walk
+  - go for a swim
+  - go shopping
+  - go swimming
+  - go dancing
+  - go sightseeing
+  - go skiing
+  - go fishing
+  - go home
+  - go there
+  - go in/into
+  - go out of
 collocations:
-- go + -ing for activities
-- go to + place
-- go home
-- go there
+  - go to + place
+  - go on + holiday/trip/tour/cruise
+  - go for + walk/swim
+  - go + -ing for activities
 common_mistakes:
-- Do not add to before home/there in these source patterns.
-- For activities such as swimming/shopping, use go + -ing rather than go to/for + -ing.
-related:
-- grammar.future-going-to
+  - Do not add to before home or there.
+  - For activities such as swimming or shopping, use go + -ing rather than go to/for + -ing.
+examples:
+  - I go to work by car, but I go home on foot sometimes.
+  - We went swimming and then went shopping.
 recognition_drills:
-- 'Create a fresh matching/choice item using the key vocabulary for Go: Core Uses and Collocations; do not copy
-  the source exercise.'
+  - Choose to, on, for or no preposition for a set of go-chunks.
 production_drills:
-- 'Give a short Vietnamese prompt that naturally requires vocabulary from Go: Core Uses and Collocations, then wait
-  for an English answer.'
+  - Describe three things you did last weekend using different go patterns.
 speaking_drills:
-- 'Ask one short personal question that naturally elicits two or more items from Go: Core Uses and Collocations.'
+  - Where do you like to go on holiday, and what do you like doing there?
+related:
+  - grammar.future-going-to
+  - vocabulary.holidays

@@ -3,51 +3,48 @@ title: Sports
 kind: vocabulary
 level: A1-A2
 category: vocabulary.leisure
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 23
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for sports, with emphasis on natural combinations and
-  active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [23]
+source_coverage: Unit 23 ball games, other popular sports, play/go/do patterns and common sports locations are represented.
+core_concept: Learn sport names together with the natural verb and place used with them.
+mental_model: Sport name is not enough: retrieve the whole chunk play/go/do + sport and, when useful, the typical place.
 key_items:
-- football
-- rugby
-- basketball
-- badminton
-- baseball
-- tennis
-- volleyball
-- table tennis
-- running
-- swimming
-- sailing
-- kayaking
-- judo
-- karate
-- skiing
-- snowboarding
-- horse racing
-- motor racing
-- court
-- pitch
-- swimming pool
-- sports centre
+  - football
+  - rugby
+  - basketball
+  - badminton
+  - baseball
+  - tennis
+  - volleyball
+  - table tennis
+  - running
+  - sailing
+  - swimming
+  - kayaking
+  - judo
+  - karate
+  - skiing
+  - snowboarding
 collocations:
-- play football/tennis
-- go running/swimming/skiing
-- do judo/karate
-- on a court
-- on a pitch
+  - play football / tennis / badminton
+  - go running / swimming / skiing / kayaking
+  - do judo / karate
+  - tennis court
+  - football pitch
+  - swimming pool
+  - sports centre
 common_mistakes:
-- Use play for ball games, go + -ing for many activities, and do for judo/karate.
+  - Use play with ball/racket games, go + -ing with many activity sports, and do with judo/karate in the source patterns.
+examples:
+  - I go running twice a week.
+  - She does judo at the sports centre.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Sports; do not copy the source exercise.
+  - Choose play, go or do for a mixed list of sports.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Sports, then wait for an English answer.
+  - Give the natural verb + sport chunk for six sports.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Sports.
+  - What sports do you do, and where do you do them?
+related:
+  - vocabulary.verb.go

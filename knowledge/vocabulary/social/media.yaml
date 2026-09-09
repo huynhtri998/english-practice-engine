@@ -3,45 +3,41 @@ title: The Media
 kind: vocabulary
 level: A1-A2
 category: vocabulary.social
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 35
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for the media, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [35]
+source_coverage: Unit 35 TV/radio programmes, newspapers/magazines, adverts and media jobs are represented.
+core_concept: Talk about media types, programme genres, publications and people who create/report news.
+mental_model: Medium -> content type -> person -> viewing/reading habit.
 key_items:
-- news
-- soap opera
-- nature programme
-- documentary
-- talk show
-- cartoon
-- reality TV
-- sports programme
-- newspaper
-- magazine
-- advertisement/advert
-- interview
-- reporter
-- journalist
-- article
-- channel
+  - news
+  - soap opera
+  - nature programme
+  - documentary
+  - talk show
+  - cartoon
+  - reality TV
+  - sports programme
+  - newspaper
+  - magazine
+  - advert / advertisement
+  - interview
+  - reporter
+  - journalist
+  - channel
 collocations:
-- watch the news/TV
-- read a newspaper
-- write for a newspaper
-- change the channel
-- What’s on TV?
+  - watch TV online
+  - read newspapers online
+  - change the channel
+  - an interview with ...
 common_mistakes:
-- 'News is grammatically singular in the source pattern: the news is ..., not the news are.'
+  - The news takes singular agreement in the source: The news is on now.
+examples:
+  - I watched a documentary online last night.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for The Media; do not copy the source exercise.
+  - Match programme types to descriptions and media jobs to roles.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from The Media, then wait for an English answer.
+  - Describe your media habits using four source items.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from The Media.
+  - What's your favourite kind of TV or online programme?

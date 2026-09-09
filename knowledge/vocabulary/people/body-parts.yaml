@@ -3,53 +3,61 @@ title: Parts of the Body
 kind: vocabulary
 level: A1-A2
 category: vocabulary.people
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 3
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for parts of the body, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [3]
+source_coverage: Unit 3 head/face, limbs, main body areas, selected internal body words, pronunciation notes, irregular plurals and possessive usage are represented.
+core_concept: Learn body words together with their natural possessive patterns and irregular forms.
+mental_model: Name the body part, then attach it to a person with my/your/his/her when the context is personal.
 key_items:
-- hair
-- eye
-- ear
-- nose
-- mouth
-- tooth/teeth
-- neck
-- shoulder
-- arm
-- hand
-- finger
-- thumb
-- chest
-- stomach
-- back
-- waist
-- hip
-- leg
-- knee
-- foot/feet
-- toe
-- skin
-- heart
-- brain
-- blood
+  - hair
+  - eye
+  - ear
+  - nose
+  - mouth
+  - lip
+  - tooth/teeth
+  - neck
+  - shoulder
+  - arm
+  - hand
+  - finger
+  - thumb
+  - chest
+  - stomach
+  - back
+  - waist
+  - hip
+  - leg
+  - knee
+  - foot/feet
+  - toe
+  - skin
+  - heart
+  - brain
+  - blood
 collocations:
-- wash your hair
-- a pain in my leg
+  - wash your hair
+  - wash your face
+  - a pain in my leg
+pronunciation_notes:
+  - eye /aɪ/
+  - knee begins with a silent k
+  - stomach has the source-highlighted pronunciation /ˈstʌmək/
+  - foot /fʊt/ and tooth /tuːθ/
 common_mistakes:
-- 'Use possessives with body parts in normal personal contexts: my leg, her hair.'
-- Hair is normally singular as a mass noun; feet and teeth are irregular plurals.
+  - Usually use a possessive with a person's body part: "my leg", "her hair".
+  - Foot -> feet and tooth -> teeth are irregular plurals.
+  - Hair is treated as singular/mass in the source's ordinary description pattern.
+examples:
+  - My shoulder hurts after training.
+  - She has long hair and blue eyes.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Parts of the Body; do not copy the source exercise.
+  - Match a body part to its irregular plural or pronunciation clue.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Parts of the Body, then wait for an English
-  answer.
+  - Translate a sentence about pain or washing a body part using the correct possessive.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Parts of the Body.
+  - Which parts of your body get tired after a long day at the computer?
+related:
+  - vocabulary.health-illness

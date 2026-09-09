@@ -3,23 +3,27 @@ title: Adverbs
 kind: grammar
 level: elementary
 category: grammar.adjectives-adverbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 86
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use adverbs to describe how actions happen; many are formed with -ly, but some common forms are irregular
-  or unchanged.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [86]
+source_coverage: Unit 86 -ly adverbs, adjective/adverb contrast, hard/fast/late/early and good/well are represented.
+core_concept: Adverbs describe how actions happen; many are adjective + -ly, but several common forms are irregular or unchanged.
+mental_model: Describing a thing/person -> adjective; describing an action -> usually adverb.
+forms:
+  regular: adjective + -ly
+  unchanged: [hard, fast, late, early]
+  irregular: good -> well
+common_mistakes:
+  - Say work hard, not work hardly, for 'with effort'.
+  - Say speak English well, not speak English good.
+  - Well can also be an adjective meaning healthy.
+examples:
+  - The service started slowly but recovered quickly.
+  - She explained the issue very well.
 recognition_drills:
-- Generate two original sentences that differ on the main Adverbs distinction and ask the learner to choose the
-  natural/correct one.
+  - Choose adjective or adverb, including hard/fast/good/well cases.
 production_drills:
-- Ask for one original sentence that demonstrates Adverbs; add a negative/question transformation when that form
-  is relevant.
+  - Transform adjective prompts into natural action descriptions.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Adverbs without naming the grammar point in the
-  question.
+  - What is something you do well, and something you do slowly?

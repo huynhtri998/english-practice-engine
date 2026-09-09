@@ -3,54 +3,54 @@ title: Bedroom and Bathroom
 kind: vocabulary
 level: A1-A2
 category: vocabulary.home
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 12
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for bedroom and bathroom, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [12]
+source_coverage: Unit 12 bedroom/bathroom objects and everyday routines such as getting dressed, having a bath/shower and turning off the light are represented.
+core_concept: Learn bedroom and bathroom objects together with the routines performed with them.
+mental_model: Room -> object -> routine.
 key_items:
-- bed
-- bedside lamp
-- alarm clock
-- pyjamas
-- dressing table
-- chest of drawers
-- mirror
-- wardrobe
-- bedside table
-- hairbrush
-- comb
-- toothpaste
-- toothbrush
-- soap
-- basin
-- razor
-- toilet
-- towel
-- shower
-- shampoo
-- shower gel
+  - bed
+  - wardrobe
+  - mirror
+  - hairbrush
+  - comb
+  - bedside lamp
+  - bedside table
+  - alarm clock
+  - chest of drawers
+  - dressing table
+  - pyjamas
+  - bath
+  - shower
+  - toilet
+  - basin
+  - soap
+  - shower gel
+  - shampoo
+  - toothbrush
+  - toothpaste
+  - razor
 collocations:
-- go to bed
-- get undressed
-- get into bed
-- fall asleep
-- wake up
-- get up
-- have a shower
-- clean your teeth
-- get dressed
+  - get dressed
+  - get undressed
+  - have a bath
+  - have a shower
+  - wash your face
+  - clean your teeth
+  - turn off the light
+  - wake up
+  - get up
+examples:
+  - My alarm clock is on the bedside table.
+  - I usually have a shower before I get dressed.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Bedroom and Bathroom; do not copy the source
-  exercise.
+  - Match an everyday routine to the bedroom/bathroom object normally used.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Bedroom and Bathroom, then wait for an
-  English answer.
+  - Describe your morning routine using at least four unit chunks.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Bedroom and Bathroom.
+  - What do you usually do first after you wake up?
+related:
+  - vocabulary.everyday-actions
+  - vocabulary.clothes

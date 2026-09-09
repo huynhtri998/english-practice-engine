@@ -2,33 +2,34 @@
 
 ## Sources
 
-| Source | Units mapped | Canonical contribution |
-| --- | ---: | ---: |
-| Essential Grammar in Use, 4e | 115 / 115 | 99 KU targets |
-| English Vocabulary in Use: Elementary, 3e | 60 / 60 | 59 KU targets |
+| Source | Units mapped | Units expanded | Canonical contribution |
+| --- | ---: | ---: | ---: |
+| Essential Grammar in Use, 4e | 115 / 115 | 115 / 115 | 99 KU targets |
+| English Vocabulary in Use: Elementary, 3e | 60 / 60 | 60 / 60 | 59 KU targets |
 
 After cross-book merging, the repository contains **153 canonical Knowledge Units**:
 
 - 94 grammar KUs
 - 59 vocabulary KUs
+- 153 / 153 KUs at `expanded` maturity
 
-## Meaning of `normalized-core`
+## Migration maturity
 
-The initial migration is intentionally a normalized core, not a copy of the books.
+### `normalized-core`
 
-Each KU:
+The canonical concept exists, points back to source units, and contains reusable paraphrased knowledge plus practice hooks.
 
-- points back to source unit numbers
-- stores the reusable concept or lexical inventory needed for retrieval
-- uses paraphrased explanations
-- includes original practice-generation hooks
-- avoids copying source exercise sets, answer keys, or long passages
+### `expanded`
 
-The source PDFs in the ChatGPT Project remain the detailed reference for deeper explanations, pronunciation detail, illustrations, and source exercises.
+Important distinctions from the referenced source units have been represented in reusable form, including relevant forms, usage, contrasts, collocations, common mistakes, and original practice material.
+
+The source-grounded expansion migration for both registered books is complete.
+
+The source PDFs in the ChatGPT Project remain the detailed reference for deeper explanations, pronunciation detail, illustrations, and source exercises. The repository does not copy exercise sets, answer keys, or long passages.
 
 ## Cross-book merges
 
-The first migration already merges overlapping material into shared KUs:
+Overlapping source material is intentionally normalized into shared KUs, including:
 
 - `vocabulary.verb.go`
 - `vocabulary.verb.get`
@@ -37,3 +38,13 @@ The first migration already merges overlapping material into shared KUs:
 - `vocabulary.phrasal-verbs-basic`
 
 This is intentional: books are sources; KUs are the canonical knowledge model.
+
+## Next phase
+
+Knowledge migration is no longer the bottleneck. The next phase is the manual practice/review loop:
+
+1. select due and weak KUs
+2. test retrieval before explanation
+3. evaluate recognition, production, and speaking separately
+4. log mistakes in local/private review state
+5. schedule targeted re-tests and spaced review

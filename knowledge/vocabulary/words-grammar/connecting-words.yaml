@@ -3,46 +3,43 @@ title: Conjunctions and Connecting Words
 kind: vocabulary
 level: A1-A2
 category: vocabulary.words-grammar
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 50
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for conjunctions and connecting words, with emphasis
-  on natural combinations and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [50]
+source_coverage: Unit 50 basic conjunction meanings and the additional connecting words only, like, than, also, too and as well are represented.
+core_concept: Small connecting words encode addition, contrast, alternatives, reason, result, time, condition, limitation and comparison.
+mental_model: Before choosing the word, name the relationship between the two ideas.
 key_items:
-- and
-- but
-- or
-- because
-- so
-- when
-- before
-- after
-- if
-- only
-- like
-- than
-- also
-- too
-- as well
+  - and
+  - but
+  - or
+  - because
+  - so
+  - when
+  - before
+  - after
+  - if
+  - only
+  - like
+  - than
+  - also
+  - too
+  - as well
 collocations:
-- because + reason
-- so + result
-- before/after + event
-- if + condition
-- look like
-- comparative + than
-- also/too/as well for addition
+  - comparative + than
+  - look like
+  - also/too/as well for extra information
+  - because + reason
+  - so + result
+common_mistakes:
+  - Like introduces comparison here; than follows comparative forms.
+  - Also, too and as well share an addition meaning but normally occupy different sentence positions.
+examples:
+  - I study English because I use it at work, and I practise speaking as well.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Conjunctions and Connecting Words; do not copy
-  the source exercise.
+  - Choose a connector by relationship and identify reason versus result.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Conjunctions and Connecting Words, then
-  wait for an English answer.
+  - Link six pairs of ideas with different source connectors.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Conjunctions and Connecting Words.
+  - Why are you learning English, and what else are you studying as well?

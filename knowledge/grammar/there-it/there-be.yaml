@@ -1,31 +1,45 @@
 id: grammar.there-be
-title: There Is / There Are
+title: There Is / There Are and Other Tenses
 kind: grammar
 level: elementary
 category: grammar.there-it
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 37
-  - 38
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use there + be to say that something exists or is present, with present, past, perfect and future
-  forms.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main There Is / There Are distinction and ask the learner to
-  choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates There Is / There Are; add a negative/question transformation when
-  that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits There Is / There Are without naming the grammar
-  point in the question.
+  - source: egiu-4e
+    units: [37, 38]
+source_coverage: Units 37-38 cover there is/are, past there was/were, present-perfect there has/have been and future there will be, including questions and negatives.
+core_concept: Use there + be to introduce or state the existence/presence of something, choosing the be-form for number and tense.
+mental_model: First answer "does/did/will this thing exist or occur?"; there is only the structural opener.
 forms:
-  present: there is/are
-  past: there was/were
-  perfect: there has/have been
+  present:
+    - there is / there isn't
+    - there are / there aren't
+  past:
+    - there was / there wasn't
+    - there were / there weren't
+  present_perfect:
+    - there has been
+    - there have been
   future: there will be
+usage:
+  - introduce something/somebody as existing or present
+  - talk about events/problems/changes that existed, have occurred or will occur
+contrasts:
+  there_is_vs_it_is: there is introduces existence; it is refers to a known thing/situation
+common_mistakes:
+  - Match is/are and was/were to singular/plural nouns.
+  - Do not replace existential there with it when introducing something new.
+examples:
+  - There's a new issue in the backlog.
+  - There were two failures yesterday.
+  - There have been several changes this week.
+  - There will be a review tomorrow.
+recognition_drills:
+  - Choose the correct there-be form for present, past, perfect and future contexts.
+production_drills:
+  - Describe one thing that exists now, one that happened yesterday and one future event.
+speaking_drills:
+  - Is there anything you want to improve in this project?
+related:
+  - grammar.it
+  - grammar.be

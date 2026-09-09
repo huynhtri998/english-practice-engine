@@ -3,48 +3,50 @@ title: In the Living Room
 kind: vocabulary
 level: A1-A2
 category: vocabulary.home
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 13
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for in the living room, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [13]
+source_coverage: Unit 13 living-room furniture/equipment and source-highlighted collocation/countability errors are represented.
+core_concept: Learn living-room objects together with the verbs naturally used with them.
+mental_model: Picture the room and retrieve object + action pairs.
 key_items:
-- bookshelf
-- light
-- window
-- curtains
-- picture
-- lamp
-- light switch
-- TV
-- hi-fi
-- sofa
-- table
-- socket
-- remote control
-- armchair
-- coffee table
-- rug
-- carpet
+  - bookshelf
+  - sofa
+  - coffee table
+  - picture
+  - light switch
+  - hi-fi
+  - carpet
+  - rug
+  - remote control
+  - lamp
+  - armchair
+  - curtains
+  - radio
+  - socket
+  - furniture
 collocations:
-- watch television
-- listen to the radio/music
-- close the curtains
-- switch/turn the light on
-- turn the radio off
-- pass the remote control
+  - switch on the TV
+  - relax in an armchair
+  - close the curtains
+  - pass the remote control
+  - listen to the radio
+  - watch television
 common_mistakes:
-- 'Furniture is uncountable: the furniture is ..., not the furniture are/furnitures.'
+  - Say "listen to the radio", not "listen the radio".
+  - Say "watch television/TV", not "watch at television".
+  - The plural is bookshelves, not bookshelfs.
+  - Furniture is uncountable in the unit pattern, not furnitures.
+examples:
+  - We need another bookshelf in the living room.
+  - Please close the curtains; it's dark outside.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for In the Living Room; do not copy the source exercise.
+  - Correct a fresh sentence containing a living-room collocation or countability error.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from In the Living Room, then wait for an English
-  answer.
+  - Describe a simple living room and what you do there.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from In the Living Room.
+  - What do you usually do in your living room?
+related:
+  - vocabulary.kitchen
+  - vocabulary.uncountable-nouns

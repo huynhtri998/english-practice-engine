@@ -18,7 +18,7 @@ Source books
     ↓
 Source metadata + mappings
     ↓
-Normalized Knowledge Units
+Canonical Knowledge Units
     ↓
 Practice generation
     ↓
@@ -36,7 +36,7 @@ english-practice-engine/
 ├── docs/          # Architecture, migration status, Project instructions
 ├── sources/       # Source metadata only; no copyrighted PDFs/EPUBs
 ├── mappings/      # Book unit → canonical knowledge mapping
-├── knowledge/     # Normalized grammar/vocabulary KUs + registry index
+├── knowledge/     # Grammar/vocabulary KUs + registry index
 ├── practice/      # Practice-format specifications
 ├── schemas/       # Machine-readable data contracts
 ├── prompts/       # Reusable practice prompts
@@ -51,7 +51,7 @@ english-practice-engine/
 - Raymond Murphy
 - Cambridge University Press, 2015
 - 115 / 115 units mapped
-- normalized into canonical grammar KUs, with shared lexical KUs where appropriate
+- 115 / 115 units source-grounded expanded
 
 ### Vocabulary
 
@@ -60,11 +60,14 @@ english-practice-engine/
 - Cambridge University Press, 2017
 - A1–A2
 - 60 / 60 units mapped
+- 60 / 60 units source-grounded expanded
 - normalized into 59 vocabulary KUs because Units 40–41 share the canonical `vocabulary.collocation.do-vs-make` KU
+
+Across both books the repository contains **153 canonical KUs: 94 grammar + 59 vocabulary**, all at `expanded` maturity.
 
 The source PDFs remain in the ChatGPT Project source library or another private location and are not committed to this repository.
 
-See `knowledge/index.yaml` and `docs/migration-status.md` for migration coverage.
+See `knowledge/index.yaml`, `docs/migration-status.md`, and `docs/migrations/source-grounded-expansion.yaml` for migration coverage.
 
 ## Core principles
 
@@ -78,14 +81,15 @@ See `knowledge/index.yaml` and `docs/migration-status.md` for migration coverage
 
 ## Current phase
 
-The initial `normalized-core` migration for both elementary books is complete. The next phase is to make the manual practice and review loop operational: generate sessions from due/weak KUs, evaluate answers, log mistakes locally, and re-test production/speaking weaknesses.
+Source-grounded knowledge migration for both elementary books is complete. The active phase is to make the manual practice/review loop operational: select due and weak KUs, test retrieval before explanation, evaluate recognition/production/speaking separately, log mistakes privately, and schedule targeted re-tests.
 
 ## Roadmap
 
 - [x] v0.1 — Repository scaffold and architecture
 - [x] v0.2 — Finalize Knowledge Unit schema
 - [x] v0.3 — Map Essential Grammar in Use units to canonical KUs
-- [x] v0.4 — Extract and normalize Essential grammar knowledge
+- [x] v0.4 — Normalize Essential Grammar in Use knowledge
+- [x] v0.4.1 — Source-grounded expand both registered books
 - [ ] v0.5 — Define and validate practice generators
 - [ ] v0.6 — Add spaced-repetition/review state workflow
 - [ ] v0.7 — Add speaking-reflex workflow

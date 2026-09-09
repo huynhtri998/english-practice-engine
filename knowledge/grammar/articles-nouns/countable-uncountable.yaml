@@ -3,26 +3,27 @@ title: Countable and Uncountable Nouns
 kind: grammar
 level: elementary
 category: grammar.articles-nouns
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 67
-  - 68
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Countable nouns can be singular/plural and take numbers; uncountable nouns are not normally plural
-  and use quantity expressions such as some or a ... of.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [67, 68]
+source_coverage: Units 67-68 countability, a/an vs some, quantity containers, dual-use nouns and common uncountables are represented.
+core_concept: Countable nouns can be counted and have singular/plural forms; uncountables normally use one mass form and not a/an.
+mental_model: Ask 'Can I count individual units directly?' If not, use a quantity/container expression when a unit is needed.
+forms:
+  singular_countable: a/an + noun
+  plural_countable: some/many + plural noun
+  uncountable: some/much + noun
+  measured_uncountable: a piece/bottle/cup/etc. of + noun
+common_mistakes:
+  - Source highlights advice, bread, furniture, hair, information, news, weather and work as usually uncountable.
+  - Say a job, but not a work for employment.
+examples:
+  - I need some information, not an information.
+  - We bought a loaf of bread and some cheese.
 recognition_drills:
-- Generate two original sentences that differ on the main Countable and Uncountable Nouns distinction and ask the
-  learner to choose the natural/correct one.
+  - Classify nouns and choose a/an, some or a quantity expression.
 production_drills:
-- Ask for one original sentence that demonstrates Countable and Uncountable Nouns; add a negative/question transformation
-  when that form is relevant.
+  - Correct six countability mistakes.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Countable and Uncountable Nouns without naming
-  the grammar point in the question.
-related:
-- vocabulary.uncountable-nouns
+  - Tell me what food and information you need for a trip.

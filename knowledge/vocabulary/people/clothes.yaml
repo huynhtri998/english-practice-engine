@@ -3,53 +3,51 @@ title: Clothes
 kind: vocabulary
 level: A1-A2
 category: vocabulary.people
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 4
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for clothes, with emphasis on natural combinations and
-  active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [4]
+source_coverage: Unit 4 common clothing items, body associations and get dressed/undressed and put on/take off patterns are represented.
+core_concept: Learn clothes as wearable sets and with the verbs used to describe wearing and changing clothes.
+mental_model: Item + body area + action: wear it, put it on, take it off.
 key_items:
-- hat
-- coat
-- jacket
-- scarf
-- gloves
-- shoes
-- trainers
-- boots
-- suit
-- T-shirt
-- dress
-- skirt
-- shirt
-- sweater/jumper
-- belt
-- tie
-- trousers
-- jeans
-- shorts
-- tights
-- glasses
-- pyjamas
+  - suit
+  - shirt
+  - tie
+  - T-shirt
+  - shorts
+  - trousers
+  - socks
+  - trainers
+  - belt
+  - jacket
+  - coat
+  - jumper
+  - skirt
+  - boots
+  - hat
+  - scarf
+  - gloves
+  - tights
+  - glasses
+  - watch
 collocations:
-- wear clothes
-- carry a bag
-- get dressed
-- put clothes on
-- take clothes off
-- a pair of trousers
+  - wear a coat
+  - put your clothes on
+  - take your clothes off
+  - get dressed
+  - get undressed
+  - a pair of glasses
 common_mistakes:
-- Use take clothes off, not put clothes off.
-- Plural-only clothing words such as trousers and jeans take plural agreement.
+  - Use wear for the state of having clothes on; use put on/take off for the change.
+examples:
+  - I'm wearing a black T-shirt and jeans.
+  - I took my coat off when I got home.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Clothes; do not copy the source exercise.
+  - Choose wear, put on or take off for a fresh clothing situation.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Clothes, then wait for an English answer.
+  - Describe what you are wearing now in one or two sentences.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Clothes.
+  - What do you usually wear to work?
+related:
+  - vocabulary.describing-people

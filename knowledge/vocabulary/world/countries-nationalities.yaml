@@ -3,49 +3,44 @@ title: Countries and Nationalities
 kind: vocabulary
 level: A1-A2
 category: vocabulary.world
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 27
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for countries and nationalities, with emphasis on natural
-  combinations and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [27]
+source_coverage: Unit 27 continents, sample countries, nationality adjective patterns and language links are represented.
+core_concept: Connect continent, country, nationality adjective and language, while preserving capitalization and irregular forms.
+mental_model: Place name -> people/adjective -> language; learn common ending patterns but store exceptions separately.
 key_items:
-- continent
-- country
-- North America
-- South America
-- Europe
-- Africa
-- Asia
-- Australia/Australasia
-- Antarctica
-- American
-- Brazilian
-- Canadian
-- German
-- Italian
-- British
-- English
-- Spanish
-- Chinese
-- Japanese
-- French
-- Thai
+  - North America
+  - South America
+  - Europe
+  - Asia
+  - Africa
+  - Australia
+  - Antarctica
+  - the UK
+  - the USA / the US
+  - Spain
+  - China
+  - Japan
+  - Thailand
+  - Brazil
+  - Morocco
 collocations:
-- come from a country
-- be + nationality
+  - the capital of ...
+  - speak Spanish / Portuguese / German / Arabic / Chinese
+  - American / Argentinian / Australian
+  - British / English / Polish / Spanish
+  - Chinese / Japanese / Portuguese
 common_mistakes:
-- Country, continent and nationality names begin with capital letters.
+  - Country, continent, nationality and language names begin with capital letters.
+  - Many languages use the same form as the nationality adjective, but Arabic is one source exception noted explicitly.
+examples:
+  - Madrid is the capital of Spain.
+  - In Brazil people speak Portuguese.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Countries and Nationalities; do not copy the
-  source exercise.
+  - Match countries to nationality/language forms and identify capitalization errors.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Countries and Nationalities, then wait
-  for an English answer.
+  - Give the country, nationality and main language for five familiar places.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Countries and Nationalities.
+  - Which countries have you visited, and what languages are spoken there?

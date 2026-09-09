@@ -1,45 +1,36 @@
 id: vocabulary.common-adjectives
-title: 'Common Adjectives: Good and Bad'
+title: Common Adjectives for Good and Bad Things
 kind: vocabulary
 level: A1-A2
 category: vocabulary.words-grammar
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 56
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: 'Core elementary vocabulary and useful chunks for common adjectives: good and bad, with emphasis on
-  natural combinations and active use.'
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [56]
+source_coverage: Unit 56 positive and negative adjective scales, spoken reactions, not bad and how + adjective reaction patterns are represented.
+core_concept: Build a small expressive scale beyond good/bad and use the adjectives in natural spoken reactions.
+mental_model: Positive/negative evaluation -> choose strength -> use as description or short reaction.
 key_items:
-- good
-- nice
-- lovely
-- great
-- wonderful
-- excellent
-- bad
-- dreadful
-- horrible
-- terrible
-- awful
-- perfect
-- not bad
+  - good / nice / lovely / great / wonderful / excellent
+  - bad / dreadful / horrible / terrible
+  - perfect
+  - awful
+  - not bad
 collocations:
-- a nice jacket
-- a lovely day
-- a great film
-- an excellent idea
-- terrible traffic
-- How awful!
+  - a wonderful view
+  - an excellent idea
+  - a terrible day
+  - dreadful weather / smell
+  - How nice! / How wonderful! / How lovely!
+  - How awful! / How horrible!
+common_mistakes:
+  - For a sympathetic negative reaction, the source uses How awful!/How horrible!, not How bad!.
+examples:
+  - That's an excellent idea.
+  - The traffic was terrible, but the restaurant was lovely.
 recognition_drills:
-- 'Create a fresh matching/choice item using the key vocabulary for Common Adjectives: Good and Bad; do not copy
-  the source exercise.'
+  - Sort adjectives by positive/negative meaning and approximate strength.
 production_drills:
-- 'Give a short Vietnamese prompt that naturally requires vocabulary from Common Adjectives: Good and Bad, then
-  wait for an English answer.'
+  - React naturally to four pieces of good or bad news.
 speaking_drills:
-- 'Ask one short personal question that naturally elicits two or more items from Common Adjectives: Good and Bad.'
+  - Tell me about something great and something terrible from this week.

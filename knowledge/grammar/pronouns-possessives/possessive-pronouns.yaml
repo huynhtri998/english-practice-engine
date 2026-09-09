@@ -3,24 +3,29 @@ title: Possessive Pronouns
 kind: grammar
 level: elementary
 category: grammar.pronouns-possessives
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 61
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use mine, yours, his, hers, ours and theirs without a following noun.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Possessive Pronouns distinction and ask the learner to
-  choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Possessive Pronouns; add a negative/question transformation when
-  that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Possessive Pronouns without naming the grammar
-  point in the question.
+  - source: egiu-4e
+    units: [61]
+source_coverage: Unit 61 mine/yours/his/hers/ours/theirs, whose, and friend-of-mine patterns are represented.
+core_concept: Use possessive pronouns without a following noun; use possessive adjectives before nouns.
+mental_model: If the noun is already known or omitted, switch from my/your/her... to mine/yours/hers....
 forms:
-  forms: mine, yours, his, hers, ours, theirs
+  pairs: [my-mine, your-yours, his-his, her-hers, our-ours, their-theirs]
+usage:
+  - answer whose questions
+  - avoid repeating an already-known noun
+  - use a friend of mine/his/yours
+common_mistakes:
+  - Say a friend of mine, not a friend of me.
+  - Do not put a noun directly after mine/yours/hers/ours/theirs.
+examples:
+  - This laptop is mine; that one is yours.
+  - A friend of mine works in security.
+recognition_drills:
+  - Choose possessive adjective or possessive pronoun in short contexts.
+production_drills:
+  - Replace repeated possessed nouns with possessive pronouns.
+speaking_drills:
+  - Whose phone is this? Answer naturally with a possessive pronoun.
+related: [grammar.possessive-adjectives, grammar.pronoun-possessive-forms]

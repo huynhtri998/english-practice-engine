@@ -1,25 +1,33 @@
 id: grammar.prepositions-time-range
-title: From/To, Until, Since and For
+title: From, To, Until, Since and For
 kind: grammar
 level: elementary
 category: grammar.prepositions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 104
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use from...to for a range, until for an end point, since for a starting point continuing to a reference
-  time, and for for duration.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [104]
+source_coverage: Unit 104 from...to/until, until/till endpoints, since as a past starting point continuing to now, and for as a duration are represented.
+core_concept: Use from...to/until for bounded ranges, until for an endpoint, since for a starting point continuing to now, and for for a length of time.
+mental_model: Start + end -> from...to; endpoint only -> until; start point connected to now -> since; measured duration -> for.
+forms:
+  range: from + start + to/until + end
+  endpoint: until/till + time/event
+  since: since + starting point
+  for: for + duration
+contrasts:
+  since_vs_for: since identifies when a continuing situation started; for measures how long it has lasted
+  until_vs_on: until answers how long up to an endpoint; on can state the return/event date
+common_mistakes:
+  - Use for, not since, with a duration such as three days.
+  - With continuing-to-now meanings, since is used with the present perfect in the source.
+examples:
+  - I've worked on this project since June.
+  - I studied for two hours and stayed online until midnight.
 recognition_drills:
-- Generate two original sentences that differ on the main From/To, Until, Since and For distinction and ask the
-  learner to choose the natural/correct one.
+  - Choose from/to/until/since/for from timeline clues.
 production_drills:
-- Ask for one original sentence that demonstrates From/To, Until, Since and For; add a negative/question transformation
-  when that form is relevant.
+  - Turn start/end/duration data into natural time-range sentences.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits From/To, Until, Since and For without naming the
-  grammar point in the question.
+  - How long have you been learning English, and since when?
+related: [grammar.for-since-ago]

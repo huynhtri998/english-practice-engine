@@ -3,22 +3,24 @@ title: Singular and Plural Nouns
 kind: grammar
 level: elementary
 category: grammar.articles-nouns
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 66
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Form regular plurals and recognize common spelling changes and irregular plural forms.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [66]
+source_coverage: Unit 66 regular plural spelling plus common irregular/plural-only noun behavior is represented.
+core_concept: Match noun number with form and verb; learn irregular plurals and nouns that are normally plural.
+mental_model: Quantity first -> singular/plural form -> matching determiner and verb.
+forms:
+  regular: -s/-es
+  common_irregular: [man-men, woman-women, child-children, foot-feet, tooth-teeth, person-people]
+common_mistakes:
+  - Do not add regular -s to irregular plurals such as children or people.
+examples:
+  - These knives are sharp.
+  - Two people are waiting outside.
 recognition_drills:
-- Generate two original sentences that differ on the main Singular and Plural Nouns distinction and ask the learner
-  to choose the natural/correct one.
+  - Correct plural and agreement errors.
 production_drills:
-- Ask for one original sentence that demonstrates Singular and Plural Nouns; add a negative/question transformation
-  when that form is relevant.
+  - Change singular noun phrases into plural ones.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Singular and Plural Nouns without naming the grammar
-  point in the question.
+  - Name three things around you in singular and plural.

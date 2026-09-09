@@ -2,25 +2,42 @@ id: grammar.have-to
 title: Have To
 kind: grammar
 level: elementary
-category: grammar.modals-imperatives
-status: normalized-core
+category: grammar.modals
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 33
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use have to for necessity, changing its form for person and tense; negatives express lack of necessity.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Have To distinction and ask the learner to choose the
-  natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Have To; add a negative/question transformation when that form
-  is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Have To without naming the grammar point in the
-  question.
+  - source: egiu-4e
+    units: [33]
+source_coverage: Unit 33 covers have/has to, had to, do/does/did questions and negatives, don't have to as no necessity, and the source contrast between must and have to.
+core_concept: Use have to when something is necessary or required, with normal do/does/did support in questions and negatives.
+mental_model: Requirement coming from the situation/fact -> have to; the source often contrasts must with the speaker's own view of necessity.
 forms:
-  form: have/has to + base verb; past had to
+  present:
+    - have/has to + base verb
+    - do/does + subject + have to ...?
+    - don't/doesn't have to + base verb
+  past:
+    - had to + base verb
+    - did + subject + have to ...?
+    - didn't have to + base verb
+usage:
+  - external or factual requirement
+  - past necessity with had to
+  - no necessity with don't/doesn't/didn't have to
+contrasts:
+  must_vs_have_to: both can express necessity; Unit 33 prefers have to for a requirement presented as a fact rather than the speaker's personal opinion
+common_mistakes:
+  - In questions/negatives, use do/does/did + have to, not has to after does.
+  - Didn't have to means it was not necessary, not that the action was prohibited.
+examples:
+  - I have to join the meeting at 2 p.m.
+  - She doesn't have to work tomorrow.
+  - We had to change the deployment plan yesterday.
+recognition_drills:
+  - Choose have to, had to or don't have to for requirement/no-necessity contexts.
+production_drills:
+  - Make a present requirement, a past requirement and a no-necessity sentence.
+speaking_drills:
+  - What do you have to do every workday?
+related:
+  - grammar.modal-must-mustnt-dont-need-to
+  - grammar.modal-should

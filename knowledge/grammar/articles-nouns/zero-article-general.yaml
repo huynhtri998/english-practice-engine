@@ -1,24 +1,26 @@
 id: grammar.zero-article-general
-title: Zero Article for General Meaning
+title: Zero Article for General Ideas
 kind: grammar
 level: elementary
 category: grammar.articles-nouns
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 72
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Plural and uncountable nouns often have no article when talking about things in general.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [72]
+source_coverage: Unit 72 general plural/uncountable ideas and no-the patterns for sports, languages and subjects are represented.
+core_concept: Do not use the when talking about things in general with plural or uncountable nouns; use the when referring to a specific known set/item.
+mental_model: Category/general idea -> no the. Identifiable instance/set -> the.
+usage:
+  - general food/material/ideas
+  - sports
+  - languages and school subjects
+common_mistakes:
+  - Say I like music and I play basketball for general meanings, not the music/the basketball.
+examples:
+  - I like coffee, but the coffee here is too strong.
 recognition_drills:
-- Generate two original sentences that differ on the main Zero Article for General Meaning distinction and ask the
-  learner to choose the natural/correct one.
+  - Decide whether a noun is general or specific and choose the/no article.
 production_drills:
-- Ask for one original sentence that demonstrates Zero Article for General Meaning; add a negative/question transformation
-  when that form is relevant.
+  - Create pairs contrasting a general noun with a specific one.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Zero Article for General Meaning without naming
-  the grammar point in the question.
+  - What music, sports or subjects do you like?

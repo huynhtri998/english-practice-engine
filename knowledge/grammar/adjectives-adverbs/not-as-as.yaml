@@ -3,24 +3,25 @@ title: Not As ... As
 kind: grammar
 level: elementary
 category: grammar.adjectives-adverbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 89
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use not as + adjective/adverb + as to say two things are unequal in a particular quality.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Not As ... As distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Not As ... As; add a negative/question transformation when that
-  form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Not As ... As without naming the grammar point
-  in the question.
+  - source: egiu-4e
+    units: [89]
+source_coverage: Unit 89 equality/inequality comparison with as ... as and related amount patterns is represented.
+core_concept: Use as + adjective/adverb + as for equality and not as ... as for a lower degree.
+mental_model: Same degree -> as ... as; lower degree -> not as ... as.
 forms:
-  form: not as + adjective/adverb + as
+  equality: as + adjective/adverb + as
+  inequality: not as + adjective/adverb + as
+usage:
+  - can compare actions as well as qualities
+  - quantity parallels include not as much/many as
+examples:
+  - This solution isn't as simple as the first one.
+  - I don't type as fast as my teammate does.
+recognition_drills:
+  - Rewrite comparative sentences using not as ... as.
+production_drills:
+  - Compare two routines with as/not as ... as.
+speaking_drills:
+  - Is speaking English as easy for you as reading it?

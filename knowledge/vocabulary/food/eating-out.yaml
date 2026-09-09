@@ -3,43 +3,45 @@ title: Eating Out
 kind: vocabulary
 level: A1-A2
 category: vocabulary.food
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 22
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for eating out, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [22]
+source_coverage: Unit 22 places to eat, meal-course vocabulary, ordering language and bill language are represented; source exercises remain in the book.
+core_concept: Use restaurant vocabulary as chunks for choosing a place, ordering courses, describing food and paying.
+mental_model: Place -> menu -> order -> food preference -> bill.
 key_items:
-- café
-- restaurant
-- bar
-- pub
-- fast food restaurant
-- take-away
-- snack
-- meal
-- starter
-- main course
-- dessert
-- menu
-- steak
-- salad
-- curry
-- bill
+  - cafe
+  - restaurant
+  - pub
+  - take-away
+  - snack
+  - meal
+  - starter
+  - main course
+  - dessert
+  - menu
+  - steak
+  - salad
+  - curry
+  - bill
 collocations:
-- serve a meal
-- ready to order
-- I’d like ...
-- rare/medium/well-done
-- Could I have the bill?
+  - serve a meal
+  - ready to order
+  - I'd like ...
+  - rare / medium / well-done
+  - have a starter
+  - have the main course
+  - Could I have the bill?
+common_mistakes:
+  - Use bill for the amount to pay in a restaurant in British English.
+  - Use I'd like + noun to order politely.
+examples:
+  - I'd like the curry for my main course.
+  - Could we have the bill, please?
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Eating Out; do not copy the source exercise.
+  - Put restaurant stages in order and choose the natural phrase for each stage.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Eating Out, then wait for an English answer.
+  - Translate one short restaurant request from Vietnamese to English.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Eating Out.
+  - Order a starter, main course and drink in a short role-play.

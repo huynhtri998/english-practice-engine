@@ -3,26 +3,25 @@ title: Some and Any
 kind: grammar
 level: elementary
 category: grammar.determiners-quantifiers
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 76
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use some mainly in affirmative statements and any mainly in negatives/questions, with common exceptions
-  such as offers and requests.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [76]
+source_coverage: Unit 76 some/any with nouns and something/anything/somebody/anybody, including offers/requests, is represented.
+core_concept: Some is common in positive statements and expected-positive offers/requests; any is common in negatives and open questions.
+mental_model: Positive/available -> some; negative/open possibility -> any; polite offer/request may still use some.
+usage:
+  - some + plural/uncountable noun
+  - any + plural/uncountable noun
+  - somebody/something vs anybody/anything
+common_mistakes:
+  - Do not mechanically replace some with any in offers such as Would you like some tea?
+examples:
+  - I need some help.
+  - Do you have any questions?
 recognition_drills:
-- Generate two original sentences that differ on the main Some and Any distinction and ask the learner to choose
-  the natural/correct one.
+  - Choose some/any in statements, questions, negatives and offers.
 production_drills:
-- Ask for one original sentence that demonstrates Some and Any; add a negative/question transformation when that
-  form is relevant.
+  - Make one offer, one question and one negative using the correct form.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Some and Any without naming the grammar point in
-  the question.
-forms:
-  some: some + noun
-  any: any + noun
+  - Do you need any help? Would you like some coffee?

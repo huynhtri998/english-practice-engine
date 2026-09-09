@@ -3,23 +3,28 @@ title: Questions with Prepositions and What ... Like?
 kind: grammar
 level: elementary
 category: grammar.questions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 46
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: In common questions, the preposition often stays at the end; use What is/are ... like? to ask for
-  a description.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [46]
+source_coverage: Unit 46 end-position prepositions in ordinary questions and the What ... like? description pattern are represented.
+core_concept: In common conversational questions, a required preposition can stay at the end; What is/are ... like? asks for a description, not a preference.
+mental_model: Keep the verb-preposition pair intact even when the object becomes a question word.
+forms:
+  preposition_question: question word + auxiliary + subject + verb + preposition?
+  description: What + be + subject + like?
+common_mistakes:
+  - Do not drop the preposition required by the verb.
+  - Do not confuse What is it like? with Do you like it?
+examples:
+  - Who are you talking to?
+  - What is your new project like?
 recognition_drills:
-- Generate two original sentences that differ on the main Questions with Prepositions and What ... Like? distinction
-  and ask the learner to choose the natural/correct one.
+  - Choose the question that keeps the required preposition and the question that asks for a description.
 production_drills:
-- Ask for one original sentence that demonstrates Questions with Prepositions and What ... Like?; add a negative/question
-  transformation when that form is relevant.
+  - Ask one question ending in to/with/about and one What ... like? question.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Questions with Prepositions and What ... Like?
-  without naming the grammar point in the question.
+  - What is your current project like?
+related:
+  - grammar.question-words
+  - grammar.verb-preposition

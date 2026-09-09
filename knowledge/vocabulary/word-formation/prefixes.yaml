@@ -3,46 +3,31 @@ title: Prefixes
 kind: vocabulary
 level: A1-A2
 category: vocabulary.word-formation
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 58
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for prefixes, with emphasis on natural combinations and
-  active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [58]
+source_coverage: Unit 58 source prefixes ex-, half-, in-/im-, non-, pre-, re- and un-, their core meanings and hyphen caution are represented.
+core_concept: Common prefixes add reusable meanings such as former, half, not, before and again to a base word.
+mental_model: Prefix meaning + base meaning -> infer the new word, then verify spelling/hyphen when needed.
 key_items:
-- ex-
-- half-
-- in-
-- im-
-- non-
-- pre-
-- re-
-- un-
-- ex-wife
-- half-price
-- informal
-- impossible
-- non-smoking
-- pre-school
-- pre-heat
-- redo
-- rewrite
-- unhappy
-- unsafe
-collocations:
-- re- = again
-- pre- = before
-- un-/in-/im-/non- = negative/not
-confusions:
-- Hyphenation varies by word; check a dictionary when unsure.
+  - ex- = former
+  - half- = 50 percent
+  - in-/im- = not
+  - non- = not
+  - pre- = before
+  - re- = again
+  - un- = not/opposite
+examples:
+  - rewrite = write again
+  - impossible = not possible
+  - pre-heat = heat before cooking
+  - unsafe = not safe
+common_mistakes:
+  - Hyphen use varies by word; the source recommends checking a dictionary when unsure.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Prefixes; do not copy the source exercise.
+  - Infer meanings of new elementary words from the source prefix meanings.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Prefixes, then wait for an English answer.
+  - Build a word from a prefix + base clue and explain the resulting meaning.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Prefixes.
+  - Use one re- word and one un-/im- word to describe something you did recently.

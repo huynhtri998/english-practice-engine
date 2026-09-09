@@ -3,52 +3,43 @@ title: Problems at Home and Work
 kind: vocabulary
 level: A1-A2
 category: vocabulary.social
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 36
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for problems at home and work, with emphasis on natural
-  combinations and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [36]
+source_coverage: Unit 36 common household problems, minor injuries/social issues and workplace problems are represented.
+core_concept: Describe everyday problems and pair them with practical action verbs.
+mental_model: Problem state -> likely cause/impact -> action to fix/respond.
 key_items:
-- broken
-- not working
-- repair
-- mend
-- dying plants
-- water plants
-- untidy
-- tidy
-- lose keys
-- look for
-- cut finger
-- plaster
-- row
-- apologise
-- late for work
-- too much work
-- colleague
-- bad mood
-- computer crash
-- out of order
+  - broken
+  - not working
+  - dying plants
+  - untidy
+  - lost keys
+  - cut finger
+  - row
+  - apologise
+  - late for work
+  - too much work
+  - colleague
+  - in a bad mood
+  - computer crashed
+  - out of order
 collocations:
-- repair/mend something
-- water the plants
-- tidy a room
-- look for keys
-- put on a plaster
-- have a row
-- apologise for something
-- be out of order
+  - mend / repair something
+  - water the plants
+  - tidy a room
+  - look for keys
+  - put on a plaster
+  - have a row
+  - apologise to someone
+common_mistakes:
+  - Learn broken/not working/out of order as different but related problem descriptions.
+examples:
+  - My laptop crashed and the printer was out of order.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Problems at Home and Work; do not copy the source
-  exercise.
+  - Match common problems with the most natural action.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Problems at Home and Work, then wait for
-  an English answer.
+  - Describe three problems from a bad workday.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Problems at Home and Work.
+  - What do you do when your computer crashes at work?

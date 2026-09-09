@@ -1,28 +1,29 @@
 id: grammar.little-few
-title: Little and Few
+title: Little, A Little, Few and A Few
 kind: grammar
 level: elementary
 category: grammar.determiners-quantifiers
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 84
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use (a) little with uncountable nouns and (a) few with countable plurals; the article changes the
-  positive/negative sense.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Little and Few distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Little and Few; add a negative/question transformation when that
-  form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Little and Few without naming the grammar point
-  in the question.
+  - source: egiu-4e
+    units: [84]
+source_coverage: Unit 84 countable/uncountable choice and the meaning contrast created by a in a little/a few are represented.
+core_concept: Few/a few go with plural countables; little/a little go with uncountables. Without a, the meaning emphasizes scarcity; with a, it means some.
+mental_model: Noun type first; then attitude to quantity: almost none -> few/little, some and enough to matter -> a few/a little.
+forms:
+  countable: few / a few + plural noun
+  uncountable: little / a little + noun
 contrasts:
-- (a) little goes with uncountable nouns; (a) few goes with plural countable nouns.
-- With a, the meaning is a small but positive amount/number; without a, it is more negative.
+  few_vs_a_few: very few/almost none vs some
+  little_vs_a_little: very little/almost none vs some
+common_mistakes:
+  - Do not use few with an uncountable noun or little with plural countables.
+examples:
+  - I have a little time before the meeting.
+  - Few people knew about the change, but a few had read the notice.
+recognition_drills:
+  - Choose among little/a little/few/a few and explain the quantity meaning.
+production_drills:
+  - Write paired sentences showing the meaning difference made by a.
+speaking_drills:
+  - Do you have a little time to practise English every day?

@@ -3,46 +3,41 @@ title: Everyday Actions and Routines
 kind: vocabulary
 level: A1-A2
 category: vocabulary.daily-life
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 47
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for everyday actions and routines, with emphasis on natural
-  combinations and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [47]
+source_coverage: Unit 47 daily routine sequence, occasional actions, frequency/time questions and transport answers are represented.
+core_concept: Store routine vocabulary as verb-noun chunks and retrieve it through time, frequency and transport questions.
+mental_model: Wake -> morning routine -> work -> home -> evening -> bed.
 key_items:
-- wake up
-- get up
-- go to the bathroom
-- have a shower
-- have breakfast
-- listen to the radio
-- go to work
-- come home
-- make dinner
-- phone/call a friend
-- watch TV
-- go to bed
-- wash clothes
-- clean the house
-- go for a walk
-- write emails
-- go out
+  - wake up
+  - get up
+  - go to the bathroom
+  - have a shower
+  - have breakfast
+  - listen to the radio
+  - go to work
+  - come home
+  - make dinner
+  - phone/call a friend
+  - watch TV
+  - go to bed
+  - wash clothes
+  - clean the house
+  - go for a walk
+  - write emails
 collocations:
-- How often do you ...?
-- What time do you ...?
-- go to work by bus/train/car
+  - How often do you ...?
+  - What time do you ...?
+  - go to work by bus/train/car
 common_mistakes:
-- Use usually get up for a normal routine; do not use used to to mean usually.
+  - Use usually for a present routine; used to refers to a past habit/state that is different now.
+examples:
+  - I usually get up at seven, but today I got up later.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Everyday Actions and Routines; do not copy the
-  source exercise.
+  - Put routine chunks in a natural daily order and choose time/frequency questions.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Everyday Actions and Routines, then wait
-  for an English answer.
+  - Describe a weekday from waking up to going to bed.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Everyday Actions and Routines.
+  - What time do you normally get up on workdays?

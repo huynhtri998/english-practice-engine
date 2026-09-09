@@ -1,25 +1,34 @@
 id: grammar.echo-questions
-title: Echo Questions
+title: Reply Questions and Question Tags
 kind: grammar
 level: elementary
 category: grammar.auxiliaries
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 41
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use short auxiliary questions such as 'Are you?' or 'Did he?' to react to or check what someone has
-  just said.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [41]
+source_coverage: Unit 41 reply questions and short question-tag patterns are represented; source exercises remain in the book.
+core_concept: Reuse the auxiliary from the statement to make a short interested/surprised reply or a confirmation tag.
+mental_model: Listen for the grammar carrier in the first sentence, then echo it with the matching subject pronoun.
+forms:
+  reply_question: auxiliary + subject?
+  tag_positive_statement: positive statement + negative tag
+  tag_negative_statement: negative statement + positive tag
+usage:
+  - show interest or surprise with replies such as Are you? / Did he? / Have they?
+  - invite confirmation with a short tag
+common_mistakes:
+  - Match the auxiliary and tense to the statement.
+  - Use a pronoun in the tag rather than repeating the full noun phrase.
+examples:
+  - I finished the migration. Did you?
+  - The service is ready, isn't it?
 recognition_drills:
-- Generate two original sentences that differ on the main Echo Questions distinction and ask the learner to choose
-  the natural/correct one.
+  - Choose the correct reply question for four statements with different auxiliaries.
 production_drills:
-- Ask for one original sentence that demonstrates Echo Questions; add a negative/question transformation when that
-  form is relevant.
+  - Add a natural reply question or question tag to an original statement.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Echo Questions without naming the grammar point
-  in the question.
+  - Respond naturally when I tell you one short fact about my day.
+related:
+  - grammar.auxiliary-short-forms
+  - grammar.too-either-so-neither

@@ -3,63 +3,55 @@ title: Do vs Make Collocations
 kind: vocabulary
 level: A1-A2
 category: vocabulary.collocations
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 40
-  - 41
-- source: egiu-4e
-  units:
-  - 57
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Choose do for general tasks/activities and learned do-collocations; choose make for creating/producing
-  and learned make-collocations.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [40, 41]
+  - source: egiu-4e
+    units: [57]
+source_coverage: All three source units are represented, including do as auxiliary/general action, job questions, core do/make collocations and make + person + feel; copied exercise sets remain outside Git.
+core_concept: Do is the general action/task verb and also an auxiliary; make commonly focuses on creating/producing and occurs in fixed collocations. Learn high-frequency combinations as chunks.
+mental_model: Meaning helps, but collocation decides: retrieve do/make together with the noun or expression.
 key_items:
-- do nothing
-- do the housework
-- do the gardening
-- do the washing
-- do the washing-up
-- do your homework
-- do exercises
-- do business
-- do your best
-- make coffee
-- make dinner
-- make a photocopy
-- make a film/video
-- make a mistake
-- make an appointment
-- make your bed
-- make a noise
-- make a mess
-- make a choice
+  - do nothing
+  - do homework
+  - do housework
+  - do the gardening
+  - do the washing
+  - do the washing-up
+  - do exercises
+  - do a course
+  - do an exam/test
+  - do somebody a favour
+  - do your best
+  - do business with
+  - make coffee/tea/dinner
+  - make a mistake
+  - make an appointment
+  - make a phone call
+  - make a list
+  - make your bed
+  - make a noise
+  - make a mess
+  - make a choice
+  - make a film/video
 collocations:
-- do homework
-- do housework
-- do an exercise
-- make a mistake
-- make an appointment
-- make a phone call
-- make a list
-- make a noise
-- make a bed
+  - make somebody (feel) + adjective
+  - What do you do? = What's your job?
 common_mistakes:
-- Do homework, not make homework.
-- Take or do an exam, not make an exam.
-- Take a photo, not make a photo.
-- Do the washing, not make the washing.
-related:
-- grammar.auxiliaries-be-have-do
+  - Do homework, not make homework.
+  - Take or do an exam, not make an exam.
+  - Take a photo, not make a photo.
+  - Do the washing, not make the washing.
+examples:
+  - I made a mistake while doing the exercise.
+  - This delay made me feel frustrated.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Do vs Make Collocations; do not copy the source
-  exercise.
+  - Choose do or make for ten high-frequency source-grounded collocations.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Do vs Make Collocations, then wait for
-  an English answer.
+  - Describe a workday using at least two do and two make chunks.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Do vs Make Collocations.
+  - What tasks do you do every day, and what decisions or calls do you make?
+related:
+  - grammar.auxiliaries-be-have-do
+  - vocabulary.jobs

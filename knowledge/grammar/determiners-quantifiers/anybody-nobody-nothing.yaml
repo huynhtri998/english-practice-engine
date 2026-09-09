@@ -1,25 +1,26 @@
 id: grammar.anybody-nobody-nothing
-title: Anybody/Anyone/Anything and Nobody/No-one/Nothing
+title: Anybody, Nobody and Nothing
 kind: grammar
 level: elementary
 category: grammar.determiners-quantifiers
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 78
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use any- forms mainly in questions/negatives and no- forms to make a negative meaning without another
-  negative verb.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [78]
+source_coverage: Unit 78 negative-any compounds versus positive nobody/no-one/nothing forms are represented.
+core_concept: Use negative verb + anybody/anything or positive verb + nobody/nothing to express absence; do not combine both negatives.
+mental_model: One negative signal per clause.
+forms:
+  negative_any: don't/didn't/etc. + anybody/anything
+  no_compound: nobody/no-one/nothing + positive verb
+common_mistakes:
+  - Source explicitly contrasts doesn't know anything with knows nothing, not doesn't know nothing.
+examples:
+  - I didn't see anybody.
+  - Nobody answered the message.
 recognition_drills:
-- Generate two original sentences that differ on the main Anybody/Anyone/Anything and Nobody/No-one/Nothing distinction
-  and ask the learner to choose the natural/correct one.
+  - Correct double-negative sentences.
 production_drills:
-- Ask for one original sentence that demonstrates Anybody/Anyone/Anything and Nobody/No-one/Nothing; add a negative/question
-  transformation when that form is relevant.
+  - Rewrite between any-compound and no-compound forms.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Anybody/Anyone/Anything and Nobody/No-one/Nothing
-  without naming the grammar point in the question.
+  - Who did you speak to? Answer with nobody/no-one or a full negative sentence.

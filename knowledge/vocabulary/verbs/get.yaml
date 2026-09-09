@@ -3,47 +3,46 @@ title: 'Get: Core Uses'
 kind: vocabulary
 level: A1-A2
 category: vocabulary.verbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 45
-- source: egiu-4e
-  units:
-  - 56
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: 'High-frequency meanings of get: change of state, obtain/find, arrive/reach, return, and fixed expressions.'
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [45]
+  - source: egiu-4e
+    units: [56]
+source_coverage: Both source units are represented: change with get + adjective, obtain/find with get + noun, get married, arrival/reach and get back/home/there patterns.
+core_concept: Get has several high-frequency elementary meanings: become/change, obtain/find, arrive/reach and return.
+mental_model: Identify the meaning first, then recall the matching get chunk.
 key_items:
-- get dark
-- get better
-- get tired
-- get wet
-- get a stamp
-- get a newspaper
-- get coffee
-- get a taxi
-- get a job
-- get a doctor
-- get married
-- get to a place
-- get back
-- get home
-- get there
+  - get dark
+  - get better
+  - get tired
+  - get wet
+  - get a stamp
+  - get a job
+  - get a taxi
+  - get married
+  - get to a place
+  - get back
+  - get home
+  - get there
 collocations:
-- get + adjective for change
-- get + noun for obtain/find
-- get to + place
-- get home/there
-- get back
+  - get + adjective = become/change
+  - get + noun = obtain/find
+  - get to + ordinary place
+  - get home/there without to
 common_mistakes:
-- Use get home / get there without to.
+  - Say get home and get there, not get to home/get to there.
+  - Keep get to before ordinary place names in the arrival meaning.
+examples:
+  - I'm getting tired.
+  - I need to get a new passport.
+  - What time did you get home?
 recognition_drills:
-- 'Create a fresh matching/choice item using the key vocabulary for Get: Core Uses; do not copy the source exercise.'
+  - Identify whether get means change, obtain, arrive or return in fresh sentences.
 production_drills:
-- 'Give a short Vietnamese prompt that naturally requires vocabulary from Get: Core Uses, then wait for an English
-  answer.'
+  - Make one sentence for each of three different get meanings.
 speaking_drills:
-- 'Ask one short personal question that naturally elicits two or more items from Get: Core Uses.'
+  - What time do you usually get home from work?
+related:
+  - vocabulary.verb.go
+  - grammar.prepositions-movement-to-in-at

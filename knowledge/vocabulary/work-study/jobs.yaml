@@ -3,42 +3,51 @@ title: Jobs
 kind: vocabulary
 level: A1-A2
 category: vocabulary.work-study
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 14
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for jobs, with emphasis on natural combinations and active
-  use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [14]
+source_coverage: Unit 14 common jobs, workplaces and the personal question "What do you do?" are represented.
+core_concept: Learn job names with the workplace or main activity they typically connect to.
+mental_model: Person -> job -> workplace/work activity.
 key_items:
-- doctor
-- teacher
-- nurse
-- mechanic
-- farmer
-- secretary
-- shop assistant
-- hairdresser
-- engineer
-- police officer
-- traffic warden
-- librarian
-- bank clerk
-- waiter
-- taxi driver
-- writer
+  - teacher
+  - doctor
+  - waiter
+  - secretary
+  - shop assistant
+  - hairdresser
+  - nurse
+  - farmer
+  - taxi driver
+  - engineer
+  - mechanic
+  - police officer
+  - librarian
+  - bank clerk
+  - factory
+  - office
+  - hospital
+  - restaurant
+  - school
 collocations:
-- work in a restaurant/office/factory
-- work as a hairdresser
-- work at/from home
-- What do you do?
+  - work in a hospital
+  - work in an office
+  - work in a restaurant
+  - work in a factory
+  - build roads and bridges
+  - What do you do?
+common_mistakes:
+  - With a singular job, English normally uses a/an: "She's a doctor."
+examples:
+  - I'm a software engineer and I work in technology.
+  - A waiter works in a restaurant or café.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Jobs; do not copy the source exercise.
+  - Match a job to its likely workplace or activity.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Jobs, then wait for an English answer.
+  - Answer "What do you do?" and describe where you work.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Jobs.
+  - What do you do, and what do you like about your job?
+related:
+  - vocabulary.school-university
+  - grammar.articles-a-an

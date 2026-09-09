@@ -3,32 +3,34 @@ title: Present Perfect vs Past Simple
 kind: grammar
 level: elementary
 category: grammar.present-perfect
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 20
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use present perfect without a finished past time when the past connects to now; use past simple with
-  a finished past time or completed past period.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Present Perfect vs Past Simple distinction and ask the
-  learner to choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Present Perfect vs Past Simple; add a negative/question transformation
-  when that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Present Perfect vs Past Simple without naming the
-  grammar point in the question.
+  - source: egiu-4e
+    units: [20]
+source_coverage: Unit 20 contrast between present perfect and past simple is represented, supported by the preceding present-perfect units.
+core_concept: Use present perfect when the time is viewed as connected to now or not specified as finished; use past simple when talking about a finished past time.
+mental_model: If you point to a finished past time, use past simple. If you look back from now without closing the time period, present perfect is the default contrast taught here.
 contrasts:
-- 'Present perfect: past connected to now, without a finished past-time frame.'
-- 'Past simple: completed event in a finished past-time frame.'
+  present_perfect:
+    - experience up to now
+    - recent/result-focused event
+    - no finished past time stated
+  past_simple:
+    - event located in a finished past time
+    - questions with when/what time about a finished event
+common_mistakes:
+  - Do not use present perfect with an explicit finished past time such as yesterday in this elementary contrast.
+  - After did, use the base verb.
+examples:
+  - I've finished the task. I finished it this morning.
+  - Have you seen this film? Yes, I saw it last year.
+recognition_drills:
+  - Choose the tense for a pair where one sentence says when the event happened and the other does not.
+production_drills:
+  - Give one experience sentence, then add a second sentence saying when it happened.
+speaking_drills:
+  - Have you learned anything useful this week? When did you learn it?
 related:
-- grammar.present-perfect
-- grammar.past-simple
-prerequisites:
-- grammar.present-perfect
-- grammar.past-simple
+  - grammar.present-perfect
+  - grammar.past-simple
+  - grammar.for-since-ago

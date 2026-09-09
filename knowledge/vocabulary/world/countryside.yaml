@@ -3,47 +3,46 @@ title: In the Countryside
 kind: vocabulary
 level: A1-A2
 category: vocabulary.world
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 30
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for in the countryside, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [30]
+source_coverage: Unit 30 countryside landscape, rural living/work, nature/conservation and countryside activities are represented.
+core_concept: Describe rural places, natural features, countryside work and outdoor activities with the source's key distinctions.
+mental_model: Landscape -> settlement/work -> nature/wildlife -> activity.
 key_items:
-- countryside
-- country
-- mountains
-- forest
-- hills
-- village
-- wood
-- lake
-- fields
-- path
-- river
-- farm
-- country road
-- cottage
-- nature
-- wildlife
-- conservation area
-- national park
+  - mountain
+  - forest
+  - hill
+  - village
+  - wood
+  - lake
+  - field
+  - path
+  - river
+  - farm
+  - country road
+  - cottage
+  - nature
+  - wildlife
+  - conservation area
+  - national park
 collocations:
-- live on a farm
-- work in the fields
-- have a picnic
-- go walking/skiing in the mountains
+  - live in a village
+  - live on a farm
+  - work in the fields
+  - wildlife in the area
+  - have a picnic
+  - go walking / skiing in the mountains
 common_mistakes:
-- Say I love nature, not the nature; nature is not a place.
+  - Nature is not normally used as a place noun in the source patterns: say I love nature, but walk in the countryside.
+  - Countryside/country can mean the area outside cities; country can also mean a nation.
+examples:
+  - My grandparents live in a small village near a river.
+  - We went walking in the countryside and had a picnic.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for In the Countryside; do not copy the source exercise.
+  - Distinguish countryside, country and nature in short contexts.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from In the Countryside, then wait for an English
-  answer.
+  - Describe a rural place using at least five source items.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from In the Countryside.
+  - Do you prefer the city or the countryside, and why?

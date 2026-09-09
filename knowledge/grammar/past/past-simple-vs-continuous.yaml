@@ -3,32 +3,28 @@ title: Past Simple vs Past Continuous
 kind: grammar
 level: elementary
 category: grammar.past
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 14
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use past continuous for background/in-progress activity and past simple for a completed event, especially
-  when one event interrupts another.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Past Simple vs Past Continuous distinction and ask the
-  learner to choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Past Simple vs Past Continuous; add a negative/question transformation
-  when that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Past Simple vs Past Continuous without naming the
-  grammar point in the question.
+  - source: egiu-4e
+    units: [14]
+source_coverage: Unit 14 contrast between an action in progress and a completed/event action in the past is represented.
+core_concept: Use past continuous for the activity already in progress and past simple for the event or completed action that happened during or around it.
+mental_model: Background camera = was/were + -ing; event dot = past simple.
 contrasts:
-- 'Past continuous: background or action in progress at a past time.'
-- 'Past simple: completed event or event that moves the story forward.'
+  past_continuous: action in progress at that past time
+  past_simple: completed event/action
+common_mistakes:
+  - Do not put both verbs in the continuous just because two things happened in the past.
+  - Use the base verb after did/didn't when the simple form is questioned or negated.
+examples:
+  - I was walking home when it started to rain.
+  - The build failed while I was having dinner.
+recognition_drills:
+  - Identify the background action and the event in a two-clause past sentence.
+production_drills:
+  - Complete an original sentence beginning "I was ... when ...".
+speaking_drills:
+  - What were you doing when you got your last important message?
 related:
-- grammar.past-simple
-- grammar.past-continuous
-prerequisites:
-- grammar.past-simple
-- grammar.past-continuous
+  - grammar.past-simple
+  - grammar.past-continuous

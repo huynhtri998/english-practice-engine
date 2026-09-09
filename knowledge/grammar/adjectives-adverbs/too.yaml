@@ -3,25 +3,26 @@ title: Too
 kind: grammar
 level: elementary
 category: grammar.adjectives-adverbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 92
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use too + adjective/adverb for more than is wanted or acceptable, and too much/many for excessive
-  quantities.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Too distinction and ask the learner to choose the natural/correct
-  one.
-production_drills:
-- Ask for one original sentence that demonstrates Too; add a negative/question transformation when that form is
-  relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Too without naming the grammar point in the question.
+  - source: egiu-4e
+    units: [92]
+source_coverage: Unit 92 too + adjective/adverb, too much/many, too ... to and contrast with enough are represented.
+core_concept: Too expresses more than is wanted/acceptable, often causing a negative result.
+mental_model: Excess -> too; sufficient threshold -> enough.
 forms:
-  adjective_adverb: too + adjective/adverb
-  quantity: too much + uncountable; too many + plural countable
+  quality: too + adjective/adverb
+  countable: too many + plural noun
+  uncountable: too much + noun
+  result: too + adjective + to + verb
+common_mistakes:
+  - Too does not simply mean very; it implies excess relative to a need or limit.
+examples:
+  - The log is too large to paste here.
+  - There are too many warnings and too much noise.
+recognition_drills:
+  - Choose too/enough and explain whether the meaning is excess or sufficiency.
+production_drills:
+  - Combine cause/result prompts using too ... to.
+speaking_drills:
+  - What makes a meeting too long for you?

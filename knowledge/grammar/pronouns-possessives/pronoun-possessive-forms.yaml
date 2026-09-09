@@ -1,25 +1,30 @@
 id: grammar.pronoun-possessive-forms
-title: Pronoun and Possessive Form Contrast
+title: Personal and Possessive Forms
 kind: grammar
 level: elementary
 category: grammar.pronouns-possessives
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 62
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Distinguish subject pronouns, object pronouns, possessive adjectives and possessive pronouns according
-  to their role in the sentence.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [62]
+source_coverage: Unit 62 contrasts subject, object, possessive-adjective and possessive-pronoun forms in one system.
+core_concept: Choose the form by sentence role: subject, object, before a noun, or possession without a noun.
+mental_model: Person -> role -> form.
+forms:
+  I: [I, me, my, mine]
+  you: [you, you, your, yours]
+  he: [he, him, his, his]
+  she: [she, her, her, hers]
+  we: [we, us, our, ours]
+  they: [they, them, their, theirs]
+common_mistakes:
+  - Do not choose forms by meaning alone; choose by grammatical role.
+examples:
+  - She sent me her notes; mine were incomplete.
 recognition_drills:
-- Generate two original sentences that differ on the main Pronoun and Possessive Form Contrast distinction and ask
-  the learner to choose the natural/correct one.
+  - Label each pronoun slot as subject, object, possessive adjective or possessive pronoun.
 production_drills:
-- Ask for one original sentence that demonstrates Pronoun and Possessive Form Contrast; add a negative/question
-  transformation when that form is relevant.
+  - Rewrite one paragraph to remove repeated names using the correct forms.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Pronoun and Possessive Form Contrast without naming
-  the grammar point in the question.
+  - Tell me about a colleague and something that belongs to them.
+related: [grammar.object-pronouns, grammar.possessive-adjectives, grammar.possessive-pronouns]

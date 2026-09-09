@@ -2,28 +2,37 @@ id: grammar.imperatives-lets
 title: Imperatives and Let's
 kind: grammar
 level: elementary
-category: grammar.modals-imperatives
-status: normalized-core
+category: grammar.modals
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 35
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use the base verb for commands/instructions, don't + base verb for negative commands, and let's for
-  suggestions that include the speaker.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Imperatives and Let's distinction and ask the learner
-  to choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Imperatives and Let's; add a negative/question transformation
-  when that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Imperatives and Let's without naming the grammar
-  point in the question.
+  - source: egiu-4e
+    units: [35]
+source_coverage: Unit 35 covers base-verb imperatives, don't + base verb for negative commands, Let's for shared suggestions and Let's not for negative suggestions.
+core_concept: Use the base verb to tell somebody to do something, don't + base verb to tell them not to, and Let's + base verb when proposing an action together.
+mental_model: Command to you -> bare verb; negative command -> don't; proposal for us -> let's.
 forms:
-  command: base verb
-  negative_command: don't + base verb
-  suggestion: let's + base verb
+  positive_imperative: base verb
+  negative_imperative: don't + base verb
+  suggestion: Let's + base verb
+  negative_suggestion: Let's not + base verb
+usage:
+  - instructions and direct requests
+  - warnings
+  - wishes such as Have a nice time
+  - shared suggestions with Let's
+common_mistakes:
+  - Do not add to after Let's.
+  - Use Let's not, not Don't let's, for the source's negative suggestion pattern.
+examples:
+  - Be careful with the migration.
+  - Don't copy the source exercises.
+  - Let's review one more unit.
+recognition_drills:
+  - Distinguish a direct command, negative command and shared suggestion.
+production_drills:
+  - Give one instruction and one Let's suggestion for an English study session.
+speaking_drills:
+  - Make a quick suggestion for what we should practise next.
+related:
+  - grammar.future-will-shall
+  - grammar.object-plus-infinitive

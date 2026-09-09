@@ -3,23 +3,33 @@ title: Regular and Irregular Verb Forms
 kind: grammar
 level: elementary
 category: grammar.verb-forms
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 24
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Distinguish regular -ed forms from irregular past and past-participle forms and use the appropriate
-  form after auxiliaries.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [24]
+source_coverage: Unit 24 distinguishes regular -ed forms from irregular past simple and past participle forms and points learners to the irregular-verb appendices.
+core_concept: Regular verbs usually form both past simple and past participle with -ed; irregular verbs must be learned with their past and past-participle forms.
+mental_model: Store common verbs as a three-form family: base -> past -> past participle.
+forms:
+  regular: base + -ed for past simple and past participle
+  irregular: learn base, past simple and past participle as separate forms
+usage:
+  - past simple needs the past form in affirmative sentences
+  - present perfect and passive patterns need the past participle
+common_mistakes:
+  - Do not assume an irregular past form is also the past participle.
+  - After did/didn't, return to the base form even for irregular verbs.
+examples:
+  - deploy -> deployed -> deployed
+  - go -> went -> gone
+  - write -> wrote -> written
 recognition_drills:
-- Generate two original sentences that differ on the main Regular and Irregular Verb Forms distinction and ask the
-  learner to choose the natural/correct one.
+  - Decide whether a target verb needs a regular -ed form or an irregular stored form.
 production_drills:
-- Ask for one original sentence that demonstrates Regular and Irregular Verb Forms; add a negative/question transformation
-  when that form is relevant.
+  - Give the past simple and past participle for five common irregular verbs.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Regular and Irregular Verb Forms without naming
-  the grammar point in the question.
+  - Tell me one thing you did yesterday using an irregular verb.
+related:
+  - grammar.past-simple
+  - grammar.present-perfect
+  - grammar.passive

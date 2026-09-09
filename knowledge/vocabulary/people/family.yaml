@@ -1,44 +1,52 @@
 id: vocabulary.family
-title: Family
+title: The Family
 kind: vocabulary
 level: A1-A2
 category: vocabulary.people
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 1
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for family, with emphasis on natural combinations and
-  active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [1]
+source_coverage: Unit 1 core family relationships and family-tree language are represented; copied diagrams and exercises remain in the source.
+core_concept: Use relationship words as connected pairs in a family network, not as isolated translations.
+mental_model: Start from one person and ask how another person is related to them.
 key_items:
-- parent
-- mother
-- father
-- son
-- daughter
-- brother
-- sister
-- grandparent
-- grandmother
-- grandfather
-- uncle
-- aunt
-- niece
-- nephew
-- cousin
-- only child
+  - mother
+  - father
+  - parents
+  - son
+  - daughter
+  - children
+  - brother
+  - sister
+  - husband
+  - wife
+  - grandmother
+  - grandfather
+  - grandparents
+  - uncle
+  - aunt
+  - cousin
+  - nephew
+  - niece
+  - grandchildren
+  - only child
 collocations:
-- have brothers and sisters
-- come from a big family
+  - have a brother/sister
+  - have got two cousins
+  - come from a big family
 common_mistakes:
-- Use wives as the plural of wife.
+  - Keep nephew and niece distinct by gender.
+  - Wife has the irregular plural wives.
+examples:
+  - I have one brother and two cousins.
+  - My aunt has a son, so he is my cousin.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Family; do not copy the source exercise.
+  - Give a short family relationship and ask for the correct family word.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Family, then wait for an English answer.
+  - Give a Vietnamese family relationship and ask for one natural English sentence.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Family.
+  - Tell me about two people in your family.
+related:
+  - vocabulary.life-events
+  - grammar.possessive-s

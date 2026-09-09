@@ -3,43 +3,32 @@ title: Manner
 kind: vocabulary
 level: A1-A2
 category: vocabulary.words-grammar
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 54
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for manner, with emphasis on natural combinations and
-  active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [54]
+source_coverage: Unit 54 fast/slow, loud/quiet, good/bad, right/wrong and in a friendly/unfriendly way adjective-adverb contrasts are represented.
+core_concept: Describe a thing/person with an adjective and describe how an action is done with the corresponding adverb or manner phrase.
+mental_model: What is it like? -> adjective. How is the action done? -> adverb/manner phrase.
 key_items:
-- fast
-- slow
-- slowly
-- loud
-- quiet
-- loudly
-- quietly
-- good
-- bad
-- well
-- badly
-- right
-- wrong
-- friendly
-- unfriendly
+  - fast / slowly
+  - loud / loudly
+  - quiet / quietly
+  - good / well
+  - bad / badly
+  - right / wrong
+  - in a friendly way / in an unfriendly way
 collocations:
-- drive well/badly
-- speak quietly
-- in a friendly way
-- the right/wrong way
-confusions:
-- Adjectives describe things/people; adverbs describe how actions are done. Good → well; bad → badly.
+  - drive well / badly
+  - speak loudly / quietly
+  - the right way / the wrong way
+common_mistakes:
+  - Good describes a noun/person; well commonly describes the action: a good speaker, speaks well.
+examples:
+  - She explains difficult topics clearly and speaks quietly.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Manner; do not copy the source exercise.
+  - Choose adjective/adverb forms in manner contexts.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Manner, then wait for an English answer.
+  - Describe how you do five familiar activities.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Manner.
+  - What do you think you do well in English?

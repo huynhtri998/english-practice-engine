@@ -3,22 +3,35 @@ title: It as a Subject
 kind: grammar
 level: elementary
 category: grammar.there-it
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 39
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use it as a subject for time, weather, distance and other impersonal descriptions.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [39]
+source_coverage: Unit 39 uses it in elementary patterns for time, day/date, weather, distance and adjective + to-infinitive statements.
+core_concept: Use it as an impersonal subject in common expressions about time, weather, distance and situations.
+mental_model: English still needs a grammatical subject even when the sentence is about the general situation rather than a concrete thing; use it.
+usage:
+  - time/day/date
+  - weather and temperature
+  - distance with How far is it...?
+  - general evaluation with It is + adjective + to + verb
+forms:
+  time_weather_distance: It + be + complement
+  evaluation: It + be + adjective + to + base verb
+common_mistakes:
+  - Do not omit the subject in English weather/time expressions.
+  - Keep existential there is distinct from impersonal it is.
+examples:
+  - It's late now.
+  - It's hot today.
+  - How far is it to the station?
+  - It's useful to practise every day.
 recognition_drills:
-- Generate two original sentences that differ on the main It as a Subject distinction and ask the learner to choose
-  the natural/correct one.
+  - Decide whether a fresh sentence needs existential there or impersonal it.
 production_drills:
-- Ask for one original sentence that demonstrates It as a Subject; add a negative/question transformation when that
-  form is relevant.
+  - Make one sentence about today's weather and one about distance using it.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits It as a Subject without naming the grammar point
-  in the question.
+  - What time is it where you are, and what's the weather like?
+related:
+  - grammar.there-be
+  - grammar.infinitive-purpose

@@ -3,52 +3,44 @@ title: 'Have: Core Uses and Collocations'
 kind: vocabulary
 level: A1-A2
 category: vocabulary.verbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 38
-- source: egiu-4e
-  units:
-  - 58
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: High-frequency uses of have as a main verb and in fixed chunks, reinforced by both source books.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [38]
+  - source: egiu-4e
+    units: [58]
+source_coverage: Both source units are represented: possession/health with have or have got, activity/meal/event collocations with have, past had and the restriction against have got for activity meanings.
+core_concept: Have can express possession/state, where have got is often equivalent, and it also forms many fixed activity/event chunks where have got is not interchangeable.
+mental_model: Possession/state -> have or have got; activity/experience -> learn have + noun chunk.
 key_items:
-- have breakfast/lunch/dinner
-- have a party
-- have a meeting
-- have a lesson
-- have an exam
-- have a drink
-- have a shower
-- have a bath
-- have a swim
-- have a look
-- have a go
-- have a good time
-- have a word
-- have time
-- have got
-- have got to
+  - have / have got a car/problem/cold
+  - have breakfast/lunch/dinner
+  - have a meal/drink
+  - have a meeting/lesson/exam
+  - have a shower/bath
+  - have a rest/holiday/party
+  - have a swim/walk/game
+  - have a look
+  - have a good time
+  - have a word with
+  - have time
+  - have a baby
 collocations:
-- have a meal
-- have a moment
-- have your hair cut
-- have got a problem
-- have got a cold
+  - have + meal/drink
+  - have + event/activity
+  - have your hair cut
 common_mistakes:
-- In the past obligation pattern taught here, use had to rather than had got to.
-related:
-- grammar.have-vs-have-got
-- grammar.have-to
+  - Do not use have got for activity meanings such as having breakfast or a shower.
+  - In the past, use had in the source possession pattern rather than had got.
+examples:
+  - I've got a new monitor, and I have lunch at my desk sometimes.
+  - We had a meeting yesterday.
 recognition_drills:
-- 'Create a fresh matching/choice item using the key vocabulary for Have: Core Uses and Collocations; do not copy
-  the source exercise.'
+  - Decide where have got is possible and where only the activity use of have fits.
 production_drills:
-- 'Give a short Vietnamese prompt that naturally requires vocabulary from Have: Core Uses and Collocations, then
-  wait for an English answer.'
+  - Make one possession sentence and two activity-collocation sentences with have.
 speaking_drills:
-- 'Ask one short personal question that naturally elicits two or more items from Have: Core Uses and Collocations.'
+  - What do you usually have for breakfast, and when do you usually have meetings?
+related:
+  - grammar.have-vs-have-got
+  - grammar.have-to

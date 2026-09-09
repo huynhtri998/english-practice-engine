@@ -3,23 +3,25 @@ title: Still, Yet and Already
 kind: grammar
 level: elementary
 category: grammar.word-order
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 95
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use still for continuation, yet mainly in questions/negatives up to now, and already for something
-  earlier than expected or completed by now.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [95]
+source_coverage: Unit 95 continuation, not-yet expectation, earlier-than-expected already and their normal positions are represented.
+core_concept: Still marks continuation, yet marks an expected change up to now (especially questions/negatives), and already marks earlier-than-expected completion/state.
+mental_model: Continues now -> still; expected but not happened / checking -> yet; happened sooner -> already.
+forms:
+  still: mid-position, after be
+  yet: usually end position in questions/negatives
+  already: mid-position or after be
+contrasts:
+  still_vs_yet: still describes the continuing state/action; yet focuses on whether the expected change has happened
+examples:
+  - I'm still reviewing the files.
+  - I haven't opened the PR yet, but the migration is already far along.
 recognition_drills:
-- Generate two original sentences that differ on the main Still, Yet and Already distinction and ask the learner
-  to choose the natural/correct one.
+  - Choose still/yet/already from timeline meaning.
 production_drills:
-- Ask for one original sentence that demonstrates Still, Yet and Already; add a negative/question transformation
-  when that form is relevant.
+  - Describe one ongoing, one pending and one earlier-than-expected event.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Still, Yet and Already without naming the grammar
-  point in the question.
+  - Is there anything you haven't finished yet today?

@@ -1,24 +1,32 @@
 id: grammar.zero-article-places
-title: Articles with Common Places
+title: Articles with Common Places and Activities
 kind: grammar
 level: elementary
 category: grammar.articles-nouns
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 71
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Learn fixed patterns such as going to work/home and when common public places use or omit the article.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [71]
+source_coverage: Unit 71 work/school/university/hospital/prison/church/bed/home zero-article patterns and contrasted the-places are represented.
+core_concept: Some institutional/activity expressions use no article, while ordinary destination places such as the cinema/bank/station normally use the.
+mental_model: Institution/activity as its normal purpose -> often no article; ordinary identifiable place -> the.
+key_items:
+  - go to work / be at work
+  - go to school / be at school
+  - go to university
+  - go to hospital / be in hospital
+  - go to prison
+  - go to bed / be in bed
+  - go home / be at home
+  - go to the cinema / bank / station / airport
+common_mistakes:
+  - Say go home, not go to home.
+examples:
+  - I finish work at five.
+  - We went to the cinema after dinner.
 recognition_drills:
-- Generate two original sentences that differ on the main Articles with Common Places distinction and ask the learner
-  to choose the natural/correct one.
+  - Choose whether the is required with common destinations.
 production_drills:
-- Ask for one original sentence that demonstrates Articles with Common Places; add a negative/question transformation
-  when that form is relevant.
+  - Correct article/preposition errors in place expressions.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Articles with Common Places without naming the
-  grammar point in the question.
+  - Where do you usually go after work?

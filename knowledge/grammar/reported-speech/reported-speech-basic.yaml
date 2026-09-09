@@ -3,25 +3,30 @@ title: Basic Reported Speech
 kind: grammar
 level: elementary
 category: grammar.reported-speech
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 50
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use say/tell + a reported clause to report what someone said, with tell normally followed by a person.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Basic Reported Speech distinction and ask the learner
-  to choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Basic Reported Speech; add a negative/question transformation
-  when that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Basic Reported Speech without naming the grammar
-  point in the question.
+  - source: egiu-4e
+    units: [50]
+source_coverage: Unit 50 basic said/told reporting and the source's elementary tense-shift examples are represented.
+core_concept: Report another person's statement with said (that) or told + person + (that), adjusting pronouns/time perspective and, in the source's past-reporting pattern, often moving the tense back.
+mental_model: Retell the message from the current speaker's viewpoint rather than repeating the original wording.
 forms:
-  say: say + (that) clause
-  tell: tell + person + (that) clause
+  say: subject + said (that) + clause
+  tell: subject + told + person + (that) + clause
+contrasts:
+  say_vs_tell: tell normally needs a person object; say does not take the person directly in this pattern
+common_mistakes:
+  - Use told me/us/him/her, not told without a person when the source pattern requires the listener.
+  - Do not use said me for the reported-statement pattern.
+examples:
+  - She said that the build was ready.
+  - He told me that he couldn't join the meeting.
+recognition_drills:
+  - Choose said or told and identify the necessary person object.
+production_drills:
+  - Turn two short direct statements into basic reported speech.
+speaking_drills:
+  - Tell me something a colleague said to you recently.
+related:
+  - grammar.indirect-questions
+  - vocabulary.say-tell-ask

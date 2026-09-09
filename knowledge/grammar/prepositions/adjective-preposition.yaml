@@ -1,27 +1,37 @@
 id: grammar.adjective-preposition
-title: Adjective + Preposition
+title: Adjective + Preposition Patterns
 kind: grammar
 level: elementary
 category: grammar.prepositions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 112
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Learn common adjective + preposition combinations and use -ing after a preposition when a verb follows.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [112]
+source_coverage: Unit 112 common adjective-preposition combinations and preposition + -ing grammar are represented.
+core_concept: Learn adjective-preposition combinations as chunks; when a verb follows a preposition, use the -ing form in these patterns.
+mental_model: Retrieve adjective + its partner preposition together, then if an action follows, convert the verb to -ing.
+collocations:
+  - afraid/scared of
+  - angry with somebody / about something
+  - different from/to
+  - fed up with
+  - full of
+  - good at
+  - interested in
+  - married to
+  - nice/kind of somebody to do; nice/kind to somebody
+  - sorry about a situation
+  - sorry for/about doing something
+  - feel sorry for somebody
+common_mistakes:
+  - After a preposition, use -ing rather than a to-infinitive in the source patterns.
+  - Say married to, not married with.
+examples:
+  - I'm interested in learning more about architecture.
+  - She is good at explaining difficult ideas.
 recognition_drills:
-- Generate two original sentences that differ on the main Adjective + Preposition distinction and ask the learner
-  to choose the natural/correct one.
+  - Supply the missing preposition and choose noun versus -ing form after it.
 production_drills:
-- Ask for one original sentence that demonstrates Adjective + Preposition; add a negative/question transformation
-  when that form is relevant.
+  - Make personal sentences with five adjective-preposition chunks.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Adjective + Preposition without naming the grammar
-  point in the question.
-related:
-- grammar.verb-preposition
-- vocabulary.preposition-collocations
+  - What are you interested in learning, and what are you good at doing?

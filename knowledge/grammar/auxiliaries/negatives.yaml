@@ -1,24 +1,34 @@
 id: grammar.negatives
-title: Negative Forms
+title: Negatives
 kind: grammar
 level: elementary
 category: grammar.auxiliaries
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 43
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Build negatives with the relevant auxiliary + not, including contracted negative forms.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [43]
+source_coverage: Unit 43 consolidates not/n't with be, have, will and modals, plus don't/doesn't/didn't for simple verbs and don't for negative imperatives.
+core_concept: Put not on the sentence's auxiliary; when an ordinary present/past simple verb has no auxiliary, use do/does/did + not.
+mental_model: Find the grammar carrier first; attach not there. If there is none in a simple tense, create do-support.
+forms:
+  auxiliary_negative: auxiliary + not
+  present_simple: don't/doesn't + base verb
+  past_simple: didn't + base verb
+  imperative: don't + base verb
+common_mistakes:
+  - After doesn't/didn't, use the base verb.
+  - Do not add do when be or a modal is already the auxiliary.
+examples:
+  - I'm not tired.
+  - She doesn't work on Sundays.
+  - We didn't deploy yesterday.
+  - Don't commit that file.
 recognition_drills:
-- Generate two original sentences that differ on the main Negative Forms distinction and ask the learner to choose
-  the natural/correct one.
+  - Find and correct the misplaced or unnecessary auxiliary in a negative sentence.
 production_drills:
-- Ask for one original sentence that demonstrates Negative Forms; add a negative/question transformation when that
-  form is relevant.
+  - Make negative versions of sentences using be, present simple, past simple and a modal.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Negative Forms without naming the grammar point
-  in the question.
+  - Tell me one thing you don't usually do after work.
+related:
+  - grammar.questions-basic
+  - grammar.modal-must-mustnt-dont-need-to

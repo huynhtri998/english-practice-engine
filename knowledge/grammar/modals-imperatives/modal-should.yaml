@@ -2,25 +2,34 @@ id: grammar.modal-should
 title: Should
 kind: grammar
 level: elementary
-category: grammar.modals-imperatives
-status: normalized-core
+category: grammar.modals
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 32
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use should + base verb for advice, recommendations and what is a good or expected thing to do.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Should distinction and ask the learner to choose the natural/correct
-  one.
-production_drills:
-- Ask for one original sentence that demonstrates Should; add a negative/question transformation when that form
-  is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Should without naming the grammar point in the
-  question.
+  - source: egiu-4e
+    units: [32]
+source_coverage: Unit 32 practices should/shouldn't for advice and opinion, including "Do you think I should...?" and "I think/I don't think ... should ..." patterns.
+core_concept: Use should + base verb to give advice or say what you think is a good/right thing to do; shouldn't gives negative advice.
+mental_model: Recommendation, not a hard obligation.
 forms:
-  form: subject + should + base verb
+  affirmative: should + base verb
+  negative: should not/shouldn't + base verb
+  advice_question: Do you think I should + base verb?
+usage:
+  - advice
+  - opinion about what is a good/right action
+common_mistakes:
+  - Use the base verb after should.
+  - Do not add to after should.
+examples:
+  - You should practise speaking every day.
+  - You shouldn't reread the rule before every recall item.
+  - Do you think I should review this again tomorrow?
+recognition_drills:
+  - Choose should or shouldn't for a fresh advice situation.
+production_drills:
+  - Give advice for a learner who understands grammar but cannot speak quickly.
+speaking_drills:
+  - What should someone do to improve their English speaking reflex?
+related:
+  - grammar.modal-must-mustnt-dont-need-to
+  - grammar.have-to

@@ -3,22 +3,27 @@ title: Both, Either and Neither
 kind: grammar
 level: elementary
 category: grammar.determiners-quantifiers
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 82
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use both for two together, either for one of two, and neither for not one and not the other.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [82]
+source_coverage: Unit 82 two-item meanings, noun patterns, of-patterns and pronoun forms are represented.
+core_concept: With exactly two choices/items, both means the two, either means one or the other, and neither means not one and not the other.
+mental_model: First check that the set size is two; then choose 2/1/0: both/either/neither.
+forms:
+  both: both + plural noun
+  either: either + singular noun
+  neither: neither + singular noun
+  of_forms: both/either/neither + of + determiner/pronoun
+common_mistakes:
+  - Avoid a double negative such as I don't want neither; use I don't want either or I want neither.
+  - Neither of ... is singular in the source pattern.
+examples:
+  - Both options work, but either one is fine.
+  - Neither of the fixes solved the issue.
 recognition_drills:
-- Generate two original sentences that differ on the main Both, Either and Neither distinction and ask the learner
-  to choose the natural/correct one.
+  - Choose both/either/neither for six two-item situations.
 production_drills:
-- Ask for one original sentence that demonstrates Both, Either and Neither; add a negative/question transformation
-  when that form is relevant.
+  - Create one sentence for each of both, either and neither.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Both, Either and Neither without naming the grammar
-  point in the question.
+  - Do you prefer working from home or the office, or is either fine?

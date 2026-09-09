@@ -2,27 +2,37 @@ id: grammar.would-like
 title: Would Like
 kind: grammar
 level: elementary
-category: grammar.modals-imperatives
-status: normalized-core
+category: grammar.modals
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 34
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use would like for polite wants, offers and invitations; use would like + to-infinitive for desired
-  actions.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Would Like distinction and ask the learner to choose the
-  natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Would Like; add a negative/question transformation when that form
-  is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Would Like without naming the grammar point in
-  the question.
+  - source: egiu-4e
+    units: [34]
+source_coverage: Unit 34 covers Would you like...? for offers, Would you like to...? for invitations, I'd like as a polite want-pattern, and contrasts these with Do you like...? for general preference.
+core_concept: Use would like for a present offer, invitation or polite desire; use do you like/like for general preference.
+mental_model: This occasion/request -> would like; in general -> like.
 forms:
-  noun: would like + noun
-  action: would like + to-infinitive
+  offer: Would you like + noun?
+  invitation: Would you like to + base verb?
+  desire: I'd/I would like + noun or to + base verb
+usage:
+  - offer something
+  - invite somebody to do something
+  - politely ask for or say what you want
+contrasts:
+  would_like_vs_like: would like asks/wants something in the current situation; like describes general preference
+common_mistakes:
+  - Use to + base verb after would like when an action follows.
+  - Do not answer a current offer with a general-preference pattern when the intended meaning is accepting/refusing now.
+examples:
+  - Would you like some coffee?
+  - Would you like to practise for ten minutes?
+  - I'd like to improve my speaking reflex.
+recognition_drills:
+  - Choose Do you like...? or Would you like...? for general preference versus a current offer.
+production_drills:
+  - Make one polite request and one invitation using would like.
+speaking_drills:
+  - What would you like to improve in your English next?
+related:
+  - grammar.infinitive-vs-ing
+  - grammar.object-plus-infinitive

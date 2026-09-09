@@ -3,48 +3,44 @@ title: Basic Phrasal Verbs
 kind: vocabulary
 level: A1-A2
 category: vocabulary.verbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 46
-- source: egiu-4e
-  units:
-  - 114
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for basic phrasal verbs, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [46]
+  - source: egiu-4e
+    units: [114]
+source_coverage: EVIU Unit 46 and EGIU Unit 114 core verb-particle movement/state patterns are represented; separable-object order belongs to grammar.phrasal-verb-object-order.
+core_concept: A common verb plus a short particle can form a new high-frequency chunk; learn each phrasal verb as a unit with its situation.
+mental_model: Do not decode the particle alone; retrieve verb + particle as one lexical action.
 key_items:
-- get up
-- get on
-- get off
-- turn on
-- turn off
-- turn up
-- turn down
-- go on
-- go off
-- put on
-- come on
-- take off
+  - get up
+  - get in / get out
+  - get on / get off
+  - put on
+  - take off
+  - turn on / turn off
+  - turn down
+  - go out / go in
+  - come back / go back
+  - stand up / sit down / lie down
+  - fall down / fall off
+  - run away
+  - look out / look up / look round
 collocations:
-- get on/off a bus
-- turn the TV on/off/up/down
-- go on doing something
-- put a coat on
-- take off a plane/shoes
-confusions:
-- A phrasal verb can have more than one meaning, e.g. turn down = reduce volume or refuse; take off = leave the
-  ground or remove clothing.
-related:
-- grammar.phrasal-verb-object-order
+  - plane takes off
+  - alarm goes off
+  - turn the music down
+  - get on/off a bus
+  - get in/out of a car
+common_mistakes:
+  - Meaning depends on the whole phrasal verb; the same particle does not create one fixed meaning.
+examples:
+  - The alarm went off, so I got up quickly.
+  - Please turn the music down.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Basic Phrasal Verbs; do not copy the source exercise.
+  - Match common phrasal verbs to situations without translating particles separately.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Basic Phrasal Verbs, then wait for an English
-  answer.
+  - Complete a short morning/travel story with six phrasal verbs.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Basic Phrasal Verbs.
+  - What time do you get up, and what do you usually turn on first?
+related: [grammar.phrasal-verb-object-order]

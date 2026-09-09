@@ -3,29 +3,33 @@ title: Past Continuous
 kind: grammar
 level: elementary
 category: grammar.past
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 13
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use was/were + -ing for an action that was in progress at a particular past time.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Past Continuous distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Past Continuous; add a negative/question transformation when that
-  form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Past Continuous without naming the grammar point
-  in the question.
+  - source: egiu-4e
+    units: [13]
+source_coverage: Unit 13 past continuous form and its in-progress past-time meaning are represented.
+core_concept: Use was/were + verb-ing for an action that was in progress at a particular time in the past.
+mental_model: Imagine opening a camera view at a past moment and describing what was already happening then.
 forms:
-  form: subject + was/were + verb-ing
+  affirmative: subject + was/were + verb-ing
+  negative: subject + wasn't/weren't + verb-ing
+  question: Was/Were + subject + verb-ing?
+usage:
+  - action in progress at a stated past time
+  - background activity around another past event
+common_mistakes:
+  - Use was/were before verb-ing.
+  - Do not use did with the past continuous.
+examples:
+  - I was reviewing logs at 10 p.m.
+  - They weren't sleeping when I called.
+  - What were you doing at lunchtime?
+recognition_drills:
+  - Decide which sentence shows an action in progress at a past moment.
+production_drills:
+  - Say what you were doing at a specific time yesterday.
+speaking_drills:
+  - What were you doing at 9 o'clock last night?
 related:
-- grammar.past-simple
-- grammar.past-simple-vs-continuous
-prerequisites:
-- grammar.be-past
+  - grammar.past-simple
+  - grammar.past-simple-vs-continuous

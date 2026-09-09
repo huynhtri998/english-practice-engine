@@ -3,46 +3,46 @@ title: In a Hotel
 kind: vocabulary
 level: A1-A2
 category: vocabulary.travel
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 21
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for in a hotel, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [21]
+source_coverage: Unit 21 hotel places, room types, reception language and service questions are represented; source exercises remain in the book.
+core_concept: Use a compact set of hotel nouns and service chunks to book, arrive, ask for help and check out naturally.
+mental_model: Think through the guest journey: reservation -> reception -> room/services -> bill/check-out.
 key_items:
-- reception
-- lift
-- form
-- key
-- bathroom
-- shower
-- TV
-- luggage
-- phone
-- bill
-- mini-bar
-- hairdryer
-- single room
-- double room
-- reservation
-- room service
-- wake-up call
+  - reception
+  - lift
+  - key
+  - luggage
+  - bill
+  - mini-bar
+  - hairdryer
+  - single room
+  - double room
+  - reservation
+  - room service
+  - wake-up call
 collocations:
-- have a reservation
-- a room with a view
-- fill in a form
-- sign your name
-- check the bill
-- check out
-- order room service
+  - have a reservation
+  - a room with a view
+  - fill in a form
+  - sign your name
+  - help with your luggage
+  - check the bill
+  - check out
+  - order room service
+  - have breakfast in your room
+  - exchange some money
+common_mistakes:
+  - Use check out when leaving the hotel; check the bill means make sure it is correct.
+  - Use a single room for one person and a double room for two people.
+examples:
+  - I have a reservation for a double room.
+  - Could I have a wake-up call at six thirty?
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for In a Hotel; do not copy the source exercise.
+  - Choose the best hotel expression for four guest situations.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from In a Hotel, then wait for an English answer.
+  - Give a short Vietnamese hotel request and wait for an English response.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from In a Hotel.
+  - Role-play checking in, asking one service question, and checking out.

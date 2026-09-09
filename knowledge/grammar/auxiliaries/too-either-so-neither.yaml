@@ -3,23 +3,30 @@ title: Too, Either, So and Neither
 kind: grammar
 level: elementary
 category: grammar.auxiliaries
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 42
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use too/so for agreement with positive statements and either/neither for agreement with negative statements,
-  with the appropriate auxiliary.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [42]
+source_coverage: Unit 42 positive agreement with too/so and negative agreement with either/neither is represented across auxiliary patterns.
+core_concept: Agree with a positive statement using too or so + auxiliary; agree with a negative statement using either or neither + auxiliary.
+mental_model: Positive agreement and negative agreement each have two ready-made patterns; always copy the original auxiliary/tense.
+forms:
+  positive_end: subject + auxiliary/main pattern + too
+  positive_front: So + auxiliary + subject
+  negative_end: subject + negative auxiliary + either
+  negative_front: Neither + auxiliary + subject
+common_mistakes:
+  - Use either with a negative clause, not a positive one.
+  - Match do/be/have/modal and tense to the first statement.
+examples:
+  - I work from home sometimes. I do too.
+  - I haven't finished yet. Neither have I.
 recognition_drills:
-- Generate two original sentences that differ on the main Too, Either, So and Neither distinction and ask the learner
-  to choose the natural/correct one.
+  - Select too, either, so or neither and the matching auxiliary for a fresh dialogue.
 production_drills:
-- Ask for one original sentence that demonstrates Too, Either, So and Neither; add a negative/question transformation
-  when that form is relevant.
+  - Agree naturally with one positive and one negative statement.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Too, Either, So and Neither without naming the
-  grammar point in the question.
+  - I'll say a preference or habit; agree or disagree quickly.
+related:
+  - grammar.echo-questions
+  - grammar.negatives

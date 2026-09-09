@@ -3,32 +3,42 @@ title: Present Simple
 kind: grammar
 level: elementary
 category: grammar.present
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 5
-  - 6
-  - 7
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use the present simple for general truths, habits and repeated situations; use do/does for negatives
-  and questions, with third-person -s in affirmative forms.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Present Simple distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Present Simple; add a negative/question transformation when that
-  form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Present Simple without naming the grammar point
-  in the question.
+  - source: egiu-4e
+    units: [5, 6, 7]
+source_coverage: Units 5-7 cover affirmative forms, third-person spelling, negatives with don't/doesn't, questions with do/does and short answers.
+core_concept: Use the present simple for things that are generally true and for actions or situations that happen regularly, sometimes or all the time.
+mental_model: Think "this is how things usually are" rather than "this is happening right now".
 forms:
-  affirmative: base verb; add -s/-es for he/she/it
-  negative: do/does not + base verb
-  question: do/does + subject + base verb?
+  affirmative:
+    - I/you/we/they + base verb
+    - he/she/it + verb-s/-es
+  negative:
+    - I/you/we/they + don't + base verb
+    - he/she/it + doesn't + base verb
+  question:
+    - Do + I/you/we/they + base verb?
+    - Does + he/she/it + base verb?
+usage:
+  - general facts
+  - habits and repeated actions
+  - actions that happen sometimes or regularly
+  - frequency expressions such as always, never, often, usually and sometimes
+common_mistakes:
+  - Add -s/-es to an affirmative third-person singular verb.
+  - After doesn't or does, use the base verb, not a verb with -s.
+  - Do not use am/is/are before an ordinary present-simple verb.
+examples:
+  - I review code every morning.
+  - Our service doesn't restart very often.
+  - Does your team deploy on Fridays?
+recognition_drills:
+  - Choose the form for a regular habit: "I usually work" or "I'm usually working".
+production_drills:
+  - Describe one work habit, then turn it into a question about another person.
+speaking_drills:
+  - What do you usually do after work?
 related:
-- grammar.present-continuous
-- grammar.present-simple-vs-continuous
+  - grammar.present-continuous
+  - grammar.present-simple-vs-continuous

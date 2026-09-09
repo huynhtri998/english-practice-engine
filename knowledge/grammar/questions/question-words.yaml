@@ -3,23 +3,34 @@ title: What, Which and How Questions
 kind: grammar
 level: elementary
 category: grammar.questions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 47
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Choose question words such as what, which and how, including common combinations like how old, how
-  far and how much.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [47]
+source_coverage: Unit 47 question-word patterns with what/which/how and how + adjective/adverb expressions are represented.
+core_concept: Choose the question word from the information you need: what for open information, which for a choice from a known set, and how for manner/degree/measurement patterns.
+mental_model: Decide the answer type before building the question.
+forms:
+  what: What + question structure?
+  which: Which + noun/one + question structure?
+  how_measurement:
+    - How old ...?
+    - How far ...?
+    - How often ...?
+    - How big/long/high ...?
+common_mistakes:
+  - Use which when choosing among a limited/identified set.
+  - Keep normal question word order after the question phrase.
+examples:
+  - What are you learning?
+  - Which branch should we use?
+  - How often do you practise speaking?
 recognition_drills:
-- Generate two original sentences that differ on the main What, Which and How Questions distinction and ask the
-  learner to choose the natural/correct one.
+  - Choose what, which or a suitable how-expression for different answer types.
 production_drills:
-- Ask for one original sentence that demonstrates What, Which and How Questions; add a negative/question transformation
-  when that form is relevant.
+  - Create three questions that ask for an open answer, a choice and a measurement/frequency.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits What, Which and How Questions without naming the
-  grammar point in the question.
+  - How often do you use English at work?
+related:
+  - grammar.questions-basic
+  - grammar.how-long-does-it-take

@@ -3,48 +3,50 @@ title: Weather
 kind: vocabulary
 level: A1-A2
 category: vocabulary.world
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 28
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for weather, with emphasis on natural combinations and
-  active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [28]
+source_coverage: Unit 28 weather nouns, adjective/verb forms, temperature/extreme-weather words and everyday weather questions are represented.
+core_concept: Talk about current and typical weather using noun/adjective/verb families and common weather expressions.
+mental_model: Weather phenomenon -> adjective/verb form -> temperature/intensity -> opinion/activity.
 key_items:
-- sun
-- rain
-- cloud
-- snow
-- fog
-- wind
-- thunder
-- lightning
-- sunny
-- rainy
-- windy
-- cloudy
-- snowy
-- foggy
-- hot
-- cold
-- wet
-- dry
-- hurricane
-- storm
-- thunderstorm
+  - sun
+  - rain
+  - snow
+  - cloud
+  - fog
+  - wind
+  - thunder
+  - lightning
+  - sunny
+  - rainy
+  - windy
+  - cloudy
+  - snowy
+  - foggy
+  - hot
+  - cold
+  - wet
+  - dry
+  - hurricane
+  - storm
+  - thunderstorm
 collocations:
-- the sun is shining
-- it is raining/snowing
-- What’s the weather like?
+  - the sun is shining
+  - it is raining / snowing
+  - a sunny day
+  - strong wind
+  - weather forecast
+  - minus 10 degrees
 common_mistakes:
-- Use windy/cloudy/foggy/sunny as adjectives, not winding/clouding/fogging/sunning.
+  - Use windy/cloudy/foggy/sunny, not winding/clouding/fogging/sunning for weather adjectives.
+examples:
+  - It's cloudy now, but the sun may come out later.
+  - We sometimes have thunderstorms in summer.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Weather; do not copy the source exercise.
+  - Convert weather nouns to adjective/verb forms and choose the natural expression.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Weather, then wait for an English answer.
+  - Describe today's weather and your typical summer weather in three sentences.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Weather.
+  - What's the weather like where you are today?

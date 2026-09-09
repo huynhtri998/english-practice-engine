@@ -3,32 +3,36 @@ title: Past Simple
 kind: grammar
 level: elementary
 category: grammar.past
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 11
-  - 12
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use the past simple for completed past events; regular verbs usually take -ed, irregular verbs change
-  form, and did/didn't + base verb forms questions and negatives.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Past Simple distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Past Simple; add a negative/question transformation when that
-  form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Past Simple without naming the grammar point in
-  the question.
+  - source: egiu-4e
+    units: [11, 12]
+source_coverage: Units 11-12 cover regular and irregular affirmative forms plus negatives/questions with did and the infinitive.
+core_concept: Use the past simple for completed past actions or situations; affirmative verbs use a past form, while negatives and questions use did/didn't + base verb.
+mental_model: The event belongs to a finished past time. In negatives/questions, did carries the past tense and the main verb returns to its base form.
 forms:
-  affirmative: past form (regular -ed or irregular form)
-  negative: didn't + base verb
-  question: did + subject + base verb?
+  affirmative:
+    - regular verb + -ed
+    - irregular past form
+  negative: subject + didn't + base verb
+  question: Did + subject + base verb?
+usage:
+  - completed action in the past
+  - past sequence of completed events
+common_mistakes:
+  - After did or didn't, use the base verb: "didn't go", not "didn't went".
+  - Learn irregular past forms separately.
+examples:
+  - I finished the migration yesterday.
+  - We didn't deploy last night.
+  - Did the test pass?
+recognition_drills:
+  - Choose the correct pair: "Did you go?" / "Did you went?"
+production_drills:
+  - Tell one completed thing you did yesterday, then make a negative and a question.
+speaking_drills:
+  - What did you do after work yesterday?
 related:
-- grammar.past-continuous
-- grammar.past-simple-vs-continuous
-- grammar.present-perfect-vs-past-simple
+  - grammar.be-past
+  - grammar.past-continuous
+  - grammar.present-perfect-vs-past-simple

@@ -3,22 +3,25 @@ title: This, That, These and Those
 kind: grammar
 level: elementary
 category: grammar.determiners-quantifiers
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 74
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use this/these for nearer things and that/those for more distant things, matching singular/plural.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [74]
+source_coverage: Unit 74 singular/plural demonstratives for near/far reference and common discourse uses are represented.
+core_concept: Match demonstratives to number and distance/context: this/these nearer, that/those farther.
+mental_model: Number first, then near/far.
+forms:
+  singular_near: this
+  singular_far: that
+  plural_near: these
+  plural_far: those
+common_mistakes:
+  - Match these/those with plural nouns and this/that with singular nouns.
+examples:
+  - This file is current; those files are old.
 recognition_drills:
-- Generate two original sentences that differ on the main This, That, These and Those distinction and ask the learner
-  to choose the natural/correct one.
+  - Choose the demonstrative from number and distance clues.
 production_drills:
-- Ask for one original sentence that demonstrates This, That, These and Those; add a negative/question transformation
-  when that form is relevant.
+  - Describe nearby and distant objects using all four forms.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits This, That, These and Those without naming the
-  grammar point in the question.
+  - What's this? What are those?

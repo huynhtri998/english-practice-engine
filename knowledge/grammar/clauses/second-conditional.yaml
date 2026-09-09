@@ -1,28 +1,27 @@
 id: grammar.second-conditional
-title: Second Conditional / Hypothetical If
+title: Hypothetical If-Clauses
 kind: grammar
 level: elementary
 category: grammar.clauses
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 100
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use if + past form with would + base verb for unreal, unlikely or imagined present/future situations.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Second Conditional / Hypothetical If distinction and ask
-  the learner to choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Second Conditional / Hypothetical If; add a negative/question
-  transformation when that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Second Conditional / Hypothetical If without naming
-  the grammar point in the question.
+  - source: egiu-4e
+    units: [100]
+source_coverage: Unit 100 hypothetical present/future meaning with past forms, would/could results and was/were options are represented.
+core_concept: Use if + past form for an unreal/improbable present or future situation and would/could + base verb for the imagined result.
+mental_model: Step away from reality: past-looking form in the condition, would/could in the imagined consequence.
 forms:
-  form: if + past, ... would + base verb
-prerequisites:
-- grammar.past-simple
+  condition: if + past simple / were / could
+  result: would/could + base verb
+common_mistakes:
+  - The past form after if can describe an unreal situation now, not necessarily past time.
+  - Do not normally use would in the if-clause in this source pattern.
+examples:
+  - If I had more free time, I would practise speaking every morning.
+  - If I were closer to the office, I could walk there.
+recognition_drills:
+  - Decide whether scenarios are real-possible or hypothetical and choose the conditional pattern.
+production_drills:
+  - Answer three hypothetical prompts with full if + result sentences.
+speaking_drills:
+  - What would you do if you had one extra free hour every day?

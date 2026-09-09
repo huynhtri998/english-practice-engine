@@ -3,56 +3,46 @@ title: Travelling
 kind: vocabulary
 level: A1-A2
 category: vocabulary.travel
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 32
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for travelling, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [32]
+source_coverage: Unit 32 transport, ticket/reservation language, train/plane processes and car travel expressions are represented.
+core_concept: Use travel vocabulary as process chunks for booking, boarding, changing transport, arriving and local movement.
+mental_model: Plan/book -> station/airport -> board -> travel -> arrive/customs -> local transport.
 key_items:
-- train
-- bus
-- bicycle/bike
-- taxi
-- car
-- helicopter
-- plane
-- motorbike
-- underground
-- boat
-- ship
-- map
-- timetable
-- customs
-- luggage
-- passport
-- single ticket
-- return ticket
-- platform
-- boarding card
-- flight attendant
+  - train
+  - bus
+  - taxi
+  - plane
+  - underground
+  - map
+  - timetable
+  - customs
+  - luggage
+  - passport
+  - single ticket
+  - return ticket
+  - platform
+  - boarding card
 collocations:
-- book/reserve a seat in advance
-- change trains
-- direct train
-- check in
-- take off
-- land
-- go through customs
-- hire a car
-- fill up with petrol
-- give somebody a lift
+  - book/reserve a seat in advance
+  - change trains
+  - direct train
+  - check in
+  - take off / land
+  - go through customs
+  - hire a car
+  - fill up with petrol
+  - give someone a lift
 common_mistakes:
-- 'Use journey for a specific trip duration: Was the journey long?'
-- At customs, officers check a passport, not control it.
+  - Source says Was the journey long?, not Was the travel long?.
+  - Passport officers check passports; control has a different use.
+examples:
+  - We booked a return ticket and reserved seats in advance.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Travelling; do not copy the source exercise.
+  - Order the steps of a train or plane journey.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Travelling, then wait for an English answer.
+  - Ask for a ticket and explain one connection/change.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Travelling.
+  - How do you usually travel between cities?

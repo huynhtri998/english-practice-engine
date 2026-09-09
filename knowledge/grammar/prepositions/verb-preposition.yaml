@@ -1,27 +1,36 @@
 id: grammar.verb-preposition
-title: Verb + Preposition
+title: Verb + Preposition Patterns
 kind: grammar
 level: elementary
 category: grammar.prepositions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 113
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Learn common verb + preposition combinations such as listening to or looking at as fixed patterns.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [113]
+source_coverage: Unit 113 high-frequency verb-preposition combinations and selected multi-part patterns are represented.
+core_concept: Many verbs select a particular preposition; learn the verb and preposition together because the choice is lexical.
+mental_model: Retrieve the whole verb-preposition chunk before adding its object.
+collocations:
+  - ask somebody for something
+  - belong to
+  - happen to
+  - listen to
+  - talk/speak to somebody about something
+  - thank somebody for something
+  - think about/of
+  - wait for
+  - look at
+  - look for
+  - depend on
+common_mistakes:
+  - Do not drop required prepositions simply because the object meaning is clear.
+  - Keep look at and look for distinct: directing attention versus trying to find.
+examples:
+  - I'm waiting for the build and listening to a podcast.
+  - It depends on the environment you're deploying to.
 recognition_drills:
-- Generate two original sentences that differ on the main Verb + Preposition distinction and ask the learner to choose
-  the natural/correct one.
+  - Match verbs to their source prepositions and meanings.
 production_drills:
-- Ask for one original sentence that demonstrates Verb + Preposition; add a negative/question transformation when
-  that form is relevant.
+  - Complete original work/everyday prompts using the natural verb-preposition chunk.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Verb + Preposition without naming the grammar point
-  in the question.
-related:
-- grammar.adjective-preposition
-- vocabulary.preposition-collocations
+  - What are you waiting for or thinking about this week?

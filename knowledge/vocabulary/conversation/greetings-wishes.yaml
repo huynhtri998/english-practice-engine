@@ -3,49 +3,52 @@ title: Greetings and Wishes
 kind: vocabulary
 level: A1-A2
 category: vocabulary.conversation
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 8
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for greetings and wishes, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [8]
+source_coverage: Unit 8 everyday greetings/leaving expressions, politeness expressions and special-day wishes are represented.
+core_concept: Choose greeting and wish expressions by social situation: arriving, leaving, bedtime, asking, thanking or marking a special event.
+mental_model: Situation first, fixed phrase second.
 key_items:
-- good morning
-- good afternoon
-- good evening
-- hello
-- hi
-- goodbye
-- see you soon
-- goodnight
-- please
-- thank you
-- cheers
-- excuse me
-- sorry
-- bless you
-- Happy Birthday
-- Merry Christmas
-- Happy New Year
-- good luck
-- congratulations
-- well done
+  - Good morning.
+  - Good afternoon.
+  - Good evening.
+  - Hello.
+  - Hi.
+  - How are you?
+  - Fine, thanks.
+  - Goodbye.
+  - See you soon.
+  - Goodnight.
+  - Sleep well.
+  - Please.
+  - Thank you.
+  - Cheers.
+  - Excuse me.
+  - Sorry.
+  - Bless you.
+  - Happy Birthday!
+  - Merry Christmas!
+  - Happy New Year!
+  - Good luck!
+  - Congratulations!
+  - Well done!
 collocations:
-- say goodnight when leaving/going to bed
-- wish someone good luck
-- say congratulations/well done for an achievement
+  - say goodnight when leaving or going to bed
+  - wish somebody good luck before something difficult
+  - say congratulations/well done after an achievement
 common_mistakes:
-- For a birthday, say Happy Birthday rather than Congratulations.
+  - Do not use Goodnight as an arrival greeting.
+  - For a birthday, say Happy Birthday rather than Congratulations.
+examples:
+  - Good luck with your interview tomorrow!
+  - Well done on finishing the project!
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Greetings and Wishes; do not copy the source
-  exercise.
+  - Pick the natural expression for arriving, leaving, bedtime or a special event.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Greetings and Wishes, then wait for an
-  English answer.
+  - Respond naturally to three short social situations.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Greetings and Wishes.
+  - What would you say to a friend before an important interview?
+related:
+  - vocabulary.conversation-expressions

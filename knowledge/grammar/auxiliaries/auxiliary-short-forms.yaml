@@ -1,25 +1,39 @@
 id: grammar.auxiliary-short-forms
-title: Auxiliary Short Responses
+title: Auxiliary Short Forms
 kind: grammar
 level: elementary
 category: grammar.auxiliaries
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 40
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use auxiliaries such as am/is/are, do/does/did, have/has and will in short answers and short replacement
-  clauses instead of repeating the full verb phrase.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [40]
+source_coverage: Unit 40 consolidates short responses that repeat the auxiliary rather than the full lexical verb, across be/do/have/modal patterns.
+core_concept: In short answers or repeated clauses, English often keeps the auxiliary and omits the main verb when the meaning is already understood.
+mental_model: Repeat only the grammar carrier, not the whole sentence.
+forms:
+  be: am/is/are/was/were
+  do: do/does/did
+  have: have/has
+  modal_future: can/could/will/would/should/might
+usage:
+  - short answers
+  - avoid repeating a known verb phrase
+  - respond naturally with the matching auxiliary
+common_mistakes:
+  - Match the short-form auxiliary to the original verb pattern and tense.
+  - Do not answer a present-simple question with a form of be unless be is actually the verb.
+examples:
+  - Are you tired? Yes, I am.
+  - Do you work remotely? Sometimes I do.
+  - Have you finished? No, I haven't.
+  - Can you drive? Yes, I can.
 recognition_drills:
-- Generate two original sentences that differ on the main Auxiliary Short Responses distinction and ask the learner
-  to choose the natural/correct one.
+  - Choose the correct auxiliary for a short response to four different question types.
 production_drills:
-- Ask for one original sentence that demonstrates Auxiliary Short Responses; add a negative/question transformation
-  when that form is relevant.
+  - Answer five questions naturally without repeating the full verb phrase.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Auxiliary Short Responses without naming the grammar
-  point in the question.
+  - Do you use English at work? Answer in a short natural way, then add one detail.
+related:
+  - grammar.auxiliaries-be-have-do
+  - grammar.echo-questions
+  - grammar.too-either-so-neither

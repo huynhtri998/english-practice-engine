@@ -3,50 +3,32 @@ title: Place Words
 kind: vocabulary
 level: A1-A2
 category: vocabulary.words-grammar
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 53
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for place words, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [53]
+source_coverage: Unit 53 here/there/back/everywhere, elementary in/at/on place chunks, positional nouns, left/right and home/out/away/abroad are represented.
+core_concept: Use high-frequency place words to identify location, direction back to a place, position within an object/area, and whether someone is home or elsewhere.
+mental_model: Relative location -> here/there/back; internal position -> top/middle/bottom/front/side/back; presence -> home/out/away/abroad.
 key_items:
-- here
-- there
-- back
-- everywhere
-- in
-- at
-- 'on'
-- top
-- middle
-- bottom
-- front
-- side
-- back
-- beginning
-- end
-- left
-- right
-- at home
-- out
-- away
-- abroad
+  - here / there / back / everywhere
+  - top / middle / bottom
+  - front / side / back
+  - beginning / end
+  - left / right
+  - at home / out / away / abroad
 collocations:
-- in a city/country
-- at the station
-- on the wall
-- at the front
-- on the left/right
-- go away
-- be abroad
+  - in the kitchen / in a city/country
+  - at the station / at the front
+  - on the wall / on a chair
+  - come back
+common_mistakes:
+  - Out suggests a short absence; away commonly suggests a longer absence; abroad means in another country in the source descriptions.
+examples:
+  - I'm away this week, but I'll be back on Friday.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Place Words; do not copy the source exercise.
+  - Choose here/there/back/out/away/abroad and position nouns from context.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Place Words, then wait for an English answer.
+  - Describe locations in a room and whether three people are home/away/abroad.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Place Words.
+  - Are you at home right now, and what's in front of you?

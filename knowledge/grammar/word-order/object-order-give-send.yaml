@@ -1,25 +1,28 @@
 id: grammar.object-order-give-send
-title: Object Order with Give/Send/Show
+title: Object Order with Give, Send, Show and Similar Verbs
 kind: grammar
 level: elementary
 category: grammar.word-order
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 96
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: With certain verbs, use either verb + person + thing or verb + thing + to person; object pronouns
-  influence which pattern sounds natural.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [96]
+source_coverage: Unit 96 two-object structures, to/for alternatives and pronoun preference are represented.
+core_concept: Many transfer verbs allow either thing + to + person or person + thing; with it/them, the thing + to + person structure is preferred in the source.
+mental_model: Transfer: WHAT to WHOM, or WHOM WHAT. Pronoun object it/them strongly favors WHAT to WHOM.
+forms:
+  prepositional: verb + thing + to + person
+  double_object: verb + person + thing
+  benefactive: buy/get + person + thing = buy/get + thing + for + person
+common_mistakes:
+  - Do not say give to Sarah the keys.
+  - Prefer give it to her, not give her it.
+examples:
+  - Send the report to me, or send me the report.
+  - I bought my brother a present.
 recognition_drills:
-- Generate two original sentences that differ on the main Object Order with Give/Send/Show distinction and ask the
-  learner to choose the natural/correct one.
+  - Choose the natural order for full nouns versus it/them.
 production_drills:
-- Ask for one original sentence that demonstrates Object Order with Give/Send/Show; add a negative/question transformation
-  when that form is relevant.
+  - Rewrite transfer sentences using the alternative structure.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Object Order with Give/Send/Show without naming
-  the grammar point in the question.
+  - Tell me something you recently sent or gave to someone.

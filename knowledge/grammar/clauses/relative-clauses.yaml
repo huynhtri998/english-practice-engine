@@ -1,26 +1,36 @@
 id: grammar.relative-clauses
-title: Basic Relative Clauses
+title: Relative Clauses
 kind: grammar
 level: elementary
 category: grammar.clauses
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 101
-  - 102
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use who for people and that/which for things in defining relative clauses; the relative pronoun can
-  sometimes be omitted when it is the object.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [101, 102]
+source_coverage: Units 101-102 subject and object relative clauses, who/that/which choices, omission of object relative pronouns, and prepositions at the end are represented.
+core_concept: Use a relative clause to identify or describe a person or thing. Use who for people and which for things; that can be used for people or things in the source patterns. When the relative word is the object, it can often be omitted.
+mental_model: Join two sentences around the repeated person/thing; then ask whether that person/thing is the subject or object inside the relative clause.
+forms:
+  subject_relative: noun + who/that/which + verb ...
+  object_relative: noun + (who/that/which) + subject + verb ...
+  preposition_end: noun + (relative word) + subject + verb + preposition
+usage:
+  - who is usual for people
+  - which is for things, not people
+  - that can replace who/which in these defining clauses
+  - omit the relative word when it is the object
+  - where can identify a place in place-relative patterns
+common_mistakes:
+  - Do not omit who/that/which when it is the subject of the relative clause.
+  - Do not repeat an object pronoun after an object relative clause.
+  - Do not use which for people in the source pattern.
+examples:
+  - The engineer who fixed the issue is on my team.
+  - The tool I use every day is very simple.
+  - The hotel we stayed at was close to the station.
 recognition_drills:
-- Generate two original sentences that differ on the main Basic Relative Clauses distinction and ask the learner
-  to choose the natural/correct one.
+  - Decide whether the relative word is subject or object and whether it can be omitted.
 production_drills:
-- Ask for one original sentence that demonstrates Basic Relative Clauses; add a negative/question transformation
-  when that form is relevant.
+  - Combine pairs of original sentences into relative clauses, including one with a final preposition.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Basic Relative Clauses without naming the grammar
-  point in the question.
+  - Describe a person you work with and a tool you use often without naming the target grammar.
