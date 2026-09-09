@@ -3,43 +3,45 @@ title: In the Town
 kind: vocabulary
 level: A1-A2
 category: vocabulary.travel
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 29
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for in the town, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [29]
+source_coverage: Unit 29 town places, public notices and simple direction/finding-place language are represented.
+core_concept: Name common town places and use practical chunks to ask where something is, find services and understand simple notices.
+mental_model: Need/service -> place -> location phrase -> direction/notice.
 key_items:
-- train station
-- bus station
-- shops
-- shopping centre
-- tourist information office
-- museum
-- bank
-- post office
-- library
-- town hall
-- car park
-- pedestrian area
-- cash machine
-- entrance
-- exit
+  - bus station
+  - railway station
+  - tourist information office
+  - bank
+  - car park
+  - museum
+  - shopping centre
+  - post office
+  - town hall
+  - library
+  - pedestrian area
+  - cash machine
+  - entrance
+  - exit
 collocations:
-- go/turn left
-- go/turn right
-- at the end of the road
-- take the first right
-- get off at the second stop
-- Can you tell me the way to ...?
+  - on the left
+  - on the other side of the road
+  - take the number 14 bus
+  - get a map
+  - tell me the way to ...
+  - look for a car park
+  - out of order
+  - no smoking
+common_mistakes:
+  - Learn direction chunks as whole phrases: on the left, at the end of the road, on the other side of the road.
+examples:
+  - Can you tell me the way to the railway station?
+  - The cash machine at the bank is out of order.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for In the Town; do not copy the source exercise.
+  - Match needs to town places and interpret five common notices.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from In the Town, then wait for an English answer.
+  - Give simple directions between two places in a town.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from In the Town.
+  - Tell me where the nearest bank, post office or station is in your town.

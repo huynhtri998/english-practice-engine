@@ -3,46 +3,42 @@ title: Free Time at Home
 kind: vocabulary
 level: A1-A2
 category: vocabulary.leisure
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 25
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for free time at home, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [25]
+source_coverage: Unit 25 common at-home leisure activities and personal-frequency questions are represented.
+core_concept: Use everyday verb-noun chunks to talk about what you do at home in your free time.
+mental_model: Retrieve activities as chunks, then add frequency or preference.
 key_items:
-- watch TV
-- DVD
-- listen to music
-- headphones
-- video games
-- download music/films
-- chat online
-- cooking
-- gardening
-- grow flowers/vegetables
-- novel
-- comic
-- magazine
-- newspaper
+  - gardening
+  - cooking
+  - reading
+  - using the Internet
+  - watching DVDs
+  - listening to music
+  - doing nothing
+  - chatting online
+  - video games
+  - headphones
 collocations:
-- watch TV
-- listen to the radio
-- have friends round
-- have friends to dinner
-- come to stay
-- talk on the phone
-- have a sleep
+  - listen to music
+  - read magazines / newspapers
+  - talk to somebody on the phone
+  - have friends round
+  - invite friends to dinner
+  - play video games
+  - download music / films
+  - watch a programme
+  - grow vegetables
 common_mistakes:
-- Say watch TV, not see TV; listen to the radio, not listen the radio.
+  - Learn the activity with its verb: listen to music, play games, watch a programme, grow vegetables.
+examples:
+  - I often listen to music while I cook.
+  - We sometimes have friends round at the weekend.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Free Time at Home; do not copy the source exercise.
+  - Match ten home activities with the correct verbs.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Free Time at Home, then wait for an English
-  answer.
+  - Describe your normal evening at home using four activity chunks.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Free Time at Home.
+  - What do you usually do at home when you have free time?

@@ -3,53 +3,51 @@ title: Music and Musical Instruments
 kind: vocabulary
 level: A1-A2
 category: vocabulary.leisure
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 26
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for music and musical instruments, with emphasis on natural
-  combinations and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [26]
+source_coverage: Unit 26 music/musical/musician, instrument names, play/lesson/orchestra patterns and music genres are represented.
+core_concept: Distinguish music, musical and musician, and learn instrument/genre vocabulary with natural play/listen chunks.
+mental_model: Thing/activity = music; adjective = musical; person = musician. Then retrieve instrument or genre with its normal chunk.
 key_items:
-- music
-- musical
-- musician
-- piano
-- cello
-- guitar
-- flute
-- violin
-- trumpet
-- clarinet
-- drums
-- orchestra
-- classical music
-- opera
-- pop music
-- folk music
-- jazz
-- rock
-- band
-- concert
+  - music
+  - musical
+  - musician
+  - flute
+  - piano
+  - cello
+  - guitar
+  - drums
+  - violin
+  - trumpet
+  - clarinet
+  - orchestra
+  - classical music
+  - opera
+  - pop music
+  - folk music
+  - jazz
+  - rock
 collocations:
-- play an instrument
-- have piano lessons
-- play in an orchestra
-- listen to music
-- go to a concert
+  - play the guitar / piano / violin
+  - play the drums
+  - have piano lessons
+  - play in an orchestra
+  - listen to music
+  - download songs
+  - go to a concert
 common_mistakes:
-- Music is uncountable.
-- Use musical instruments, not music instruments.
-- Use classical music, not classic music in this meaning.
+  - Music is uncountable in the source: avoid musics.
+  - Say musical instruments, not music instruments.
+  - Use classical music, not classic music, for the genre.
+  - A band is a group of musicians; a concert is an event.
+examples:
+  - She plays the clarinet in an orchestra.
+  - I listen to jazz more often than classical music.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Music and Musical Instruments; do not copy the
-  source exercise.
+  - Choose music, musical or musician in short contexts and match instruments to play-patterns.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Music and Musical Instruments, then wait
-  for an English answer.
+  - Describe your music preferences and one instrument you can or would like to play.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Music and Musical Instruments.
+  - What music do you listen to most, and can you play an instrument?
