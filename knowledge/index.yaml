@@ -1,5 +1,5 @@
 version: 1
-status: expanding
+status: expanded
 
 sources:
   - id: egiu-4e
@@ -20,9 +20,9 @@ knowledge:
     count: 59
     root: knowledge/vocabulary
   maturity:
-    expanded: 131
+    expanded: 153
     curated: 0
-    normalized_core_remaining: 22
+    normalized_core_remaining: 0
 
 cross_book_units:
   - vocabulary.verb.go
@@ -38,3 +38,4 @@ notes:
   - Source PDFs remain outside Git; source_refs point back to book/unit metadata.
   - normalized-core means the canonical concept is present; expanded means important source distinctions have been represented in reusable form.
   - Examples and drills in the repository are original rather than copied from source exercises.
+  - Source-grounded expansion is complete for both registered elementary books.
