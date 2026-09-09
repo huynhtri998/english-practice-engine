@@ -3,25 +3,25 @@ title: Enough
 kind: grammar
 level: elementary
 category: grammar.adjectives-adverbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 91
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use enough before nouns but after adjectives/adverbs to mean the required amount or degree.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Enough distinction and ask the learner to choose the natural/correct
-  one.
-production_drills:
-- Ask for one original sentence that demonstrates Enough; add a negative/question transformation when that form
-  is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Enough without naming the grammar point in the
-  question.
+  - source: egiu-4e
+    units: [91]
+source_coverage: Unit 91 enough + noun, adjective/adverb + enough and enough + to/for patterns are represented.
+core_concept: Enough means the required amount or degree; its position changes with nouns versus adjectives/adverbs.
+mental_model: With a noun, enough goes before it; with a quality, enough goes after the adjective/adverb.
 forms:
   noun: enough + noun
   adjective_adverb: adjective/adverb + enough
+  result: enough + noun + to; adjective + enough + to
+common_mistakes:
+  - Say big enough, not enough big.
+examples:
+  - We have enough time to run the tests.
+  - The explanation was clear enough to follow.
+recognition_drills:
+  - Put enough in the correct position.
+production_drills:
+  - Combine two facts using enough + to.
+speaking_drills:
+  - Do you have enough time to practise English today?

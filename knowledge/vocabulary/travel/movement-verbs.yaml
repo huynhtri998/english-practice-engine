@@ -1,54 +1,42 @@
 id: vocabulary.movement-verbs
-title: Movement and Transport Verbs
+title: Moving
 kind: vocabulary
 level: A1-A2
 category: vocabulary.travel
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 49
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for movement and transport verbs, with emphasis on natural
-  combinations and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [49]
+source_coverage: Unit 49 movement/action verbs, ride/drive/take/go by transport distinctions and common irregular past forms are represented.
+core_concept: Distinguish movement by body/action from operating/riding/taking transport and learn the frequent verb-object combinations.
+mental_model: How are you moving? on foot/body action, riding, operating, or using transport as a passenger.
 key_items:
-- walk
-- run
-- jump
-- dance
-- swim
-- climb
-- fall
-- go by
-- take
-- ride
-- drive
-- fly
-- arrive
-- leave
-- catch
-- miss
-- carry
-- pass
+  - run
+  - walk
+  - swim
+  - climb
+  - fall
+  - jump
+  - dance
+  - ride
+  - drive
+  - fly
+  - carry
+  - miss
 collocations:
-- go by train/car
-- take a taxi/bus
-- ride a bike/horse
-- drive a car/bus
-- fly a plane
-- arrive in/at
-- catch/miss a train
+  - ride a bicycle/motorbike/horse
+  - drive a car/lorry/train
+  - take a bus/taxi/underground
+  - go by car/bus/train/plane
+  - walk to work
+  - go swimming/climbing/dancing
 common_mistakes:
-- Use by train/by car, not by a train/by a car.
-- Use arrive in/at, not arrive to.
+  - With by + transport, omit a/the in the source pattern: by car, by taxi.
+examples:
+  - I usually walk to work, but sometimes I take a taxi.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Movement and Transport Verbs; do not copy the
-  source exercise.
+  - Choose ride/drive/take/go by for different transport.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Movement and Transport Verbs, then wait
-  for an English answer.
+  - Describe how you travelled yesterday using past forms of three movement verbs.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Movement and Transport Verbs.
+  - How do you usually travel around your city?

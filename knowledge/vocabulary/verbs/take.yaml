@@ -1,40 +1,39 @@
 id: vocabulary.verb.take
-title: 'Take: Core Uses and Collocations'
+title: Take: Core Uses and Collocations
 kind: vocabulary
 level: A1-A2
 category: vocabulary.verbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 43
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: 'Core elementary vocabulary and useful chunks for take: core uses and collocations, with emphasis
-  on natural combinations and active use.'
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [43]
+source_coverage: Unit 43 time-taken pattern, taking things with you, transport and common activity collocations are represented.
+core_concept: Take appears in several high-frequency chunks: duration, carrying something away/with you, transport, photos, courses/exams and lessons.
+mental_model: Do not translate take as one meaning; retrieve the whole chunk attached to the situation.
+forms:
+  duration: it takes + person + time + to + verb
 key_items:
-- take time
-- take something with you
-- take a photo
-- take a course
-- take an exam
-- take lessons
-- take the bus
-- take the underground
-- take a taxi
+  - take an umbrella
+  - take a photo
+  - take a course
+  - take an exam
+  - take lessons
+  - take the bus/train/underground
+  - take a taxi
 collocations:
-- It takes me ... minutes
-- How long does it take?
-- take a photo
-- take an exam
-- take the bus
+  - How long does it take ...?
+  - take something with you
+  - take a photo
+  - take an English course
+  - take an exam
+common_mistakes:
+  - Learn take + transport/activity as fixed chunks rather than substituting make.
+examples:
+  - It takes me twenty minutes to get there.
+  - I usually take the bus when it rains.
 recognition_drills:
-- 'Create a fresh matching/choice item using the key vocabulary for Take: Core Uses and Collocations; do not copy
-  the source exercise.'
+  - Match take-collocations to duration, transport, study or carrying meanings.
 production_drills:
-- 'Give a short Vietnamese prompt that naturally requires vocabulary from Take: Core Uses and Collocations, then
-  wait for an English answer.'
+  - Answer three How long does it take...? prompts and use two other take chunks.
 speaking_drills:
-- 'Ask one short personal question that naturally elicits two or more items from Take: Core Uses and Collocations.'
+  - How long does it take you to get to work?

@@ -3,28 +3,30 @@ title: Comparatives
 kind: grammar
 level: elementary
 category: grammar.adjectives-adverbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 87
-  - 88
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Form comparative adjectives with -er or more and use than when explicitly comparing two things.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Comparatives distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Comparatives; add a negative/question transformation when that
-  form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Comparatives without naming the grammar point in
-  the question.
+  - source: egiu-4e
+    units: [87, 88]
+source_coverage: Units 87-88 comparative formation, irregular forms, than, pronoun/clause alternatives and degree modifiers are represented.
+core_concept: Form comparisons with -er for many short adjectives and more for longer ones, then use than to name the comparison target.
+mental_model: Property -> comparative form -> than + reference point.
 forms:
-  short_adjective: adjective-er (+ than)
-  long_adjective: more + adjective (+ than)
-prerequisites:
-- grammar.adjectives
+  short: adjective + -er
+  y_ending: -y -> -ier
+  long: more + adjective
+  irregular: [good/well -> better, bad -> worse, far -> further]
+usage:
+  - than + object pronoun or full comparison clause
+  - a bit/much + comparative for degree
+  - more/less than for quantities
+common_mistakes:
+  - Avoid more older/more cheaper.
+examples:
+  - This query is much faster than the old one.
+  - The new approach is a bit more expensive but safer.
+recognition_drills:
+  - Form regular/irregular comparatives and choose the natural than-structure.
+production_drills:
+  - Compare two tools using three different comparative patterns.
+speaking_drills:
+  - Is working remotely easier or harder than working in the office for you?

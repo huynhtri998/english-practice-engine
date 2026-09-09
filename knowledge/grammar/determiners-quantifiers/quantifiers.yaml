@@ -1,24 +1,30 @@
 id: grammar.quantifiers
-title: All, Most, Some, Any and None
+title: All, Most, Some, Any, No and None
 kind: grammar
 level: elementary
 category: grammar.determiners-quantifiers
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 81
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use these quantifiers to express how much or how many of a group is included.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [81]
+source_coverage: Unit 81 general quantifiers, of-patterns, pronoun forms and no/none distinctions are represented.
+core_concept: Use quantifiers directly before a general noun, but use of before a determiner/pronoun-defined group.
+mental_model: General category -> quantifier + noun; specific known set -> quantifier + of + determiner/pronoun.
+forms:
+  general: all/most/some/any/no + noun
+  specific: all/most/some/any/none + of + the/this/my/us/them...
+usage:
+  - all may appear with or without of before the/this/my-type determiners
+  - none replaces no when the noun is omitted
+common_mistakes:
+  - Say most people, not most of people.
+  - Say some of these books when the group is specifically identified.
+examples:
+  - Most developers on the team use this tool.
+  - Some of these tests are flaky; none of them are blocking.
 recognition_drills:
-- Generate two original sentences that differ on the main All, Most, Some, Any and None distinction and ask the
-  learner to choose the natural/correct one.
+  - Choose whether of is required after a quantifier.
 production_drills:
-- Ask for one original sentence that demonstrates All, Most, Some, Any and None; add a negative/question transformation
-  when that form is relevant.
+  - Rewrite general statements as statements about a specific group.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits All, Most, Some, Any and None without naming the
-  grammar point in the question.
+  - How many of your teammates work remotely: all, most, some or none?

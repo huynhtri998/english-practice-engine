@@ -1,25 +1,28 @@
 id: grammar.when-clauses
-title: When Clauses
+title: When, Before, After, While and Until
 kind: grammar
 level: elementary
 category: grammar.clauses
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 98
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use when to connect a time clause and a main clause; future meaning in the when-clause normally uses
-  a present form rather than will.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [98]
+source_coverage: Unit 98 time-clause connectors and future-time use without will in the time clause are represented.
+core_concept: Time clauses locate one event relative to another; for future meaning, use present form in the when/before/after/until clause rather than will.
+mental_model: Main event + time relationship; the time clause acts like a condition/time marker, not a future prediction clause.
+usage:
+  - when for the time something happens
+  - before/after for sequence
+  - while for simultaneous duration
+  - until for continuing to an endpoint
+common_mistakes:
+  - For future time, say when I get home, not when I will get home.
+examples:
+  - I'll message you when I finish work.
+  - I listened to English while I was walking.
 recognition_drills:
-- Generate two original sentences that differ on the main When Clauses distinction and ask the learner to choose
-  the natural/correct one.
+  - Choose the connector and correct future-time will errors.
 production_drills:
-- Ask for one original sentence that demonstrates When Clauses; add a negative/question transformation when that
-  form is relevant.
+  - Combine two events with when/before/after/while/until.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits When Clauses without naming the grammar point in
-  the question.
+  - What do you usually do when you finish work?

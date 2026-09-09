@@ -3,27 +3,29 @@ title: Superlatives
 kind: grammar
 level: elementary
 category: grammar.adjectives-adverbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 90
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use the + -est or the most to identify the highest/lowest degree within a group.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Superlatives distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Superlatives; add a negative/question transformation when that
-  form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Superlatives without naming the grammar point in
-  the question.
+  - source: egiu-4e
+    units: [90]
+source_coverage: Unit 90 -est/most formation, irregular superlatives, the, in/of groups and ever patterns are represented.
+core_concept: Use a superlative to identify the highest/lowest member of a group, normally with the.
+mental_model: Compare one item against the whole group -> the + superlative.
 forms:
-  short_adjective: the + adjective-est
-  long_adjective: the most + adjective
-prerequisites:
-- grammar.comparatives
+  short: the + adjective-est
+  long: the most + adjective
+  irregular: [good -> best, bad -> worst, far -> furthest]
+usage:
+  - in + place/group area
+  - of + set/time group
+  - the best/worst ... ever for experience
+common_mistakes:
+  - Use the before normal superlative noun phrases.
+examples:
+  - That's the fastest build we've had this week.
+  - It was the most useful lesson of the course.
+recognition_drills:
+  - Choose comparative or superlative and form it correctly.
+production_drills:
+  - Describe the best, hardest and most interesting parts of your week.
+speaking_drills:
+  - What's the most useful English habit you've tried?

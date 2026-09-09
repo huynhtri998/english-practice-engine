@@ -3,23 +3,24 @@ title: Adjectives
 kind: grammar
 level: elementary
 category: grammar.adjectives-adverbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 85
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use adjectives to describe nouns or after linking verbs such as be; adjectives do not change for plural
-  nouns.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [85]
+source_coverage: Unit 85 adjective-before-noun and adjective-after be/look/feel/sound/smell/taste patterns are represented.
+core_concept: Adjectives describe nouns and also follow linking verbs that describe a subject's state or impression.
+mental_model: Describe a noun directly before it, or describe the subject after a linking verb.
+forms:
+  attributive: adjective + noun
+  linking: be/look/feel/sound/smell/taste + adjective
+common_mistakes:
+  - Use an adjective after look/feel/sound/taste when describing the subject, not an adverb.
+examples:
+  - That's a difficult problem.
+  - The plan sounds reasonable, but I feel tired.
 recognition_drills:
-- Generate two original sentences that differ on the main Adjectives distinction and ask the learner to choose the
-  natural/correct one.
+  - Choose adjective/adverb in linking-verb contexts.
 production_drills:
-- Ask for one original sentence that demonstrates Adjectives; add a negative/question transformation when that form
-  is relevant.
+  - Describe five things using both adjective positions.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Adjectives without naming the grammar point in
-  the question.
+  - How do you feel today, and how does your current project sound to you?

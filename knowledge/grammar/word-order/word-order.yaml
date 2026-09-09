@@ -3,23 +3,25 @@ title: Basic Word Order
 kind: grammar
 level: elementary
 category: grammar.word-order
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 93
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Keep the basic order subject + verb + object/place/time, and place manner expressions in their normal
-  sentence position.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [93]
+source_coverage: Unit 93 verb-object adjacency and usual place-before-time ordering are represented.
+core_concept: Keep verb and object together; when both place and time appear after the verb, place usually comes before time.
+mental_model: subject -> verb -> object -> place -> time.
+forms:
+  core: subject + verb + object
+  adjuncts: place + time
+common_mistakes:
+  - Do not normally split a verb from its object with a time phrase.
+  - Put place before time in the source's neutral word order.
+examples:
+  - I finished the migration at home last night.
+  - She explained the problem clearly.
 recognition_drills:
-- Generate two original sentences that differ on the main Basic Word Order distinction and ask the learner to choose
-  the natural/correct one.
+  - Reorder scrambled sentences using verb-object-place-time.
 production_drills:
-- Ask for one original sentence that demonstrates Basic Word Order; add a negative/question transformation when
-  that form is relevant.
+  - Expand short clauses with both place and time details.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Basic Word Order without naming the grammar point
-  in the question.
+  - What did you do at work yesterday afternoon?

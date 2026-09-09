@@ -1,38 +1,37 @@
 id: vocabulary.verb.come
-title: 'Come: Core Uses'
+title: Come: Core Uses
 kind: vocabulary
 level: A1-A2
 category: vocabulary.verbs
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 42
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: 'Core elementary vocabulary and useful chunks for come: core uses, with emphasis on natural combinations
-  and active use.'
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [42]
+source_coverage: Unit 42 come vs go direction, come in/out, come back/home/from/along and common usage warnings are represented.
+core_concept: Come normally expresses movement toward the speaker/reference place; learn the high-frequency preposition/particle chunks around that viewpoint.
+mental_model: Movement toward 'here' -> come; movement away toward 'there' -> go.
 key_items:
-- come in
-- come out of
-- come back
-- come home
-- come from
-- come along
-- come and see
+  - come in
+  - come out of
+  - come back
+  - come back from
+  - come home
+  - come from
+  - come along
+  - come and see
 collocations:
-- come back from a place
-- come home
-- come from a country
-- come along with us
+  - come from + place
+  - come back from + place
+  - come home
+  - come along with us
 common_mistakes:
-- For origin, use I come from Poland / I am from Poland, not I am coming from Poland.
+  - For origin, the source uses I come from Poland, not I'm coming from Poland.
+examples:
+  - I came back from the office late yesterday.
+  - Do you want to come along?
 recognition_drills:
-- 'Create a fresh matching/choice item using the key vocabulary for Come: Core Uses; do not copy the source exercise.'
+  - Choose come/go from the speaker's viewpoint.
 production_drills:
-- 'Give a short Vietnamese prompt that naturally requires vocabulary from Come: Core Uses, then wait for an English
-  answer.'
+  - Create sentences using come in, come back, come from and come along.
 speaking_drills:
-- 'Ask one short personal question that naturally elicits two or more items from Come: Core Uses.'
+  - What time do you normally come home from work?
