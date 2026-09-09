@@ -1,5 +1,5 @@
 version: 1
-status: normalized-core
+status: expanding
 
 sources:
   - id: egiu-4e
@@ -19,6 +19,10 @@ knowledge:
   vocabulary:
     count: 59
     root: knowledge/vocabulary
+  maturity:
+    expanded: 22
+    curated: 0
+    normalized_core_remaining: 131
 
 cross_book_units:
   - vocabulary.verb.go
@@ -27,7 +31,10 @@ cross_book_units:
   - vocabulary.collocation.do-vs-make
   - vocabulary.phrasal-verbs-basic
 
+migration_runner: docs/migrations/source-grounded-expansion.yaml
+
 notes:
   - Canonical Knowledge Units are organized by concept, not by book unit.
   - Source PDFs remain outside Git; source_refs point back to book/unit metadata.
-  - normalized-core means reusable source-grounded knowledge, not copied book pages or exercise sets.
+  - normalized-core means the canonical concept is present; expanded means important source distinctions have been represented in reusable form.
+  - Examples and drills in the repository are original rather than copied from source exercises.
