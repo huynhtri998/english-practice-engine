@@ -1,0 +1,56 @@
+id: vocabulary.bedroom-bathroom
+title: Bedroom and Bathroom
+kind: vocabulary
+level: A1-A2
+category: vocabulary.home
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 12
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for bedroom and bathroom, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- bed
+- bedside lamp
+- alarm clock
+- pyjamas
+- dressing table
+- chest of drawers
+- mirror
+- wardrobe
+- bedside table
+- hairbrush
+- comb
+- toothpaste
+- toothbrush
+- soap
+- basin
+- razor
+- toilet
+- towel
+- shower
+- shampoo
+- shower gel
+collocations:
+- go to bed
+- get undressed
+- get into bed
+- fall asleep
+- wake up
+- get up
+- have a shower
+- clean your teeth
+- get dressed
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Bedroom and Bathroom; do not copy the source
+  exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Bedroom and Bathroom, then wait for an
+  English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Bedroom and Bathroom.

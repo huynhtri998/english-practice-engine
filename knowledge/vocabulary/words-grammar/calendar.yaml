@@ -1,0 +1,69 @@
+id: vocabulary.calendar
+title: Days, Months and Seasons
+kind: vocabulary
+level: A1-A2
+category: vocabulary.words-grammar
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 51
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for days, months and seasons, with emphasis on natural
+  combinations and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- day
+- week
+- fortnight
+- month
+- year
+- leap year
+- hour
+- minute
+- second
+- century
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
+- Saturday
+- Sunday
+- weekend
+- January
+- February
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- December
+- spring
+- summer
+- autumn
+- winter
+collocations:
+- on Monday
+- on Tuesday evening
+- at the weekend
+- in July
+- in summer
+common_mistakes:
+- Days and months begin with capital letters; seasons normally do not.
+- Use at the weekend in the source variety, not in the weekend.
+- Use in + month/season, e.g. in July.
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Days, Months and Seasons; do not copy the source
+  exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Days, Months and Seasons, then wait for
+  an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Days, Months and Seasons.

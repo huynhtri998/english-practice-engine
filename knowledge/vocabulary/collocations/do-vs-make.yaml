@@ -1,0 +1,65 @@
+id: vocabulary.collocation.do-vs-make
+title: Do vs Make Collocations
+kind: vocabulary
+level: A1-A2
+category: vocabulary.collocations
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 40
+  - 41
+- source: egiu-4e
+  units:
+  - 57
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Choose do for general tasks/activities and learned do-collocations; choose make for creating/producing
+  and learned make-collocations.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- do nothing
+- do the housework
+- do the gardening
+- do the washing
+- do the washing-up
+- do your homework
+- do exercises
+- do business
+- do your best
+- make coffee
+- make dinner
+- make a photocopy
+- make a film/video
+- make a mistake
+- make an appointment
+- make your bed
+- make a noise
+- make a mess
+- make a choice
+collocations:
+- do homework
+- do housework
+- do an exercise
+- make a mistake
+- make an appointment
+- make a phone call
+- make a list
+- make a noise
+- make a bed
+common_mistakes:
+- Do homework, not make homework.
+- Take or do an exam, not make an exam.
+- Take a photo, not make a photo.
+- Do the washing, not make the washing.
+related:
+- grammar.auxiliaries-be-have-do
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Do vs Make Collocations; do not copy the source
+  exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Do vs Make Collocations, then wait for
+  an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Do vs Make Collocations.

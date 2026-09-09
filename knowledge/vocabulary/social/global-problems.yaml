@@ -1,0 +1,48 @@
+id: vocabulary.global-problems
+title: Global Problems
+kind: vocabulary
+level: A1-A2
+category: vocabulary.social
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 37
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for global problems, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- hurricane
+- snowstorm
+- forest fire
+- earthquake
+- flood
+- crowded
+- poor
+- hungry
+- homeless
+- unemployed
+- pollution
+- polluted
+- war
+- strike
+- car crash
+- traffic jam
+- rush hour
+collocations:
+- air pollution
+- go on strike
+- traffic jam
+- rush hour
+- car crash
+- forest fire
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Global Problems; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Global Problems, then wait for an English
+  answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Global Problems.

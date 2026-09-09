@@ -1,0 +1,50 @@
+id: vocabulary.phrasal-verbs-basic
+title: Basic Phrasal Verbs
+kind: vocabulary
+level: A1-A2
+category: vocabulary.verbs
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 46
+- source: egiu-4e
+  units:
+  - 114
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for basic phrasal verbs, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- get up
+- get on
+- get off
+- turn on
+- turn off
+- turn up
+- turn down
+- go on
+- go off
+- put on
+- come on
+- take off
+collocations:
+- get on/off a bus
+- turn the TV on/off/up/down
+- go on doing something
+- put a coat on
+- take off a plane/shoes
+confusions:
+- A phrasal verb can have more than one meaning, e.g. turn down = reduce volume or refuse; take off = leave the
+  ground or remove clothing.
+related:
+- grammar.phrasal-verb-object-order
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Basic Phrasal Verbs; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Basic Phrasal Verbs, then wait for an English
+  answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Basic Phrasal Verbs.

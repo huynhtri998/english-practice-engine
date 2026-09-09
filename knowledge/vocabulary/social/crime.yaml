@@ -1,0 +1,56 @@
+id: vocabulary.crime
+title: Crime
+kind: vocabulary
+level: A1-A2
+category: vocabulary.social
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 34
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for crime, with emphasis on natural combinations and
+  active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- robbery
+- murder
+- burglary
+- mugging
+- car theft
+- drug dealing
+- terrorism
+- shoplifting
+- robber
+- murderer
+- burglar
+- mugger
+- thief
+- drug dealer
+- terrorist
+- shoplifter
+- arrest
+- court
+- guilty
+- innocent
+- fine
+- prison
+- vandalism
+collocations:
+- rob somebody/a place
+- steal something
+- break into a house
+- pay a fine
+- go to prison
+common_mistakes:
+- A thief steals something; a robber robs somebody or a place.
+- Say somebody stole my bicycle, not robbed my bicycle.
+- Say I was robbed, not I was stolen.
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Crime; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Crime, then wait for an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Crime.

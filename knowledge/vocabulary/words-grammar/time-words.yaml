@@ -1,0 +1,56 @@
+id: vocabulary.time-words
+title: Time Words
+kind: vocabulary
+level: A1-A2
+category: vocabulary.words-grammar
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 52
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for time words, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- now
+- then
+- ago
+- last
+- next
+- past
+- present
+- future
+- always
+- usually
+- often
+- sometimes
+- occasionally
+- now and then
+- not often
+- rarely
+- never
+- once
+- twice
+- soon
+- recently
+- at the moment
+- in a moment
+collocations:
+- an hour ago
+- last week
+- next month
+- in the past
+- in the future
+- once a week
+- twice a day
+- three times a year
+- at the moment
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Time Words; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Time Words, then wait for an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Time Words.

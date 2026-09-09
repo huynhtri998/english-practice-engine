@@ -1,0 +1,54 @@
+id: vocabulary.movement-verbs
+title: Movement and Transport Verbs
+kind: vocabulary
+level: A1-A2
+category: vocabulary.travel
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 49
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for movement and transport verbs, with emphasis on natural
+  combinations and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- walk
+- run
+- jump
+- dance
+- swim
+- climb
+- fall
+- go by
+- take
+- ride
+- drive
+- fly
+- arrive
+- leave
+- catch
+- miss
+- carry
+- pass
+collocations:
+- go by train/car
+- take a taxi/bus
+- ride a bike/horse
+- drive a car/bus
+- fly a plane
+- arrive in/at
+- catch/miss a train
+common_mistakes:
+- Use by train/by car, not by a train/by a car.
+- Use arrive in/at, not arrive to.
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Movement and Transport Verbs; do not copy the
+  source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Movement and Transport Verbs, then wait
+  for an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Movement and Transport Verbs.

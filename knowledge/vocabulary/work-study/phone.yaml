@@ -1,0 +1,48 @@
+id: vocabulary.phone
+title: Your Phone
+kind: vocabulary
+level: A1-A2
+category: vocabulary.work-study
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 17
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for your phone, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- camera
+- battery
+- screen
+- phone case
+- apps
+- power button
+- charger
+- SIM card
+- selfie
+- voicemail
+- message
+- PIN
+- swipe
+- save
+- delete
+- download
+collocations:
+- take a selfie
+- post a photo online
+- leave a voicemail
+- text somebody an address
+- download an app
+- unlock a phone
+- swipe the screen
+- save/delete photos
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Your Phone; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Your Phone, then wait for an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Your Phone.

@@ -1,0 +1,51 @@
+id: vocabulary.communications
+title: Communications
+kind: vocabulary
+level: A1-A2
+category: vocabulary.work-study
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 16
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for communications, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- address
+- stamp
+- envelope
+- letter
+- letter box
+- email
+- computer
+- screen
+- keyboard
+- mouse
+- laptop
+- memory stick
+- mobile device
+- mobile phone
+- phone box
+- phone number
+- voicemail
+- text message
+collocations:
+- put a stamp on an envelope
+- post a letter
+- send/get an email
+- make a phone call
+- leave a voicemail
+- send a text
+- call back
+- take a message
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Communications; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Communications, then wait for an English
+  answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Communications.

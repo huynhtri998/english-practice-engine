@@ -1,0 +1,44 @@
+id: vocabulary.family
+title: Family
+kind: vocabulary
+level: A1-A2
+category: vocabulary.people
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 1
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for family, with emphasis on natural combinations and
+  active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- parent
+- mother
+- father
+- son
+- daughter
+- brother
+- sister
+- grandparent
+- grandmother
+- grandfather
+- uncle
+- aunt
+- niece
+- nephew
+- cousin
+- only child
+collocations:
+- have brothers and sisters
+- come from a big family
+common_mistakes:
+- Use wives as the plural of wife.
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Family; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Family, then wait for an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Family.

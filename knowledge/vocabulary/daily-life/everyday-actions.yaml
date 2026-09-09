@@ -1,0 +1,48 @@
+id: vocabulary.everyday-actions
+title: Everyday Actions and Routines
+kind: vocabulary
+level: A1-A2
+category: vocabulary.daily-life
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 47
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for everyday actions and routines, with emphasis on natural
+  combinations and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- wake up
+- get up
+- go to the bathroom
+- have a shower
+- have breakfast
+- listen to the radio
+- go to work
+- come home
+- make dinner
+- phone/call a friend
+- watch TV
+- go to bed
+- wash clothes
+- clean the house
+- go for a walk
+- write emails
+- go out
+collocations:
+- How often do you ...?
+- What time do you ...?
+- go to work by bus/train/car
+common_mistakes:
+- Use usually get up for a normal routine; do not use used to to mean usually.
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Everyday Actions and Routines; do not copy the
+  source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Everyday Actions and Routines, then wait
+  for an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Everyday Actions and Routines.

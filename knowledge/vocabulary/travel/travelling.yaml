@@ -1,0 +1,58 @@
+id: vocabulary.travelling
+title: Travelling
+kind: vocabulary
+level: A1-A2
+category: vocabulary.travel
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 32
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for travelling, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- train
+- bus
+- bicycle/bike
+- taxi
+- car
+- helicopter
+- plane
+- motorbike
+- underground
+- boat
+- ship
+- map
+- timetable
+- customs
+- luggage
+- passport
+- single ticket
+- return ticket
+- platform
+- boarding card
+- flight attendant
+collocations:
+- book/reserve a seat in advance
+- change trains
+- direct train
+- check in
+- take off
+- land
+- go through customs
+- hire a car
+- fill up with petrol
+- give somebody a lift
+common_mistakes:
+- 'Use journey for a specific trip duration: Was the journey long?'
+- At customs, officers check a passport, not control it.
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Travelling; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Travelling, then wait for an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Travelling.

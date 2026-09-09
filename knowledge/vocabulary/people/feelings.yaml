@@ -1,0 +1,51 @@
+id: vocabulary.feelings
+title: Feelings
+kind: vocabulary
+level: A1-A2
+category: vocabulary.people
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 7
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for feelings, with emphasis on natural combinations and
+  active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- love
+- like
+- hate
+- happy
+- sad
+- angry
+- upset
+- cold
+- hot
+- thirsty
+- hungry
+- well
+- ill
+- tired
+- surprised
+- prefer
+- hope
+- want
+collocations:
+- prefer coffee to tea
+- hope to do something
+- want to do something
+- want somebody to do something
+- happy about news
+- happy for somebody
+common_mistakes:
+- 'Do not place very directly before like: use really like or like ... very much.'
+- Use want somebody to do, not want that somebody does.
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Feelings; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Feelings, then wait for an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Feelings.

@@ -1,0 +1,47 @@
+id: vocabulary.media
+title: The Media
+kind: vocabulary
+level: A1-A2
+category: vocabulary.social
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 35
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for the media, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- news
+- soap opera
+- nature programme
+- documentary
+- talk show
+- cartoon
+- reality TV
+- sports programme
+- newspaper
+- magazine
+- advertisement/advert
+- interview
+- reporter
+- journalist
+- article
+- channel
+collocations:
+- watch the news/TV
+- read a newspaper
+- write for a newspaper
+- change the channel
+- What’s on TV?
+common_mistakes:
+- 'News is grammatically singular in the source pattern: the news is ..., not the news are.'
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for The Media; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from The Media, then wait for an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from The Media.

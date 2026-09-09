@@ -1,0 +1,50 @@
+id: vocabulary.living-room
+title: In the Living Room
+kind: vocabulary
+level: A1-A2
+category: vocabulary.home
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 13
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for in the living room, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- bookshelf
+- light
+- window
+- curtains
+- picture
+- lamp
+- light switch
+- TV
+- hi-fi
+- sofa
+- table
+- socket
+- remote control
+- armchair
+- coffee table
+- rug
+- carpet
+collocations:
+- watch television
+- listen to the radio/music
+- close the curtains
+- switch/turn the light on
+- turn the radio off
+- pass the remote control
+common_mistakes:
+- 'Furniture is uncountable: the furniture is ..., not the furniture are/furnitures.'
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for In the Living Room; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from In the Living Room, then wait for an English
+  answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from In the Living Room.

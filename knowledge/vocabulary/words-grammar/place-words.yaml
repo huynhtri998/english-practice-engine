@@ -1,0 +1,52 @@
+id: vocabulary.place-words
+title: Place Words
+kind: vocabulary
+level: A1-A2
+category: vocabulary.words-grammar
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 53
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for place words, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- here
+- there
+- back
+- everywhere
+- in
+- at
+- 'on'
+- top
+- middle
+- bottom
+- front
+- side
+- back
+- beginning
+- end
+- left
+- right
+- at home
+- out
+- away
+- abroad
+collocations:
+- in a city/country
+- at the station
+- on the wall
+- at the front
+- on the left/right
+- go away
+- be abroad
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Place Words; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Place Words, then wait for an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Place Words.
