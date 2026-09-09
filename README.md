@@ -33,13 +33,13 @@ The repository is organized around **knowledge concepts, not book chapters**. A 
 
 ```text
 english-practice-engine/
-├── docs/          # Architecture, migration status, Project instructions
+├── docs/          # Architecture, migration status, Project instructions, practice workflow
 ├── sources/       # Source metadata only; no copyrighted PDFs/EPUBs
 ├── mappings/      # Book unit → canonical knowledge mapping
 ├── knowledge/     # Grammar/vocabulary KUs + registry index
-├── practice/      # Practice-format specifications
+├── practice/      # Practice-format specifications and examples
 ├── schemas/       # Machine-readable data contracts
-├── prompts/       # Reusable practice prompts
+├── prompts/       # Reusable practice/evaluation prompts
 └── user-data/     # Local learning state; real personal state is gitignored
 ```
 
@@ -81,7 +81,9 @@ See `knowledge/index.yaml`, `docs/migration-status.md`, and `docs/migrations/sou
 
 ## Current phase
 
-Source-grounded knowledge migration for both elementary books is complete. The active phase is to make the manual practice/review loop operational: select due and weak KUs, test retrieval before explanation, evaluate recognition/production/speaking separately, log mistakes privately, and schedule targeted re-tests.
+Source-grounded knowledge migration for both elementary books is complete. The first manual practice workflow is now defined with a session schema, retrieval-first generation rules, answer-evaluation rules, review intervals, and private-state guidance.
+
+The next step is to validate this workflow through real sessions and then refine due/weak KU selection, mastery updates, spaced review, and speaking-reflex behavior based on actual learner performance.
 
 ## Roadmap
 
@@ -90,8 +92,8 @@ Source-grounded knowledge migration for both elementary books is complete. The a
 - [x] v0.3 — Map Essential Grammar in Use units to canonical KUs
 - [x] v0.4 — Normalize Essential Grammar in Use knowledge
 - [x] v0.4.1 — Source-grounded expand both registered books
-- [ ] v0.5 — Define and validate practice generators
-- [ ] v0.6 — Add spaced-repetition/review state workflow
-- [ ] v0.7 — Add speaking-reflex workflow
+- [x] v0.5 — Define the manual practice/session/evaluation workflow
+- [ ] v0.6 — Validate and refine spaced-repetition/review state workflow
+- [ ] v0.7 — Validate and refine speaking-reflex workflow
 - [x] v0.8 — Normalize English Vocabulary in Use: Elementary
 - [ ] v1.0 — Daily English Practice Engine
