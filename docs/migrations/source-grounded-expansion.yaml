@@ -7,18 +7,18 @@ branch: migration/source-grounded-expansion
 sources:
   egiu-4e:
     total_units: 115
-    expanded_units: 40
-    next_unit: 41
+    expanded_units: 60
+    next_unit: 61
   eviu-elementary-3e:
     total_units: 60
-    expanded_units: 20
-    next_unit: 21
+    expanded_units: 30
+    next_unit: 31
 
 knowledge:
   canonical_total: 153
-  expanded: 49
+  expanded: 79
   curated: 0
-  normalized_core_remaining: 104
+  normalized_core_remaining: 74
 
 batch_policy:
   grammar_source_units: 20
@@ -34,11 +34,15 @@ completed_batches:
     grammar_units: [21, 40]
     vocabulary_units: [11, 20]
     expanded_kus: 27
+  - id: batch-03
+    grammar_units: [41, 60]
+    vocabulary_units: [21, 30]
+    expanded_kus: 30
 
 current_batch:
-  id: batch-03
-  grammar_units: [41, 60]
-  vocabulary_units: [21, 30]
+  id: batch-04
+  grammar_units: [61, 80]
+  vocabulary_units: [31, 40]
   status: pending
 
 checks:
