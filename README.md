@@ -33,35 +33,38 @@ The repository is organized around **knowledge concepts, not book chapters**. A 
 
 ```text
 english-practice-engine/
-├── docs/          # Architecture and ChatGPT Project instructions
+├── docs/          # Architecture, migration status, Project instructions
 ├── sources/       # Source metadata only; no copyrighted PDFs/EPUBs
 ├── mappings/      # Book unit → canonical knowledge mapping
-├── knowledge/     # Normalized grammar/vocabulary knowledge
+├── knowledge/     # Normalized grammar/vocabulary KUs + registry index
 ├── practice/      # Practice-format specifications
 ├── schemas/       # Machine-readable data contracts
 ├── prompts/       # Reusable practice prompts
 └── user-data/     # Local learning state; real personal state is gitignored
 ```
 
-## Registered sources
+## Registered and migrated sources
 
 ### Grammar
 
 - **Essential Grammar in Use**, Fourth Edition
 - Raymond Murphy
 - Cambridge University Press, 2015
-- Elementary grammar reference and practice book
-- 115 units
+- 115 / 115 units mapped
+- normalized into canonical grammar KUs, with shared lexical KUs where appropriate
 
 ### Vocabulary
 
 - **English Vocabulary in Use: Elementary**, Third Edition
 - Michael McCarthy and Felicity O'Dell
 - Cambridge University Press, 2017
-- A1–A2 vocabulary reference and practice book
-- 60 units
+- A1–A2
+- 60 / 60 units mapped
+- normalized into 59 vocabulary KUs because Units 40–41 share the canonical `vocabulary.collocation.do-vs-make` KU
 
-The source PDFs should remain in the ChatGPT Project source library or another private local location and must not be committed to this repository.
+The source PDFs remain in the ChatGPT Project source library or another private location and are not committed to this repository.
+
+See `knowledge/index.yaml` and `docs/migration-status.md` for migration coverage.
 
 ## Core principles
 
@@ -75,16 +78,16 @@ The source PDFs should remain in the ChatGPT Project source library or another p
 
 ## Current phase
 
-Grammar normalization comes first. Vocabulary source metadata is registered now, but detailed vocabulary normalization can follow after the grammar KU taxonomy and manual review loop are stable.
+The initial `normalized-core` migration for both elementary books is complete. The next phase is to make the manual practice and review loop operational: generate sessions from due/weak KUs, evaluate answers, log mistakes locally, and re-test production/speaking weaknesses.
 
 ## Roadmap
 
 - [x] v0.1 — Repository scaffold and architecture
-- [ ] v0.2 — Finalize Knowledge Unit schema
-- [ ] v0.3 — Map Essential Grammar in Use units to canonical KUs
-- [ ] v0.4 — Extract and normalize Essential grammar knowledge
-- [ ] v0.5 — Define practice generators
-- [ ] v0.6 — Add spaced-repetition/review state
+- [x] v0.2 — Finalize Knowledge Unit schema
+- [x] v0.3 — Map Essential Grammar in Use units to canonical KUs
+- [x] v0.4 — Extract and normalize Essential grammar knowledge
+- [ ] v0.5 — Define and validate practice generators
+- [ ] v0.6 — Add spaced-repetition/review state workflow
 - [ ] v0.7 — Add speaking-reflex workflow
-- [ ] v0.8 — Normalize English Vocabulary in Use: Elementary
+- [x] v0.8 — Normalize English Vocabulary in Use: Elementary
 - [ ] v1.0 — Daily English Practice Engine
