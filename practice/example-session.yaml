@@ -1,0 +1,34 @@
+id: session-YYYY-MM-DD
+mode: daily
+selected_knowledge:
+  - grammar.present-simple
+  - grammar.present-continuous
+  - grammar.present-perfect
+  - vocabulary.work-study.jobs
+
+items:
+  - id: q1
+    knowledge_id: grammar.present-simple
+    practice_type: vi-to-en
+    target_dimension: production
+    prompt: "Tôi thường review code vào buổi sáng."
+    hidden_target: habit/general routine
+    retest_of: null
+
+  - id: q2
+    knowledge_id: grammar.present-continuous
+    practice_type: speaking-reflex
+    target_dimension: speaking
+    prompt: "What are you working on this week?"
+    hidden_target: temporary/current-period activity
+    retest_of: null
+
+  - id: q3
+    knowledge_id: grammar.present-perfect
+    practice_type: mixed
+    target_dimension: production
+    prompt: "Tell me one thing you've finished recently."
+    hidden_target: recent completed action connected to now
+    retest_of: null
+
+results: []
