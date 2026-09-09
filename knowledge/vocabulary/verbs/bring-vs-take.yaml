@@ -1,0 +1,35 @@
+id: vocabulary.bring-vs-take
+title: Bring vs Take
+kind: vocabulary
+level: A1-A2
+category: vocabulary.verbs
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 44
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for bring vs take, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- bring
+- take
+- bring somebody something
+- bring something back
+collocations:
+- take something from here to there
+- bring something from there to here
+- bring me something
+- bring it back
+confusions:
+- Take follows the speaker’s here→there viewpoint; bring follows there→here.
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Bring vs Take; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Bring vs Take, then wait for an English
+  answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Bring vs Take.

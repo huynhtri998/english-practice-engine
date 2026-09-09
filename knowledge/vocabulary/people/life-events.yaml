@@ -1,0 +1,49 @@
+id: vocabulary.life-events
+title: Birth, Marriage and Death
+kind: vocabulary
+level: A1-A2
+category: vocabulary.people
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 2
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for birth, marriage and death, with emphasis on natural
+  combinations and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- be born
+- birthday
+- single
+- married
+- separated
+- divorced
+- widowed
+- bride
+- groom
+- honeymoon
+- die
+- dead
+- death
+collocations:
+- have a baby
+- be born in/on
+- get married to somebody
+- go on honeymoon
+- die of something
+common_mistakes:
+- Say have a baby, not get a baby.
+- Say was born, not is born for a past birth.
+- Use married to, not married with.
+- Use died for the verb, dead for the adjective, and death for the noun.
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Birth, Marriage and Death; do not copy the source
+  exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Birth, Marriage and Death, then wait for
+  an English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Birth, Marriage and Death.

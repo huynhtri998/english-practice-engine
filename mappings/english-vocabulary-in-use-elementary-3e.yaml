@@ -1,0 +1,243 @@
+book: eviu-elementary-3e
+status: complete
+units:
+  1:
+    source_label: The family
+    knowledge:
+    - vocabulary.family
+  2:
+    source_label: Birth, marriage and death
+    knowledge:
+    - vocabulary.life-events
+  3:
+    source_label: Parts of the body
+    knowledge:
+    - vocabulary.body-parts
+  4:
+    source_label: Clothes
+    knowledge:
+    - vocabulary.clothes
+  5:
+    source_label: Describing people
+    knowledge:
+    - vocabulary.describing-people
+  6:
+    source_label: Health and illness
+    knowledge:
+    - vocabulary.health-illness
+  7:
+    source_label: Feelings
+    knowledge:
+    - vocabulary.feelings
+  8:
+    source_label: 'Conversations 1: Greetings and wishes'
+    knowledge:
+    - vocabulary.greetings-wishes
+  9:
+    source_label: 'Conversations 2: Useful words and expressions'
+    knowledge:
+    - vocabulary.conversation-expressions
+  10:
+    source_label: Food and drink
+    knowledge:
+    - vocabulary.food-drink
+  11:
+    source_label: In the kitchen
+    knowledge:
+    - vocabulary.kitchen
+  12:
+    source_label: In the bedroom and bathroom
+    knowledge:
+    - vocabulary.bedroom-bathroom
+  13:
+    source_label: In the living room
+    knowledge:
+    - vocabulary.living-room
+  14:
+    source_label: Jobs
+    knowledge:
+    - vocabulary.jobs
+  15:
+    source_label: At school and university
+    knowledge:
+    - vocabulary.school-university
+  16:
+    source_label: Communications
+    knowledge:
+    - vocabulary.communications
+  17:
+    source_label: Your phone
+    knowledge:
+    - vocabulary.phone
+  18:
+    source_label: Holidays
+    knowledge:
+    - vocabulary.holidays
+  19:
+    source_label: Shops and shopping
+    knowledge:
+    - vocabulary.shopping
+  20:
+    source_label: Online shopping
+    knowledge:
+    - vocabulary.online-shopping
+  21:
+    source_label: In a hotel
+    knowledge:
+    - vocabulary.hotel
+  22:
+    source_label: Eating out
+    knowledge:
+    - vocabulary.eating-out
+  23:
+    source_label: Sports
+    knowledge:
+    - vocabulary.sports
+  24:
+    source_label: Cinema
+    knowledge:
+    - vocabulary.cinema
+  25:
+    source_label: Free time at home
+    knowledge:
+    - vocabulary.free-time-home
+  26:
+    source_label: Music and musical instruments
+    knowledge:
+    - vocabulary.music
+  27:
+    source_label: Countries and nationalities
+    knowledge:
+    - vocabulary.countries-nationalities
+  28:
+    source_label: Weather
+    knowledge:
+    - vocabulary.weather
+  29:
+    source_label: In the town
+    knowledge:
+    - vocabulary.town
+  30:
+    source_label: In the countryside
+    knowledge:
+    - vocabulary.countryside
+  31:
+    source_label: Animals
+    knowledge:
+    - vocabulary.animals
+  32:
+    source_label: Travelling
+    knowledge:
+    - vocabulary.travelling
+  33:
+    source_label: UK culture
+    knowledge:
+    - vocabulary.uk-culture
+  34:
+    source_label: Crime
+    knowledge:
+    - vocabulary.crime
+  35:
+    source_label: The media
+    knowledge:
+    - vocabulary.media
+  36:
+    source_label: Problems at home and work
+    knowledge:
+    - vocabulary.problems-home-work
+  37:
+    source_label: Global problems
+    knowledge:
+    - vocabulary.global-problems
+  38:
+    source_label: Have / had / had
+    knowledge:
+    - vocabulary.verb.have
+  39:
+    source_label: Go / went / gone
+    knowledge:
+    - vocabulary.verb.go
+  40:
+    source_label: Do / did / done
+    knowledge:
+    - vocabulary.collocation.do-vs-make
+  41:
+    source_label: Make / made / made
+    knowledge:
+    - vocabulary.collocation.do-vs-make
+  42:
+    source_label: Come / came / come
+    knowledge:
+    - vocabulary.verb.come
+  43:
+    source_label: Take / took / taken
+    knowledge:
+    - vocabulary.verb.take
+  44:
+    source_label: Bring / brought / brought
+    knowledge:
+    - vocabulary.bring-vs-take
+  45:
+    source_label: Get / got / got
+    knowledge:
+    - vocabulary.verb.get
+  46:
+    source_label: Phrasal verbs
+    knowledge:
+    - vocabulary.phrasal-verbs-basic
+  47:
+    source_label: Everyday things
+    knowledge:
+    - vocabulary.everyday-actions
+  48:
+    source_label: Talking
+    knowledge:
+    - vocabulary.say-tell-ask
+  49:
+    source_label: Moving
+    knowledge:
+    - vocabulary.movement-verbs
+  50:
+    source_label: Conjunctions and connecting words
+    knowledge:
+    - vocabulary.connecting-words
+  51:
+    source_label: Days, months, seasons
+    knowledge:
+    - vocabulary.calendar
+  52:
+    source_label: Time words
+    knowledge:
+    - vocabulary.time-words
+  53:
+    source_label: Places
+    knowledge:
+    - vocabulary.place-words
+  54:
+    source_label: Manner
+    knowledge:
+    - vocabulary.manner
+  55:
+    source_label: Common uncountable nouns
+    knowledge:
+    - vocabulary.uncountable-nouns
+  56:
+    source_label: 'Common adjectives: Good and bad things'
+    knowledge:
+    - vocabulary.common-adjectives
+  57:
+    source_label: Words and prepositions
+    knowledge:
+    - vocabulary.preposition-collocations
+  58:
+    source_label: Prefixes
+    knowledge:
+    - vocabulary.prefixes
+  59:
+    source_label: Suffixes
+    knowledge:
+    - vocabulary.suffixes
+  60:
+    source_label: Words you may confuse
+    knowledge:
+    - vocabulary.confusable-words

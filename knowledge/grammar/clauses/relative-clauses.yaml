@@ -1,0 +1,26 @@
+id: grammar.relative-clauses
+title: Basic Relative Clauses
+kind: grammar
+level: elementary
+category: grammar.clauses
+status: normalized-core
+source_refs:
+- source: egiu-4e
+  units:
+  - 101
+  - 102
+source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
+  exercise sets remain in the source book.
+core_concept: Use who for people and that/which for things in defining relative clauses; the relative pronoun can
+  sometimes be omitted when it is the object.
+mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
+  it.
+recognition_drills:
+- Generate two original sentences that differ on the main Basic Relative Clauses distinction and ask the learner
+  to choose the natural/correct one.
+production_drills:
+- Ask for one original sentence that demonstrates Basic Relative Clauses; add a negative/question transformation
+  when that form is relevant.
+speaking_drills:
+- Ask one short everyday or work question that naturally elicits Basic Relative Clauses without naming the grammar
+  point in the question.

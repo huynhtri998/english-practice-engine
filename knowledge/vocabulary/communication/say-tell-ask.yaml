@@ -1,0 +1,47 @@
+id: vocabulary.say-tell-ask
+title: Say, Tell and Ask
+kind: vocabulary
+level: A1-A2
+category: vocabulary.communication
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 48
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for say, tell and ask, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- say
+- tell
+- ask
+- speak
+- talk
+- answer
+- reply
+collocations:
+- say hello/goodbye/please/thank you
+- say that ...
+- tell somebody something
+- tell somebody how/when/where ...
+- tell a story/joke
+- ask a question
+- ask somebody to do something
+- ask for something
+- speak a language
+- talk to somebody
+- reply to an email
+common_mistakes:
+- Tell is normally followed directly by a person; say is not.
+- Use Can you tell me where ...?, not Can you say me ...?
+- 'Use speak for languages: Do you speak Japanese?'
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Say, Tell and Ask; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Say, Tell and Ask, then wait for an English
+  answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Say, Tell and Ask.

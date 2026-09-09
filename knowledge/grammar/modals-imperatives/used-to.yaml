@@ -1,0 +1,26 @@
+id: grammar.used-to
+title: Used To
+kind: grammar
+level: elementary
+category: grammar.modals-imperatives
+status: normalized-core
+source_refs:
+- source: egiu-4e
+  units:
+  - 36
+source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
+  exercise sets remain in the source book.
+core_concept: Use used to + base verb for past habits or states that are no longer true now.
+mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
+  it.
+recognition_drills:
+- Generate two original sentences that differ on the main Used To distinction and ask the learner to choose the
+  natural/correct one.
+production_drills:
+- Ask for one original sentence that demonstrates Used To; add a negative/question transformation when that form
+  is relevant.
+speaking_drills:
+- Ask one short everyday or work question that naturally elicits Used To without naming the grammar point in the
+  question.
+forms:
+  form: used to + base verb

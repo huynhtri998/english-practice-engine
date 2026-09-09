@@ -1,41 +1,207 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://example.local/schemas/knowledge-unit.schema.json",
+  "$id": "https://github.com/huynhtri998/english-practice-engine/blob/main/schemas/knowledge-unit.schema.json",
   "title": "Knowledge Unit",
   "type": "object",
-  "required": ["id", "title", "level", "category", "source_refs", "core_concept"],
+  "required": [
+    "id",
+    "title",
+    "kind",
+    "level",
+    "category",
+    "status",
+    "source_refs",
+    "core_concept"
+  ],
   "properties": {
-    "id": {"type": "string", "minLength": 1},
-    "title": {"type": "string", "minLength": 1},
-    "level": {"type": "string"},
-    "category": {"type": "string"},
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:[.-][a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "kind": {
+      "type": "string",
+      "enum": [
+        "grammar",
+        "vocabulary",
+        "mixed"
+      ]
+    },
+    "level": {
+      "type": "string",
+      "minLength": 1
+    },
+    "category": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "normalized-core",
+        "expanded",
+        "curated"
+      ]
+    },
     "source_refs": {
       "type": "array",
+      "minItems": 1,
       "items": {
         "type": "object",
-        "required": ["source"],
+        "required": [
+          "source",
+          "units"
+        ],
         "properties": {
-          "source": {"type": "string"},
+          "source": {
+            "type": "string",
+            "minLength": 1
+          },
           "units": {
             "type": "array",
-            "items": {"type": "integer", "minimum": 1}
+            "minItems": 1,
+            "items": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "uniqueItems": true
+          },
+          "note": {
+            "type": "string"
           }
         },
         "additionalProperties": false
       }
     },
-    "prerequisites": {"type": "array", "items": {"type": "string"}},
-    "related": {"type": "array", "items": {"type": "string"}},
-    "core_concept": {"type": ["string", "array"]},
-    "mental_model": {"type": ["string", "array"]},
-    "forms": {"type": ["object", "array", "string"]},
-    "usage": {"type": ["object", "array", "string"]},
-    "contrasts": {"type": ["object", "array", "string"]},
-    "common_mistakes": {"type": "array", "items": {"type": "string"}},
-    "examples": {"type": "array", "items": {"type": "string"}},
-    "recognition_drills": {"type": "array"},
-    "production_drills": {"type": "array"},
-    "speaking_drills": {"type": "array"}
+    "source_coverage": {
+      "type": "string"
+    },
+    "prerequisites": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "related": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "core_concept": {
+      "type": [
+        "string",
+        "array"
+      ]
+    },
+    "mental_model": {
+      "type": [
+        "string",
+        "array"
+      ]
+    },
+    "forms": {
+      "type": [
+        "object",
+        "array",
+        "string"
+      ]
+    },
+    "usage": {
+      "type": [
+        "object",
+        "array",
+        "string"
+      ]
+    },
+    "contrasts": {
+      "type": [
+        "object",
+        "array",
+        "string"
+      ]
+    },
+    "key_items": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "collocations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "confusions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "pronunciation_notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "common_mistakes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "recognition_drills": {
+      "type": "array",
+      "items": {
+        "type": [
+          "string",
+          "object"
+        ]
+      }
+    },
+    "production_drills": {
+      "type": "array",
+      "items": {
+        "type": [
+          "string",
+          "object"
+        ]
+      }
+    },
+    "speaking_drills": {
+      "type": "array",
+      "items": {
+        "type": [
+          "string",
+          "object"
+        ]
+      }
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
   },
-  "additionalProperties": true
+  "additionalProperties": false
 }

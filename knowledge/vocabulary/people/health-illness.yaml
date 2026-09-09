@@ -1,0 +1,49 @@
+id: vocabulary.health-illness
+title: Health and Illness
+kind: vocabulary
+level: A1-A2
+category: vocabulary.people
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 6
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for health and illness, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- well
+- ill
+- sick
+- headache
+- toothache
+- cold
+- hay fever
+- asthma
+- malaria
+- cholera
+- cancer
+- heart attack
+- healthy diet
+- exercise
+- stressed
+collocations:
+- feel ill
+- be sick
+- have a headache
+- have a cold
+- go to the dentist
+- have a heart attack
+- do exercise
+common_mistakes:
+- Say have/had a heart attack, not get/got a heart attack in the source pattern.
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Health and Illness; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Health and Illness, then wait for an English
+  answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Health and Illness.

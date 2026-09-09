@@ -1,0 +1,54 @@
+id: vocabulary.preposition-collocations
+title: Words and Prepositions
+kind: vocabulary
+level: A1-A2
+category: vocabulary.collocations
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 57
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for words and prepositions, with emphasis on natural
+  combinations and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- listen to
+- wait for
+- ask for
+- pay for
+- come to
+- belong to
+- think about
+- thank somebody for
+- apologise for
+- look at
+- look for
+- look after
+- look forward to
+- good at
+- bad at
+- interested in
+- afraid of
+- proud of
+- used to
+- get used to
+collocations:
+- look forward to + noun/-ing
+- good at + noun/-ing
+- apologise for + noun/-ing
+- be proud of
+- be interested in
+common_mistakes:
+- Prepositions are followed by a noun or -ing form in the patterns taught here.
+- For success, use happy about the result; happy for a person can express pleasure on their behalf.
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Words and Prepositions; do not copy the source
+  exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Words and Prepositions, then wait for an
+  English answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Words and Prepositions.

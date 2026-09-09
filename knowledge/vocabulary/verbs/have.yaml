@@ -1,0 +1,54 @@
+id: vocabulary.verb.have
+title: 'Have: Core Uses and Collocations'
+kind: vocabulary
+level: A1-A2
+category: vocabulary.verbs
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 38
+- source: egiu-4e
+  units:
+  - 58
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: High-frequency uses of have as a main verb and in fixed chunks, reinforced by both source books.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- have breakfast/lunch/dinner
+- have a party
+- have a meeting
+- have a lesson
+- have an exam
+- have a drink
+- have a shower
+- have a bath
+- have a swim
+- have a look
+- have a go
+- have a good time
+- have a word
+- have time
+- have got
+- have got to
+collocations:
+- have a meal
+- have a moment
+- have your hair cut
+- have got a problem
+- have got a cold
+common_mistakes:
+- In the past obligation pattern taught here, use had to rather than had got to.
+related:
+- grammar.have-vs-have-got
+- grammar.have-to
+recognition_drills:
+- 'Create a fresh matching/choice item using the key vocabulary for Have: Core Uses and Collocations; do not copy
+  the source exercise.'
+production_drills:
+- 'Give a short Vietnamese prompt that naturally requires vocabulary from Have: Core Uses and Collocations, then
+  wait for an English answer.'
+speaking_drills:
+- 'Ask one short personal question that naturally elicits two or more items from Have: Core Uses and Collocations.'

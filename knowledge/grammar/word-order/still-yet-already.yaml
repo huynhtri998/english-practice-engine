@@ -1,0 +1,25 @@
+id: grammar.still-yet-already
+title: Still, Yet and Already
+kind: grammar
+level: elementary
+category: grammar.word-order
+status: normalized-core
+source_refs:
+- source: egiu-4e
+  units:
+  - 95
+source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
+  exercise sets remain in the source book.
+core_concept: Use still for continuation, yet mainly in questions/negatives up to now, and already for something
+  earlier than expected or completed by now.
+mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
+  it.
+recognition_drills:
+- Generate two original sentences that differ on the main Still, Yet and Already distinction and ask the learner
+  to choose the natural/correct one.
+production_drills:
+- Ask for one original sentence that demonstrates Still, Yet and Already; add a negative/question transformation
+  when that form is relevant.
+speaking_drills:
+- Ask one short everyday or work question that naturally elicits Still, Yet and Already without naming the grammar
+  point in the question.

@@ -1,0 +1,28 @@
+id: grammar.passive
+title: Passive Voice
+kind: grammar
+level: elementary
+category: grammar.passive
+status: normalized-core
+source_refs:
+- source: egiu-4e
+  units:
+  - 21
+  - 22
+source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
+  exercise sets remain in the source book.
+core_concept: Use be + past participle when the focus is on the action/result or receiver rather than the doer;
+  the be form carries the tense.
+mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
+  it.
+recognition_drills:
+- Generate two original sentences that differ on the main Passive Voice distinction and ask the learner to choose
+  the natural/correct one.
+production_drills:
+- Ask for one original sentence that demonstrates Passive Voice; add a negative/question transformation when that
+  form is relevant.
+speaking_drills:
+- Ask one short everyday or work question that naturally elicits Passive Voice without naming the grammar point
+  in the question.
+forms:
+  form: appropriate form of be + past participle

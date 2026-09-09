@@ -1,0 +1,25 @@
+id: grammar.too-either-so-neither
+title: Too, Either, So and Neither
+kind: grammar
+level: elementary
+category: grammar.auxiliaries
+status: normalized-core
+source_refs:
+- source: egiu-4e
+  units:
+  - 42
+source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
+  exercise sets remain in the source book.
+core_concept: Use too/so for agreement with positive statements and either/neither for agreement with negative statements,
+  with the appropriate auxiliary.
+mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
+  it.
+recognition_drills:
+- Generate two original sentences that differ on the main Too, Either, So and Neither distinction and ask the learner
+  to choose the natural/correct one.
+production_drills:
+- Ask for one original sentence that demonstrates Too, Either, So and Neither; add a negative/question transformation
+  when that form is relevant.
+speaking_drills:
+- Ask one short everyday or work question that naturally elicits Too, Either, So and Neither without naming the
+  grammar point in the question.

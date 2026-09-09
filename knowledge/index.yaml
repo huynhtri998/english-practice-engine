@@ -1,0 +1,33 @@
+version: 1
+status: normalized-core
+
+sources:
+  - id: egiu-4e
+    type: grammar
+    units: 115
+    mapping: mappings/essential-grammar-in-use-4e.yaml
+  - id: eviu-elementary-3e
+    type: vocabulary
+    units: 60
+    mapping: mappings/english-vocabulary-in-use-elementary-3e.yaml
+
+knowledge:
+  canonical_total: 153
+  grammar:
+    count: 94
+    root: knowledge/grammar
+  vocabulary:
+    count: 59
+    root: knowledge/vocabulary
+
+cross_book_units:
+  - vocabulary.verb.go
+  - vocabulary.verb.get
+  - vocabulary.verb.have
+  - vocabulary.collocation.do-vs-make
+  - vocabulary.phrasal-verbs-basic
+
+notes:
+  - Canonical Knowledge Units are organized by concept, not by book unit.
+  - Source PDFs remain outside Git; source_refs point back to book/unit metadata.
+  - normalized-core means reusable source-grounded knowledge, not copied book pages or exercise sets.

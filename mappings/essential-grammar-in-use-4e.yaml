@@ -1,39 +1,463 @@
 book: egiu-4e
-status: draft
-
-# Keep source labels short. Do not copy source explanations or exercises here.
+status: complete
 units:
   1:
-    source_label: be — statements
+    source_label: am/is/are
     knowledge:
-      - grammar.be
+    - grammar.be
   2:
-    source_label: be — questions
+    source_label: am/is/are (questions)
     knowledge:
-      - grammar.be.questions
+    - grammar.be
   3:
-    source_label: present continuous — statements
+    source_label: I am doing (present continuous)
     knowledge:
-      - grammar.present-continuous
+    - grammar.present-continuous
   4:
-    source_label: present continuous — questions
+    source_label: are you doing? (present continuous questions)
     knowledge:
-      - grammar.present-continuous.questions
+    - grammar.present-continuous
   5:
-    source_label: present simple — statements
+    source_label: I do/work/like etc. (present simple)
     knowledge:
-      - grammar.present-simple
+    - grammar.present-simple
   6:
-    source_label: present simple — negatives
+    source_label: I don't ... (present simple negative)
     knowledge:
-      - grammar.present-simple.negative
+    - grammar.present-simple
   7:
-    source_label: present simple — questions
+    source_label: Do you ... ? (present simple questions)
     knowledge:
-      - grammar.present-simple.questions
+    - grammar.present-simple
   8:
-    source_label: present continuous vs present simple
+    source_label: I am doing (present continuous) and I do (present simple)
     knowledge:
-      - grammar.present-simple-vs-continuous
-
-# TODO: continue mapping units 9–115 after the canonical KU taxonomy is reviewed.
+    - grammar.present-simple-vs-continuous
+  9:
+    source_label: I have ... and I've got ...
+    knowledge:
+    - grammar.have-vs-have-got
+  10:
+    source_label: was/were
+    knowledge:
+    - grammar.be-past
+  11:
+    source_label: worked/got/went etc. (past simple)
+    knowledge:
+    - grammar.past-simple
+  12:
+    source_label: I didn't ... / Did you ... ? (past simple negative and questions)
+    knowledge:
+    - grammar.past-simple
+  13:
+    source_label: I was doing (past continuous)
+    knowledge:
+    - grammar.past-continuous
+  14:
+    source_label: I was doing (past continuous) and I did (past simple)
+    knowledge:
+    - grammar.past-simple-vs-continuous
+  15:
+    source_label: I have done (present perfect 1)
+    knowledge:
+    - grammar.present-perfect
+  16:
+    source_label: I've just ... / I've already ... / I haven't ... yet (present perfect 2)
+    knowledge:
+    - grammar.present-perfect
+  17:
+    source_label: Have you ever ... ? (present perfect 3)
+    knowledge:
+    - grammar.present-perfect
+  18:
+    source_label: How long have you ... ? (present perfect 4)
+    knowledge:
+    - grammar.present-perfect
+  19:
+    source_label: for / since / ago
+    knowledge:
+    - grammar.for-since-ago
+  20:
+    source_label: I have done (present perfect) and I did (past)
+    knowledge:
+    - grammar.present-perfect-vs-past-simple
+  21:
+    source_label: is done / was done (passive 1)
+    knowledge:
+    - grammar.passive
+  22:
+    source_label: is being done / has been done (passive 2)
+    knowledge:
+    - grammar.passive
+  23:
+    source_label: be/have/do in present and past tenses
+    knowledge:
+    - grammar.auxiliaries-be-have-do
+  24:
+    source_label: Regular and irregular verbs
+    knowledge:
+    - grammar.verb-forms-regular-irregular
+  25:
+    source_label: What are you doing tomorrow?
+    knowledge:
+    - grammar.future-present-continuous-arrangements
+  26:
+    source_label: I'm going to ...
+    knowledge:
+    - grammar.future-going-to
+  27:
+    source_label: will/shall 1
+    knowledge:
+    - grammar.future-will-shall
+  28:
+    source_label: will/shall 2
+    knowledge:
+    - grammar.future-will-shall
+  29:
+    source_label: might
+    knowledge:
+    - grammar.modal-might
+  30:
+    source_label: can and could
+    knowledge:
+    - grammar.modal-can-could
+  31:
+    source_label: must / mustn't / don't need to
+    knowledge:
+    - grammar.modal-must-mustnt-dont-need-to
+  32:
+    source_label: should
+    knowledge:
+    - grammar.modal-should
+  33:
+    source_label: I have to ...
+    knowledge:
+    - grammar.have-to
+  34:
+    source_label: Would you like ... ? / I'd like ...
+    knowledge:
+    - grammar.would-like
+  35:
+    source_label: Do this! / Don't do that! / Let's do this!
+    knowledge:
+    - grammar.imperatives-lets
+  36:
+    source_label: I used to
+    knowledge:
+    - grammar.used-to
+  37:
+    source_label: there is / there are
+    knowledge:
+    - grammar.there-be
+  38:
+    source_label: there was/were / there has/have been / there will be
+    knowledge:
+    - grammar.there-be
+  39:
+    source_label: It ...
+    knowledge:
+    - grammar.it
+  40:
+    source_label: I am, I don't etc.
+    knowledge:
+    - grammar.auxiliary-short-forms
+  41:
+    source_label: Have you? / Are you? / Don't you? etc.
+    knowledge:
+    - grammar.echo-questions
+  42:
+    source_label: too/either / so am I / neither do I etc.
+    knowledge:
+    - grammar.too-either-so-neither
+  43:
+    source_label: isn't / haven't / don't etc. (negatives)
+    knowledge:
+    - grammar.negatives
+  44:
+    source_label: is it ... ? / have you ... ? / do they ... ? etc. (questions 1)
+    knowledge:
+    - grammar.questions-basic
+  45:
+    source_label: Who saw you? / Who did you see? (questions 2)
+    knowledge:
+    - grammar.subject-vs-object-questions
+  46:
+    source_label: Who is she talking to? / What is it like? (questions 3)
+    knowledge:
+    - grammar.preposition-questions-and-what-like
+  47:
+    source_label: What ... ? / Which ... ? / How ... ? (questions 4)
+    knowledge:
+    - grammar.question-words
+  48:
+    source_label: How long does it take ... ?
+    knowledge:
+    - grammar.how-long-does-it-take
+  49:
+    source_label: Do you know where ... ? / I don't know what ... etc.
+    knowledge:
+    - grammar.indirect-questions
+  50:
+    source_label: She said that ... / He told me that ...
+    knowledge:
+    - grammar.reported-speech-basic
+  51:
+    source_label: work/working / go/going / do/doing
+    knowledge:
+    - grammar.verb-ing
+  52:
+    source_label: to ... (I want to do) and -ing (I enjoy doing)
+    knowledge:
+    - grammar.infinitive-vs-ing
+  53:
+    source_label: I want you to ... / I told you to
+    knowledge:
+    - grammar.object-plus-infinitive
+  54:
+    source_label: I went to the shop to ...
+    knowledge:
+    - grammar.infinitive-purpose
+  55:
+    source_label: go to ... / go on ... / go for ... / go -ing
+    knowledge:
+    - vocabulary.verb.go
+  56:
+    source_label: get
+    knowledge:
+    - vocabulary.verb.get
+  57:
+    source_label: do and make
+    knowledge:
+    - vocabulary.collocation.do-vs-make
+  58:
+    source_label: have
+    knowledge:
+    - vocabulary.verb.have
+  59:
+    source_label: I/me / he/him / they/them etc.
+    knowledge:
+    - grammar.object-pronouns
+  60:
+    source_label: my/his/their etc.
+    knowledge:
+    - grammar.possessive-adjectives
+  61:
+    source_label: Whose is this? It's mine/yours/hers etc.
+    knowledge:
+    - grammar.possessive-pronouns
+  62:
+    source_label: I/me/my/mine
+    knowledge:
+    - grammar.pronoun-possessive-forms
+  63:
+    source_label: myself/yourself/themselves etc.
+    knowledge:
+    - grammar.reflexive-pronouns
+  64:
+    source_label: -'s (Kate's camera / my brother's car etc.)
+    knowledge:
+    - grammar.possessive-s
+  65:
+    source_label: a/an ...
+    knowledge:
+    - grammar.articles-a-an
+  66:
+    source_label: train(s) / bus(es) (singular and plural)
+    knowledge:
+    - grammar.nouns-singular-plural
+  67:
+    source_label: a bottle / some water (countable/uncountable 1)
+    knowledge:
+    - grammar.countable-uncountable
+  68:
+    source_label: a cake / some cake / some cakes (countable/uncountable 2)
+    knowledge:
+    - grammar.countable-uncountable
+  69:
+    source_label: a/an and the
+    knowledge:
+    - grammar.articles-a-an-the
+  70:
+    source_label: the ...
+    knowledge:
+    - grammar.articles-a-an-the
+  71:
+    source_label: go to work / go home / go to the cinema
+    knowledge:
+    - grammar.zero-article-places
+  72:
+    source_label: I like music / I hate exams
+    knowledge:
+    - grammar.zero-article-general
+  73:
+    source_label: the ... (names of places)
+    knowledge:
+    - grammar.article-place-names
+  74:
+    source_label: this/that/these/those
+    knowledge:
+    - grammar.demonstratives
+  75:
+    source_label: one/ones
+    knowledge:
+    - grammar.one-ones
+  76:
+    source_label: some and any
+    knowledge:
+    - grammar.some-any
+  77:
+    source_label: not + any / no / none
+    knowledge:
+    - grammar.any-no-none
+  78:
+    source_label: not + anybody/anyone/anything / nobody/no-one/nothing
+    knowledge:
+    - grammar.anybody-nobody-nothing
+  79:
+    source_label: somebody/anything/nowhere etc.
+    knowledge:
+    - grammar.somebody-anything-nowhere
+  80:
+    source_label: every and all
+    knowledge:
+    - grammar.every-all
+  81:
+    source_label: all / most / some / any / no/none
+    knowledge:
+    - grammar.quantifiers
+  82:
+    source_label: both / either / neither
+    knowledge:
+    - grammar.both-either-neither
+  83:
+    source_label: a lot / much / many
+    knowledge:
+    - grammar.a-lot-much-many
+  84:
+    source_label: (a) little / (a) few
+    knowledge:
+    - grammar.little-few
+  85:
+    source_label: old/nice/interesting etc. (adjectives)
+    knowledge:
+    - grammar.adjectives
+  86:
+    source_label: quickly/badly/suddenly etc. (adverbs)
+    knowledge:
+    - grammar.adverbs
+  87:
+    source_label: old/older / expensive/more expensive
+    knowledge:
+    - grammar.comparatives
+  88:
+    source_label: older than ... / more expensive than ...
+    knowledge:
+    - grammar.comparatives
+  89:
+    source_label: not as ... as
+    knowledge:
+    - grammar.not-as-as
+  90:
+    source_label: the oldest / the most expensive
+    knowledge:
+    - grammar.superlatives
+  91:
+    source_label: enough
+    knowledge:
+    - grammar.enough
+  92:
+    source_label: too
+    knowledge:
+    - grammar.too
+  93:
+    source_label: He speaks English very well. (word order 1)
+    knowledge:
+    - grammar.word-order
+  94:
+    source_label: always/usually/often etc. (word order 2)
+    knowledge:
+    - grammar.frequency-adverbs
+  95:
+    source_label: still / yet / already
+    knowledge:
+    - grammar.still-yet-already
+  96:
+    source_label: Give me that book! / Give it to me!
+    knowledge:
+    - grammar.object-order-give-send
+  97:
+    source_label: and / but / or / so / because
+    knowledge:
+    - grammar.conjunctions
+  98:
+    source_label: When ...
+    knowledge:
+    - grammar.when-clauses
+  99:
+    source_label: If we go ... / If you see ... etc.
+    knowledge:
+    - grammar.first-conditional
+  100:
+    source_label: If I had ... / If we went ... etc.
+    knowledge:
+    - grammar.second-conditional
+  101:
+    source_label: a person who ... / a thing that/which ... (relative clauses 1)
+    knowledge:
+    - grammar.relative-clauses
+  102:
+    source_label: the people we met / the hotel you stayed at (relative clauses 2)
+    knowledge:
+    - grammar.relative-clauses
+  103:
+    source_label: at 8 o'clock / on Monday / in April
+    knowledge:
+    - grammar.prepositions-time-at-on-in
+  104:
+    source_label: from ... to / until / since / for
+    knowledge:
+    - grammar.prepositions-time-range
+  105:
+    source_label: before / after / during / while
+    knowledge:
+    - grammar.before-after-during-while
+  106:
+    source_label: in / at / on (places 1)
+    knowledge:
+    - grammar.prepositions-place-in-at-on
+  107:
+    source_label: in / at / on (places 2)
+    knowledge:
+    - grammar.prepositions-place-in-at-on
+  108:
+    source_label: to / in / at (places 3)
+    knowledge:
+    - grammar.prepositions-movement-to-in-at
+  109:
+    source_label: under / behind / opposite etc.
+    knowledge:
+    - grammar.position-prepositions
+  110:
+    source_label: up / over / through etc.
+    knowledge:
+    - grammar.movement-prepositions
+  111:
+    source_label: on / at / by / with / about
+    knowledge:
+    - grammar.common-prepositions
+  112:
+    source_label: afraid of ... / good at ... etc. / prepositions + -ing
+    knowledge:
+    - grammar.adjective-preposition
+  113:
+    source_label: listen to ... / look at ... etc. (verb + preposition)
+    knowledge:
+    - grammar.verb-preposition
+  114:
+    source_label: go in / fall off / run away etc. (phrasal verbs 1)
+    knowledge:
+    - vocabulary.phrasal-verbs-basic
+  115:
+    source_label: put on your shoes / put your shoes on (phrasal verbs 2)
+    knowledge:
+    - grammar.phrasal-verb-object-order

@@ -1,14 +1,16 @@
 # Mappings
 
-Mappings connect a source unit to one or more canonical Knowledge Unit IDs.
+Mappings connect source units to canonical Knowledge Unit IDs.
 
-Example:
+Both registered books now have complete unit mappings:
 
-```yaml
-3:
-  source_label: present continuous
-  knowledge:
-    - grammar.present-continuous
-```
+- `essential-grammar-in-use-4e.yaml` — 115 / 115 units
+- `english-vocabulary-in-use-elementary-3e.yaml` — 60 / 60 units
 
-The source label is only a navigation aid. The canonical ID is the stable project concept.
+The mapping is not required to be one-to-one:
+
+- several grammar units can merge into one KU when they share the same retrieval trigger
+- two vocabulary units can merge into one KU (for example, `do` and `make`)
+- different books can contribute to the same KU (for example, core verbs such as `go`, `get`, `have`, and `do vs make`)
+
+Source labels are navigation metadata only. Canonical IDs are the stable identities used by knowledge and review state.

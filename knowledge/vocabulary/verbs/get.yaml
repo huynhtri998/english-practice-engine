@@ -1,0 +1,49 @@
+id: vocabulary.verb.get
+title: 'Get: Core Uses'
+kind: vocabulary
+level: A1-A2
+category: vocabulary.verbs
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 45
+- source: egiu-4e
+  units:
+  - 56
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: 'High-frequency meanings of get: change of state, obtain/find, arrive/reach, return, and fixed expressions.'
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- get dark
+- get better
+- get tired
+- get wet
+- get a stamp
+- get a newspaper
+- get coffee
+- get a taxi
+- get a job
+- get a doctor
+- get married
+- get to a place
+- get back
+- get home
+- get there
+collocations:
+- get + adjective for change
+- get + noun for obtain/find
+- get to + place
+- get home/there
+- get back
+common_mistakes:
+- Use get home / get there without to.
+recognition_drills:
+- 'Create a fresh matching/choice item using the key vocabulary for Get: Core Uses; do not copy the source exercise.'
+production_drills:
+- 'Give a short Vietnamese prompt that naturally requires vocabulary from Get: Core Uses, then wait for an English
+  answer.'
+speaking_drills:
+- 'Ask one short personal question that naturally elicits two or more items from Get: Core Uses.'

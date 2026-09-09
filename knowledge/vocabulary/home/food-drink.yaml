@@ -1,0 +1,62 @@
+id: vocabulary.food-drink
+title: Food and Drink
+kind: vocabulary
+level: A1-A2
+category: vocabulary.home
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 10
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core elementary vocabulary and useful chunks for food and drink, with emphasis on natural combinations
+  and active use.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- bread
+- rice
+- pasta
+- salt
+- pepper
+- meat
+- fish
+- vegetarian
+- hamburger
+- hot dog
+- pizza
+- chips
+- carrot
+- bean
+- potato
+- tomato
+- pea
+- onion
+- garlic
+- mushroom
+- apple
+- orange
+- banana
+- pear
+- grapes
+- strawberries
+- pineapple
+- tea
+- coffee
+- milk
+- fruit juice
+- mineral water
+collocations:
+- some bread
+- eat meat/fish
+- take sugar in tea/coffee
+common_mistakes:
+- 'Bread and fruit are normally uncountable in the basic meanings taught here: some bread, fruit.'
+recognition_drills:
+- Create a fresh matching/choice item using the key vocabulary for Food and Drink; do not copy the source exercise.
+production_drills:
+- Give a short Vietnamese prompt that naturally requires vocabulary from Food and Drink, then wait for an English
+  answer.
+speaking_drills:
+- Ask one short personal question that naturally elicits two or more items from Food and Drink.

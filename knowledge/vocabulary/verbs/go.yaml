@@ -1,0 +1,51 @@
+id: vocabulary.verb.go
+title: 'Go: Core Uses and Collocations'
+kind: vocabulary
+level: A1-A2
+category: vocabulary.verbs
+status: normalized-core
+source_refs:
+- source: eviu-elementary-3e
+  units:
+  - 39
+- source: egiu-4e
+  units:
+  - 55
+source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
+  reference; copied exercises and long source passages are not stored here.
+core_concept: Core movement and activity patterns with go, including go + -ing and common place expressions.
+mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
+  normally combines with.
+key_items:
+- go to work
+- go by car
+- go in/into
+- go out of
+- go up/down
+- be going to
+- go shopping
+- go swimming
+- go dancing
+- go sightseeing
+- go skiing
+- go fishing
+- go home
+- go there
+collocations:
+- go + -ing for activities
+- go to + place
+- go home
+- go there
+common_mistakes:
+- Do not add to before home/there in these source patterns.
+- For activities such as swimming/shopping, use go + -ing rather than go to/for + -ing.
+related:
+- grammar.future-going-to
+recognition_drills:
+- 'Create a fresh matching/choice item using the key vocabulary for Go: Core Uses and Collocations; do not copy
+  the source exercise.'
+production_drills:
+- 'Give a short Vietnamese prompt that naturally requires vocabulary from Go: Core Uses and Collocations, then wait
+  for an English answer.'
+speaking_drills:
+- 'Ask one short personal question that naturally elicits two or more items from Go: Core Uses and Collocations.'
