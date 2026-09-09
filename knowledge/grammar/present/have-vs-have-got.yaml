@@ -3,26 +3,39 @@ title: Have and Have Got
 kind: grammar
 level: elementary
 category: grammar.present
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 9
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use have or have got to talk about possession and similar states; both have their own common negative
-  and question patterns.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Have and Have Got distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Have and Have Got; add a negative/question transformation when
-  that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Have and Have Got without naming the grammar point
-  in the question.
+  - source: egiu-4e
+    units: [9]
+source_coverage: Unit 9 equivalence and the two negative/question patterns are represented; broader activity expressions with have remain in the separate vocabulary KU.
+core_concept: For possession and similar present states, have and have got can express the same meaning, but their negative and question patterns are different.
+mental_model: Choose one pattern and keep it consistent: do/does + have, or have/has + got.
 forms:
-  have: subject + have/has ...
-  have_got: subject + have/has got ...
+  affirmative:
+    - I/you/we/they have ... = I/you/we/they have got ...
+    - he/she/it has ... = he/she/it has got ...
+  negative:
+    - don't/doesn't have
+    - haven't/hasn't got
+  question:
+    - Do/Does + subject + have ...?
+    - Have/Has + subject + got ...?
+usage:
+  - possession
+  - relationships or features such as siblings, eyes, doors
+  - present conditions such as a headache
+common_mistakes:
+  - Do not mix the two question systems, for example "Do you have got ...?"
+  - The source uses had, didn't have and Did ... have? for the past, without got.
+examples:
+  - I have two monitors. / I've got two monitors.
+  - Does the project have a deadline? / Has the project got a deadline?
+recognition_drills:
+  - Identify whether each question correctly follows the have-pattern or the have-got pattern.
+production_drills:
+  - Say the same possession once with have and once with have got.
+speaking_drills:
+  - Have you got any plans for the weekend?
+related:
+  - vocabulary.verb.have
+  - grammar.auxiliaries-be-have-do

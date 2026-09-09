@@ -1,30 +1,49 @@
 id: grammar.be
-title: 'Be: am/is/are'
+title: Be - Present
 kind: grammar
 level: elementary
 category: grammar.present
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 1
-  - 2
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use am/is/are to describe identity, state, age, location and similar present facts; form questions
-  by placing the be form before the subject.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- 'Generate two original sentences that differ on the main Be: am/is/are distinction and ask the learner to choose
-  the natural/correct one.'
-production_drills:
-- 'Ask for one original sentence that demonstrates Be: am/is/are; add a negative/question transformation when that
-  form is relevant.'
-speaking_drills:
-- 'Ask one short everyday or work question that naturally elicits Be: am/is/are without naming the grammar point
-  in the question.'
+  - source: egiu-4e
+    units: [1, 2]
+source_coverage: Present forms of be, negatives, questions and short answers are represented from Units 1-2; source exercises remain in the book.
+core_concept: Use am/is/are as the present form of be for identity, description, condition and location; form questions by putting am/is/are before the subject.
+mental_model: Be is the sentence link itself, so it does not need do/does for present negatives or questions.
 forms:
-  affirmative: I am; he/she/it is; we/you/they are
-  negative: am/is/are + not
-  question: am/is/are + subject ...?
+  affirmative:
+    - I am
+    - he/she/it is
+    - we/you/they are
+  negative:
+    - I am not
+    - he/she/it is not
+    - we/you/they are not
+  question:
+    - am I ...?
+    - is he/she/it ...?
+    - are we/you/they ...?
+  short_answers:
+    - Yes, I am. / No, I'm not.
+    - Yes, he is. / No, he isn't.
+    - Yes, they are. / No, they aren't.
+usage:
+  - identify or describe somebody/something
+  - say how somebody/something is
+  - say where somebody/something is
+common_mistakes:
+  - Do not add do/does before be questions: use "Are you tired?", not "Do you are tired?"
+  - Match am/is/are to the subject.
+examples:
+  - I'm a backend developer.
+  - The service is healthy now.
+  - Are the tests ready?
+recognition_drills:
+  - Choose the natural form: "Are you busy?" or "Do you are busy?"
+production_drills:
+  - Turn "The runners are online" into a negative sentence and then a question.
+speaking_drills:
+  - Where are you right now?
+related:
+  - grammar.be-past
+  - grammar.there-be

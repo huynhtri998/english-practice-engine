@@ -3,33 +3,42 @@ title: Present Perfect
 kind: grammar
 level: elementary
 category: grammar.present-perfect
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 15
-  - 16
-  - 17
-  - 18
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use have/has + past participle to connect past experience or action with the present, including recent
-  events, life experience and situations continuing until now.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Present Perfect distinction and ask the learner to choose
-  the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Present Perfect; add a negative/question transformation when that
-  form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Present Perfect without naming the grammar point
-  in the question.
+  - source: egiu-4e
+    units: [15, 16, 17, 18]
+source_coverage: Units 15-18 are represented: have/has + past participle, recent-result uses, just/already/yet, life experience with ever, been/gone, and how-long questions continuing to now.
+core_concept: Use have/has + past participle when a past action or experience is viewed from the present rather than placed at a finished past time.
+mental_model: The action is before now, but the speaker is looking from now: result now, experience up to now, or a situation continuing to now.
 forms:
-  form: subject + have/has + past participle
-  negative: haven't/hasn't + past participle
-  question: have/has + subject + past participle?
+  affirmative: subject + have/has + past participle
+  negative: subject + haven't/hasn't + past participle
+  question: Have/Has + subject + past participle?
+usage:
+  - recent event with relevance now
+  - life experience up to now
+  - situations that started before now and continue now
+  - just for a short time ago
+  - already for earlier than expected
+  - yet in negatives and questions, usually at the end
+contrasts:
+  gone_vs_been:
+    gone: the person went and is still away
+    been: the person went there and has returned, or has the experience
+common_mistakes:
+  - Use the past participle, not the past-simple form when they differ.
+  - Keep yet mainly in negative sentences and questions in the source pattern.
+  - Do not add a finished past-time expression when the intended contrast requires past simple.
+examples:
+  - I've just finished the migration batch.
+  - Have you ever worked with Kubernetes?
+  - She hasn't replied yet.
+recognition_drills:
+  - Choose between just, already and yet in three fresh present-perfect contexts.
+production_drills:
+  - Answer "Have you ever ...?" with a full sentence, then make a new sentence with just or yet.
+speaking_drills:
+  - Have you ever deployed a service to Kubernetes?
 related:
-- grammar.for-since-ago
-- grammar.present-perfect-vs-past-simple
+  - grammar.for-since-ago
+  - grammar.present-perfect-vs-past-simple

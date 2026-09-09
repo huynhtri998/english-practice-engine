@@ -3,29 +3,39 @@ title: For, Since and Ago
 kind: grammar
 level: elementary
 category: grammar.present-perfect
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 19
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use for with a duration, since with a starting point, and ago to locate a finished time before now.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main For, Since and Ago distinction and ask the learner to
-  choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates For, Since and Ago; add a negative/question transformation when
-  that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits For, Since and Ago without naming the grammar point
-  in the question.
+  - source: egiu-4e
+    units: [18, 19]
+source_coverage: Units 18-19 distinctions for duration, starting point and distance back from now are represented.
+core_concept: Use for with a length of time, since with the starting point of a period continuing to now, and ago to say how far back a finished past time was.
+mental_model: for = duration; since = start point; ago = count backwards from now.
+usage:
+  for:
+    - for three days
+    - for a long time
+  since:
+    - since Monday
+    - since 2024
+  ago:
+    - three days ago
+    - a long time ago
 contrasts:
-- for + duration
-- since + starting point
-- ago = time before now, normally with past simple
+  for_vs_since: for answers "how long?" with a duration; since answers "from when?" with a starting point.
+  since_vs_ago: since commonly connects a continuing situation to now; ago locates a finished past time and normally goes with past simple.
+common_mistakes:
+  - Do not say "since three years" for a duration; use "for three years".
+  - Do not use ago as a substitute for since in a continuing present-perfect situation.
+examples:
+  - I've worked on this project for three months.
+  - I've lived here since June.
+  - I joined the team three months ago.
+recognition_drills:
+  - Choose for, since or ago for a duration, a start date and a finished past point.
+production_drills:
+  - Make one sentence about your English study with for and one with since.
+speaking_drills:
+  - How long have you been learning English?
 related:
-- grammar.present-perfect
-- grammar.prepositions-time-range
+  - grammar.present-perfect
+  - grammar.present-perfect-vs-past-simple

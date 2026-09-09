@@ -3,32 +3,32 @@ title: Present Simple vs Present Continuous
 kind: grammar
 level: elementary
 category: grammar.present
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 8
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Choose present continuous for something in progress now and present simple for general or repeated
-  situations; some state verbs are normally kept in the simple form.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Present Simple vs Present Continuous distinction and ask
-  the learner to choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Present Simple vs Present Continuous; add a negative/question
-  transformation when that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Present Simple vs Present Continuous without naming
-  the grammar point in the question.
+  - source: egiu-4e
+    units: [8]
+source_coverage: Unit 8 contrast is represented, including the source's elementary-level group of verbs normally used in the present simple rather than the present continuous.
+core_concept: Choose present continuous for what is happening now and present simple for what is true in general or happens regularly.
+mental_model: Ask one fast question: "now/in progress, or generally/regularly?"
 contrasts:
-- 'Present continuous: action in progress now/around now.'
-- 'Present simple: general truth, routine or repeated situation.'
+  present_continuous: now, at the time of speaking
+  present_simple: in general, all the time or sometimes
+usage:
+  - use present continuous for an action in progress now
+  - use present simple for habits, repeated situations and general facts
+  - at this level, use present simple with verbs such as know, understand, want, need, prefer, like, remember, forget, mean and believe
+common_mistakes:
+  - Do not use present simple just because the sentence contains a present-time word if the action is visibly in progress.
+  - Avoid continuous forms such as "I'm knowing" or "I'm wanting" for the source-highlighted verbs.
+examples:
+  - I usually work on backend services, but I'm fixing a frontend bug right now.
+  - She knows the answer, but she isn't saying anything.
+recognition_drills:
+  - Pick the natural sentence for a temporary current action and explain the trigger.
+production_drills:
+  - Make two linked sentences: one about your normal routine and one about what you are doing now.
+speaking_drills:
+  - What do you usually work on, and what are you working on today?
 related:
-- grammar.present-simple
-- grammar.present-continuous
-prerequisites:
-- grammar.present-simple
-- grammar.present-continuous
+  - grammar.present-simple
+  - grammar.present-continuous
