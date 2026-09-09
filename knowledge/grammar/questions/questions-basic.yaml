@@ -1,0 +1,28 @@
+id: grammar.questions-basic
+title: Basic Question Formation
+kind: grammar
+level: elementary
+category: grammar.questions
+status: normalized-core
+source_refs:
+- source: egiu-4e
+  units:
+  - 44
+source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
+  exercise sets remain in the source book.
+core_concept: Form questions by placing the auxiliary or be before the subject; use do/does/did when no other auxiliary
+  is present.
+mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
+  it.
+recognition_drills:
+- Generate two original sentences that differ on the main Basic Question Formation distinction and ask the learner
+  to choose the natural/correct one.
+production_drills:
+- Ask for one original sentence that demonstrates Basic Question Formation; add a negative/question transformation
+  when that form is relevant.
+speaking_drills:
+- Ask one short everyday or work question that naturally elicits Basic Question Formation without naming the grammar
+  point in the question.
+forms:
+  with_auxiliary: auxiliary + subject + main verb ...?
+  without_auxiliary: do/does/did + subject + base verb ...?

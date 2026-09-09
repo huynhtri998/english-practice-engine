@@ -1,0 +1,25 @@
+id: grammar.preposition-questions-and-what-like
+title: Questions with Prepositions and What ... Like?
+kind: grammar
+level: elementary
+category: grammar.questions
+status: normalized-core
+source_refs:
+- source: egiu-4e
+  units:
+  - 46
+source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
+  exercise sets remain in the source book.
+core_concept: In common questions, the preposition often stays at the end; use What is/are ... like? to ask for
+  a description.
+mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
+  it.
+recognition_drills:
+- Generate two original sentences that differ on the main Questions with Prepositions and What ... Like? distinction
+  and ask the learner to choose the natural/correct one.
+production_drills:
+- Ask for one original sentence that demonstrates Questions with Prepositions and What ... Like?; add a negative/question
+  transformation when that form is relevant.
+speaking_drills:
+- Ask one short everyday or work question that naturally elicits Questions with Prepositions and What ... Like?
+  without naming the grammar point in the question.

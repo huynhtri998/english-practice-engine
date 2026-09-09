@@ -1,0 +1,27 @@
+id: grammar.any-no-none
+title: Any, No and None
+kind: grammar
+level: elementary
+category: grammar.determiners-quantifiers
+status: normalized-core
+source_refs:
+- source: egiu-4e
+  units:
+  - 77
+source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
+  exercise sets remain in the source book.
+core_concept: Express absence with not ... any or with no; use none when the noun is omitted.
+mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
+  it.
+recognition_drills:
+- Generate two original sentences that differ on the main Any, No and None distinction and ask the learner to choose
+  the natural/correct one.
+production_drills:
+- Ask for one original sentence that demonstrates Any, No and None; add a negative/question transformation when
+  that form is relevant.
+speaking_drills:
+- Ask one short everyday or work question that naturally elicits Any, No and None without naming the grammar point
+  in the question.
+contrasts:
+- not ... any and no express the same basic absence in different sentence structures.
+- none replaces the noun.

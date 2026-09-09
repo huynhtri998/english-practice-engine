@@ -1,0 +1,24 @@
+id: grammar.one-ones
+title: One and Ones
+kind: grammar
+level: elementary
+category: grammar.determiners-quantifiers
+status: normalized-core
+source_refs:
+- source: egiu-4e
+  units:
+  - 75
+source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
+  exercise sets remain in the source book.
+core_concept: Use one/ones to avoid repeating a countable noun when the meaning is clear.
+mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
+  it.
+recognition_drills:
+- Generate two original sentences that differ on the main One and Ones distinction and ask the learner to choose
+  the natural/correct one.
+production_drills:
+- Ask for one original sentence that demonstrates One and Ones; add a negative/question transformation when that
+  form is relevant.
+speaking_drills:
+- Ask one short everyday or work question that naturally elicits One and Ones without naming the grammar point in
+  the question.

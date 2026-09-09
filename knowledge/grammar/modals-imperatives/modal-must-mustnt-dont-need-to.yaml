@@ -1,0 +1,28 @@
+id: grammar.modal-must-mustnt-dont-need-to
+title: Must, Mustn't and Don't Need To
+kind: grammar
+level: elementary
+category: grammar.modals-imperatives
+status: normalized-core
+source_refs:
+- source: egiu-4e
+  units:
+  - 31
+source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
+  exercise sets remain in the source book.
+core_concept: Use must for strong necessity, mustn't for prohibition, and don't need to when something is unnecessary.
+mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
+  it.
+recognition_drills:
+- Generate two original sentences that differ on the main Must, Mustn't and Don't Need To distinction and ask the
+  learner to choose the natural/correct one.
+production_drills:
+- Ask for one original sentence that demonstrates Must, Mustn't and Don't Need To; add a negative/question transformation
+  when that form is relevant.
+speaking_drills:
+- Ask one short everyday or work question that naturally elicits Must, Mustn't and Don't Need To without naming
+  the grammar point in the question.
+forms:
+  must: must + base verb
+  prohibition: mustn't + base verb
+  no_necessity: don't/doesn't need to + base verb

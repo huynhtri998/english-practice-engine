@@ -1,0 +1,34 @@
+id: grammar.present-continuous
+title: Present Continuous
+kind: grammar
+level: elementary
+category: grammar.present
+status: normalized-core
+source_refs:
+- source: egiu-4e
+  units:
+  - 3
+  - 4
+source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
+  exercise sets remain in the source book.
+core_concept: Use am/is/are + -ing for actions happening now or around the time of speaking; invert am/is/are for
+  questions.
+mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
+  it.
+recognition_drills:
+- Generate two original sentences that differ on the main Present Continuous distinction and ask the learner to
+  choose the natural/correct one.
+production_drills:
+- Ask for one original sentence that demonstrates Present Continuous; add a negative/question transformation when
+  that form is relevant.
+speaking_drills:
+- Ask one short everyday or work question that naturally elicits Present Continuous without naming the grammar point
+  in the question.
+forms:
+  form: subject + am/is/are + verb-ing
+  question: am/is/are + subject + verb-ing?
+related:
+- grammar.present-simple
+- grammar.present-simple-vs-continuous
+prerequisites:
+- grammar.be

@@ -1,0 +1,25 @@
+id: grammar.movement-prepositions
+title: Movement Prepositions
+kind: grammar
+level: elementary
+category: grammar.prepositions
+status: normalized-core
+source_refs:
+- source: egiu-4e
+  units:
+  - 110
+source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
+  exercise sets remain in the source book.
+core_concept: Use prepositions/adverbs such as up, down, over, under, through, into, out of, across and along to
+  describe movement paths.
+mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
+  it.
+recognition_drills:
+- Generate two original sentences that differ on the main Movement Prepositions distinction and ask the learner
+  to choose the natural/correct one.
+production_drills:
+- Ask for one original sentence that demonstrates Movement Prepositions; add a negative/question transformation
+  when that form is relevant.
+speaking_drills:
+- Ask one short everyday or work question that naturally elicits Movement Prepositions without naming the grammar
+  point in the question.
