@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/practice-session.schema.json",
+  "title": "Practice Session",
+  "type": "object",
+  "required": ["id", "date", "items"],
+  "properties": {
+    "id": {"type": "string"},
+    "date": {"type": "string", "format": "date"},
+    "mode": {
+      "type": "string",
+      "enum": ["daily", "focused", "speaking", "mixed", "retest"]
+    },
+    "selected_knowledge": {
+      "type": "array",
+      "items": {"type": "string"},
+      "uniqueItems": true
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "knowledge_id", "practice_type", "target_dimension", "prompt"],
+        "properties": {
+          "id": {"type": "string"},
+          "knowledge_id": {"type": "string"},
+          "practice_type": {
+            "type": "string",
+            "enum": [
+              "recognition",
+              "controlled-production",
+              "vi-to-en",
+              "personal-production",
+              "speaking-reflex",
+              "mixed",
+              "error-retest"
+            ]
+          },
+          "target_dimension": {
+            "type": "string",
+            "enum": ["recognition", "production", "speaking"]
+          },
+          "prompt": {"type": "string"},
+          "hidden_target": {"type": ["string", "null"]},
+          "retest_of": {"type": ["string", "null"]}
+        },
+        "additionalProperties": false
+      }
+    },
+    "results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["item_id", "outcome"],
+        "properties": {
+          "item_id": {"type": "string"},
+          "answer": {"type": "string"},
+          "outcome": {
+            "type": "string",
+            "enum": ["strong", "correct-with-hesitation", "self-corrected", "incorrect", "repeated-error"]
+          },
+          "error_category": {"type": ["string", "null"]},
+          "feedback": {"type": ["string", "null"]}
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
