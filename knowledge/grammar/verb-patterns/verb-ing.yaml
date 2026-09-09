@@ -1,24 +1,34 @@
 id: grammar.verb-ing
-title: Verb + -ing Forms
+title: Base Verb, To-infinitive and -ing Forms
 kind: grammar
 level: elementary
 category: grammar.verb-patterns
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 51
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Recognize when -ing forms function after certain verbs or expressions and after go for activities.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [51]
+source_coverage: Unit 51 contrasts the base infinitive after modals/do-support, to-infinitive in common patterns and -ing after be in continuous forms.
+core_concept: English selects different verb forms after different grammar words: base verb after modals/do-support, to + base verb after many structures, and verb-ing after be in continuous tenses.
+mental_model: The word before the verb usually tells you which verb form can follow.
+forms:
+  base_after_modal: will/can/must/should + base verb
+  base_after_do: do/does/did + base verb
+  to_infinitive: to + base verb
+  continuous_ing: be + verb-ing
+common_mistakes:
+  - Do not put to after a modal.
+  - After did/does, use the base verb.
+  - Continuous forms need be before -ing.
+examples:
+  - I can explain it.
+  - I want to practise more.
+  - I'm practising now.
 recognition_drills:
-- Generate two original sentences that differ on the main Verb + -ing Forms distinction and ask the learner to choose
-  the natural/correct one.
+  - Choose base, to-infinitive or -ing after different grammar triggers.
 production_drills:
-- Ask for one original sentence that demonstrates Verb + -ing Forms; add a negative/question transformation when
-  that form is relevant.
+  - Complete three original sentence frames using each target verb form.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Verb + -ing Forms without naming the grammar point
-  in the question.
+  - Tell me something you can do, want to do and are doing now.
+related:
+  - grammar.infinitive-vs-ing
+  - grammar.object-plus-infinitive

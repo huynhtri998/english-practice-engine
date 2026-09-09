@@ -3,25 +3,28 @@ title: Indirect Questions
 kind: grammar
 level: elementary
 category: grammar.questions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 49
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: After phrases such as 'Do you know ...?' or 'I don't know ...', use statement word order inside the
-  embedded question.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Indirect Questions distinction and ask the learner to
-  choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Indirect Questions; add a negative/question transformation when
-  that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Indirect Questions without naming the grammar point
-  in the question.
+  - source: egiu-4e
+    units: [49]
+source_coverage: Unit 49 embedded questions after phrases such as Do you know...? / Can you tell me...? and yes/no clauses with if/whether are represented.
+core_concept: Inside an indirect/embedded question, use statement word order rather than direct-question inversion; use if/whether for embedded yes/no questions.
+mental_model: Only the outer phrase is the direct question; the inner clause behaves like a statement.
 forms:
-  pattern: introductory phrase + question word/if + subject + verb
+  wh_embedded: Do you know/Can you tell me + question word + subject + verb ...?
+  yes_no_embedded: Do you know + if/whether + subject + verb ...?
+common_mistakes:
+  - Say "Do you know where he is?", not "where is he?" inside the embedded clause.
+  - Do not add do/does/did inside the embedded clause unless it is independently required by its grammar.
+examples:
+  - Can you tell me where the config file is?
+  - Do you know if the deployment finished?
+recognition_drills:
+  - Correct the word order in an embedded question.
+production_drills:
+  - Convert one direct wh-question and one yes/no question into polite indirect questions.
+speaking_drills:
+  - Ask me politely where something is or whether something happened.
+related:
+  - grammar.questions-basic
+  - grammar.reported-speech-basic

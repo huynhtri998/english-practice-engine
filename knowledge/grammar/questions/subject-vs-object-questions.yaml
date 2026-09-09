@@ -3,26 +3,28 @@ title: Subject vs Object Questions
 kind: grammar
 level: elementary
 category: grammar.questions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 45
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Do not use do/does/did when who/what is the subject; use the normal auxiliary question pattern when
-  who/what is the object.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [45]
+source_coverage: Unit 45 contrast between who/what as subject and who/what as object is represented.
+core_concept: When who/what is the subject, use normal affirmative verb order without do/does/did; when it is the object, use normal question auxiliary order.
+mental_model: Ask whether the missing person/thing did the action or received the action.
+forms:
+  subject_question: who/what + verb + ...?
+  object_question: who/what + do/does/did + subject + base verb?
+common_mistakes:
+  - Do not add did in a past subject question such as Who called you?
+  - Use do-support when who/what is the object of an ordinary simple-tense verb.
+examples:
+  - Who fixed the bug?
+  - Who did you call after the incident?
 recognition_drills:
-- Generate two original sentences that differ on the main Subject vs Object Questions distinction and ask the learner
-  to choose the natural/correct one.
+  - Decide whether who/what is subject or object before choosing the question form.
 production_drills:
-- Ask for one original sentence that demonstrates Subject vs Object Questions; add a negative/question transformation
-  when that form is relevant.
+  - Write one subject question and one object question about the same event.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Subject vs Object Questions without naming the
-  grammar point in the question.
-contrasts:
-- 'Subject question: who/what itself is the subject, so no do/does/did is added.'
-- 'Object question: use normal auxiliary question order.'
+  - Who taught you something useful recently?
+related:
+  - grammar.questions-basic
+  - grammar.question-words

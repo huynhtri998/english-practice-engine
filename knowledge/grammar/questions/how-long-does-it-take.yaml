@@ -3,23 +3,29 @@ title: How Long Does It Take?
 kind: grammar
 level: elementary
 category: grammar.questions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 48
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use How long does/did it take ...? and it takes/took ... to talk about the time needed for an activity
-  or journey.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [48]
+source_coverage: Unit 48 duration questions and answers with take are represented for present, past and future contexts.
+core_concept: Use How long + take to ask about the amount of time needed for a journey or action; answer with It takes/took/will take + duration.
+mental_model: Activity or route -> amount of time -> take-pattern.
+forms:
+  present: How long does it take ...? / It takes ...
+  past: How long did it take ...? / It took ...
+  future: How long will it take ...? / It will take ...
+  personal: It takes somebody + time + to + base verb
+common_mistakes:
+  - After does/did, use take, not takes/took.
+examples:
+  - How long does it take to run the tests?
+  - It took me two hours to finish the migration.
 recognition_drills:
-- Generate two original sentences that differ on the main How Long Does It Take? distinction and ask the learner
-  to choose the natural/correct one.
+  - Choose the correct take-form for present, past and future duration questions.
 production_drills:
-- Ask for one original sentence that demonstrates How Long Does It Take?; add a negative/question transformation
-  when that form is relevant.
+  - Ask and answer how long one everyday or work task takes.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits How Long Does It Take? without naming the grammar
-  point in the question.
+  - How long does it take you to get ready for work?
+related:
+  - grammar.question-words
+  - grammar.infinitive-purpose

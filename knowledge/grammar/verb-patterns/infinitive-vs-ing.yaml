@@ -1,25 +1,39 @@
 id: grammar.infinitive-vs-ing
-title: To-infinitive vs -ing
+title: To-infinitive vs -ing after Verbs
 kind: grammar
 level: elementary
 category: grammar.verb-patterns
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 52
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Some verbs are followed by to + base verb while others are followed by -ing; learn the common verb
-  patterns.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [52]
+source_coverage: Unit 52 selected verb + to-infinitive and verb + -ing patterns are represented without claiming a universal rule; original exercises remain outside Git.
+core_concept: Some verbs are followed by to + base verb and others by verb-ing, so high-frequency patterns should be learned as chunks.
+mental_model: Retrieve the first verb together with the form it licenses rather than translating word by word.
+usage:
+  to_infinitive_examples:
+    - want to ...
+    - need to ...
+    - hope to ...
+    - decide to ...
+  ing_examples:
+    - enjoy -ing
+    - finish -ing
+    - mind -ing
+  source_overlap:
+    - like/love/hate/prefer can appear with infinitive or -ing patterns in the elementary source
+common_mistakes:
+  - Do not assume every verb can take either form.
+  - Learn uncertain verb patterns from the source/reference rather than inventing a general rule.
+examples:
+  - I enjoy learning English.
+  - I decided to review this topic again.
 recognition_drills:
-- Generate two original sentences that differ on the main To-infinitive vs -ing distinction and ask the learner
-  to choose the natural/correct one.
+  - Choose the source-supported form after a high-frequency target verb.
 production_drills:
-- Ask for one original sentence that demonstrates To-infinitive vs -ing; add a negative/question transformation
-  when that form is relevant.
+  - Make one sentence with enjoy/finish/mind + -ing and one with want/need/hope + to-infinitive.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits To-infinitive vs -ing without naming the grammar
-  point in the question.
+  - What do you enjoy doing, and what do you hope to do next year?
+related:
+  - grammar.verb-ing
+  - grammar.object-plus-infinitive

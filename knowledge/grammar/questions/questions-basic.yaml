@@ -3,26 +3,31 @@ title: Basic Question Formation
 kind: grammar
 level: elementary
 category: grammar.questions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 44
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Form questions by placing the auxiliary or be before the subject; use do/does/did when no other auxiliary
-  is present.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main Basic Question Formation distinction and ask the learner
-  to choose the natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates Basic Question Formation; add a negative/question transformation
-  when that form is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits Basic Question Formation without naming the grammar
-  point in the question.
+  - source: egiu-4e
+    units: [44]
+source_coverage: Unit 44 consolidates question order with be/auxiliaries, do/does/did support and negative questions.
+core_concept: Put an existing auxiliary before the subject; for ordinary present/past simple verbs, use do/does/did before the subject.
+mental_model: Question = grammar carrier first, subject second, main verb after that.
 forms:
-  with_auxiliary: auxiliary + subject + main verb ...?
-  without_auxiliary: do/does/did + subject + base verb ...?
+  be_or_auxiliary: auxiliary + subject + rest?
+  present_simple: do/does + subject + base verb?
+  past_simple: did + subject + base verb?
+  negative_question: negative auxiliary + subject + rest?
+common_mistakes:
+  - Do not use statement order after the question word in a direct question.
+  - After does/did, use the base verb.
+examples:
+  - Are you working today?
+  - Does the service restart automatically?
+  - Why didn't the test run?
+recognition_drills:
+  - Choose the correctly ordered direct question from two options.
+production_drills:
+  - Turn three statements into direct questions using different auxiliaries.
+speaking_drills:
+  - Ask me one natural question about my workday.
+related:
+  - grammar.subject-vs-object-questions
+  - grammar.indirect-questions
