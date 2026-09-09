@@ -3,46 +3,44 @@ title: Global Problems
 kind: vocabulary
 level: A1-A2
 category: vocabulary.social
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 37
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for global problems, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [37]
+source_coverage: Unit 37 disasters, traffic/pollution, political problems and adjectives for affected people are represented.
+core_concept: Name common large-scale environmental, social and political problems using frequent word partnerships.
+mental_model: Problem type -> event/condition -> affected people/place.
 key_items:
-- hurricane
-- snowstorm
-- forest fire
-- earthquake
-- flood
-- crowded
-- poor
-- hungry
-- homeless
-- unemployed
-- pollution
-- polluted
-- war
-- strike
-- car crash
-- traffic jam
-- rush hour
+  - hurricane
+  - flood
+  - earthquake
+  - snowstorm
+  - forest fire
+  - war
+  - strike
+  - traffic jam
+  - car crash
+  - air pollution
+  - rush hour
+  - crowded
+  - homeless
+  - unemployed
+  - hungry
+  - polluted
 collocations:
-- air pollution
-- go on strike
-- traffic jam
-- rush hour
-- car crash
-- forest fire
+  - forest fire
+  - traffic jam
+  - car crash
+  - rush hour
+  - go on strike
+  - air pollution
+common_mistakes:
+  - Learn compound problem terms as fixed chunks rather than translating word by word.
+examples:
+  - Traffic jams make air pollution worse in many cities.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Global Problems; do not copy the source exercise.
+  - Match compound nouns and categorize road/weather/political/social problems.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Global Problems, then wait for an English
-  answer.
+  - Summarize one city problem and one natural disaster using source vocabulary.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Global Problems.
+  - What's a major problem in big cities where you live?

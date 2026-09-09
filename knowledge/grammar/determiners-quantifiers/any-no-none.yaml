@@ -3,25 +3,25 @@ title: Any, No and None
 kind: grammar
 level: elementary
 category: grammar.determiners-quantifiers
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 77
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Express absence with not ... any or with no; use none when the noun is omitted.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [77]
+source_coverage: Unit 77 not + any, no + noun, and none as a pronoun/answer are represented.
+core_concept: Express zero quantity either with negative verb + any or positive verb + no; use none when the noun is omitted.
+mental_model: Choose one negative marker only.
+forms:
+  negative_any: not + any + noun
+  no_noun: no + noun
+  none: noun omitted
+common_mistakes:
+  - Avoid double negatives such as don't have no money in standard English.
+examples:
+  - We don't have any blockers.
+  - We have no blockers. None are critical.
 recognition_drills:
-- Generate two original sentences that differ on the main Any, No and None distinction and ask the learner to choose
-  the natural/correct one.
+  - Convert between not any and no without changing meaning.
 production_drills:
-- Ask for one original sentence that demonstrates Any, No and None; add a negative/question transformation when
-  that form is relevant.
+  - Answer quantity questions with none where natural.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Any, No and None without naming the grammar point
-  in the question.
-contrasts:
-- not ... any and no express the same basic absence in different sentence structures.
-- none replaces the noun.
+  - Are there any problems left?

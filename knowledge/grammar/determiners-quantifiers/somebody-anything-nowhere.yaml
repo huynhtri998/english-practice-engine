@@ -1,24 +1,27 @@
 id: grammar.somebody-anything-nowhere
-title: Some-/Any-/No-/Every- Compounds
+title: Somebody, Anything, Somewhere and Related Forms
 kind: grammar
 level: elementary
 category: grammar.determiners-quantifiers
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 79
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use compounds such as somebody, anything and nowhere according to the same broad patterns as some/any/no/every.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [79]
+source_coverage: Unit 79 -body/-one, -thing and -where families with some/any/no/every are represented.
+core_concept: Build indefinite references systematically for people, things and places using some-, any-, no- and every- families.
+mental_model: Choose dimension (person/thing/place) and polarity/scope prefix.
+forms:
+  person: [somebody/someone, anybody/anyone, nobody/no-one, everybody/everyone]
+  thing: [something, anything, nothing, everything]
+  place: [somewhere, anywhere, nowhere, everywhere]
+common_mistakes:
+  - These forms are single pronoun/adverb units; match the prefix to sentence polarity and meaning.
+examples:
+  - Someone left something on my desk.
+  - I couldn't find it anywhere.
 recognition_drills:
-- Generate two original sentences that differ on the main Some-/Any-/No-/Every- Compounds distinction and ask the
-  learner to choose the natural/correct one.
+  - Complete a grid of person/thing/place indefinite forms.
 production_drills:
-- Ask for one original sentence that demonstrates Some-/Any-/No-/Every- Compounds; add a negative/question transformation
-  when that form is relevant.
+  - Tell a short story using one some-, one any- and one no- form.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Some-/Any-/No-/Every- Compounds without naming
-  the grammar point in the question.
+  - Did you go anywhere interesting last weekend?

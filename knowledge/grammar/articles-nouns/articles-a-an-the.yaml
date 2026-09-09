@@ -3,24 +3,26 @@ title: A/An and The
 kind: grammar
 level: elementary
 category: grammar.articles-nouns
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 69
-  - 70
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use a/an when introducing or referring to one non-specific singular countable thing, and the when
-  the listener can identify the specific thing.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [69, 70]
+source_coverage: Units 69-70 first/non-specific mention versus identifiable/specific reference, unique things and fixed the-patterns are represented.
+core_concept: Use a/an when introducing one non-specific singular countable item; use the when the listener can identify the intended item.
+mental_model: New/one-of-many -> a/an. Known/clear/unique -> the.
+usage:
+  - first mention vs later reference
+  - unique/contextually obvious things
+  - the same, the top/end/middle/left/right
+  - musical instruments in play the ... patterns
+common_mistakes:
+  - Source omits the before TV, meals, and next/last + time expressions in the taught patterns.
+examples:
+  - I saw a bug in the log. The bug was easy to reproduce.
+  - She plays the piano.
 recognition_drills:
-- Generate two original sentences that differ on the main A/An and The distinction and ask the learner to choose
-  the natural/correct one.
+  - Choose a/an/the/no article in source-level contexts.
 production_drills:
-- Ask for one original sentence that demonstrates A/An and The; add a negative/question transformation when that
-  form is relevant.
+  - Write a two-sentence mini-story introducing and then referring back to a noun.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits A/An and The without naming the grammar point in
-  the question.
+  - Describe a place using one first mention and one known reference.

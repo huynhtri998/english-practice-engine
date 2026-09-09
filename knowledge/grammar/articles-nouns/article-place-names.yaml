@@ -1,25 +1,26 @@
 id: grammar.article-place-names
-title: Articles with Place Names
+title: The in Names of Places
 kind: grammar
 level: elementary
 category: grammar.articles-nouns
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 73
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Many place names take no article, while some geographical and institutional names conventionally use
-  the.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [73]
+source_coverage: Unit 73 article patterns for place names are represented at elementary level.
+core_concept: Most simple country/city names take no article, while several geographical/group names use the.
+mental_model: Learn place names in chunks, especially exceptions that include the.
+usage:
+  - no article with most countries/cities
+  - the with many rivers, seas/oceans and plural/group names
+  - source-level fixed names such as the United States / the UK
+common_mistakes:
+  - Do not add the automatically before every country or city.
+examples:
+  - She moved to Canada, then visited the United States.
 recognition_drills:
-- Generate two original sentences that differ on the main Articles with Place Names distinction and ask the learner
-  to choose the natural/correct one.
+  - Choose the/no article with mixed place names.
 production_drills:
-- Ask for one original sentence that demonstrates Articles with Place Names; add a negative/question transformation
-  when that form is relevant.
+  - Write five travel sentences using place-name articles accurately.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Articles with Place Names without naming the grammar
-  point in the question.
+  - Name three countries and one river or sea you know.

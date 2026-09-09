@@ -3,23 +3,25 @@ title: Possessive 's
 kind: grammar
 level: elementary
 category: grammar.pronouns-possessives
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 64
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use 's (or an apostrophe after regular plural -s) to show possession/relationship with people and
-  some nouns.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [64]
+source_coverage: Unit 64 person's/people's ownership patterns and noun-of-noun alternatives are represented.
+core_concept: Use 's especially with people to express possession or relationship; use of-patterns naturally with many things.
+mental_model: Person/owner first -> 's -> thing; thing-part relationship often uses of.
+forms:
+  singular_owner: noun + 's + noun
+  plural_s_owner: plural noun + ' + noun
+  irregular_plural_owner: plural noun + 's + noun
+common_mistakes:
+  - Keep plural possessive punctuation distinct from ordinary plurals.
+examples:
+  - My brother's car is outside.
+  - The roof of the building needs repair.
 recognition_drills:
-- Generate two original sentences that differ on the main Possessive 's distinction and ask the learner to choose
-  the natural/correct one.
+  - Choose 's, apostrophe-only, or of in short noun phrases.
 production_drills:
-- Ask for one original sentence that demonstrates Possessive 's; add a negative/question transformation when that
-  form is relevant.
+  - Rewrite ownership phrases using the natural structure.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Possessive 's without naming the grammar point
-  in the question.
+  - Describe one family member's job or belongings.

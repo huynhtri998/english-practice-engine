@@ -3,22 +3,25 @@ title: One and Ones
 kind: grammar
 level: elementary
 category: grammar.determiners-quantifiers
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 75
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use one/ones to avoid repeating a countable noun when the meaning is clear.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [75]
+source_coverage: Unit 75 one/ones as noun substitutes after demonstratives, adjectives and the is represented.
+core_concept: Use one/ones to avoid repeating a countable noun that is already clear.
+mental_model: Known countable noun omitted -> one (singular) or ones (plural).
+usage:
+  - this one / that one
+  - the one ... / the ones ...
+  - a clean one / some new ones
+common_mistakes:
+  - Use one only for singular countable nouns; use ones for plural countables.
+examples:
+  - Which branch? The one with the migration commit.
+  - These tests failed, but the new ones passed.
 recognition_drills:
-- Generate two original sentences that differ on the main One and Ones distinction and ask the learner to choose
-  the natural/correct one.
+  - Choose one/ones or repeat the noun only when needed.
 production_drills:
-- Ask for one original sentence that demonstrates One and Ones; add a negative/question transformation when that
-  form is relevant.
+  - Rewrite repetitive noun phrases using one/ones.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits One and Ones without naming the grammar point in
-  the question.
+  - Which one do you prefer?

@@ -3,25 +3,29 @@ title: A and An
 kind: grammar
 level: elementary
 category: grammar.articles-nouns
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 65
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use a/an with a singular countable noun when it is one non-specific example; choose an before a vowel
-  sound.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
-recognition_drills:
-- Generate two original sentences that differ on the main A and An distinction and ask the learner to choose the
-  natural/correct one.
-production_drills:
-- Ask for one original sentence that demonstrates A and An; add a negative/question transformation when that form
-  is relevant.
-speaking_drills:
-- Ask one short everyday or work question that naturally elicits A and An without naming the grammar point in the
-  question.
+  - source: egiu-4e
+    units: [65]
+source_coverage: Unit 65 a/an with singular countable nouns, sound-based choice, classification and jobs is represented.
+core_concept: Use a/an for one non-specific singular countable thing/person and when classifying what someone/something is.
+mental_model: One countable item, not uniquely identified -> a/an; choose by sound, not spelling.
 forms:
-  form: a/an + singular countable noun
+  a: before consonant sound
+  an: before vowel sound
+usage:
+  - jobs and identities
+  - first/non-specific mention
+  - another = an + other
+common_mistakes:
+  - Say an hour but a university because the choice follows pronunciation.
+  - Use an article with singular jobs: She's an engineer.
+examples:
+  - I need a new keyboard.
+  - He's an architect.
+recognition_drills:
+  - Choose a/an based on pronunciation in mixed examples.
+production_drills:
+  - Describe five jobs/things using a/an correctly.
+speaking_drills:
+  - What's your job? Answer with a natural a/an phrase.

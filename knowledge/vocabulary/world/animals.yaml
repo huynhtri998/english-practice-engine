@@ -3,50 +3,40 @@ title: Animals
 kind: vocabulary
 level: A1-A2
 category: vocabulary.world
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 31
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for animals, with emphasis on natural combinations and
-  active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [31]
+source_coverage: Unit 31 farm animals, wild/zoo animals, pets, animal products/babies and care expressions are represented.
+core_concept: Learn common animal names in useful groups and with care/product/baby associations.
+mental_model: Animal -> group -> product/baby or care action.
 key_items:
-- horse
-- cow
-- sheep
-- pig
-- chicken/hen
-- goat
-- foal
-- calf
-- lamb
-- piglet
-- chick
-- kid
-- monkey
-- tiger
-- giraffe
-- snake
-- elephant
-- lion
-- fish
-- rabbit
-- cat
-- parrot
-- dog
-- tortoise
+  - horse
+  - cow
+  - sheep
+  - pig
+  - chicken / hen
+  - goat
+  - monkey
+  - giraffe
+  - tiger
+  - snake
+  - elephant
+  - lion
+  - tortoise
+  - rabbit
+  - parrot
+  - dog
 collocations:
-- keep/have a pet
-- take a dog for a walk
-- feed animals
-- give animals water
+  - take a dog for a walk
+  - feed animals
+  - give animals water
+  - cow - calf / sheep - lamb / pig - piglet / chicken - chick / horse - foal
+examples:
+  - We feed the dog twice a day.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Animals; do not copy the source exercise.
+  - Match farm animals to babies/products and identify pets vs wild animals.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Animals, then wait for an English answer.
+  - Describe a pet or farm animal using three source chunks.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Animals.
+  - Do you have any pets? How do you look after them?
