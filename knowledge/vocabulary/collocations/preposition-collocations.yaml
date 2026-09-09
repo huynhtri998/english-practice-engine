@@ -3,52 +3,45 @@ title: Words and Prepositions
 kind: vocabulary
 level: A1-A2
 category: vocabulary.collocations
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 57
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for words and prepositions, with emphasis on natural
-  combinations and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [57]
+source_coverage: Unit 57 verb-preposition chunks, look phrasal/prepositional meanings, adjective-preposition chunks, used to/get used to, and preposition + noun/-ing grammar are represented.
+core_concept: Learn frequent words together with their prepositions because the combination carries both grammar and meaning.
+mental_model: Store the chunk as one lexical unit; if an action follows the preposition, use its -ing form.
 key_items:
-- listen to
-- wait for
-- ask for
-- pay for
-- come to
-- belong to
-- think about
-- thank somebody for
-- apologise for
-- look at
-- look for
-- look after
-- look forward to
-- good at
-- bad at
-- interested in
-- afraid of
-- proud of
-- used to
-- get used to
+  - listen to
+  - wait for
+  - ask for
+  - pay for
+  - come to
+  - belong to
+  - think about
+  - thank somebody for
+  - apologise for
+  - look at / look for / look after / look forward to
+  - good at / bad at
+  - interested in
+  - afraid of
+  - proud of
+  - be used to / get used to
 collocations:
-- look forward to + noun/-ing
-- good at + noun/-ing
-- apologise for + noun/-ing
-- be proud of
-- be interested in
+  - look forward to + noun/-ing
+  - good at + noun/-ing
+  - apologise for + noun/-ing
+  - proud of + noun/-ing
+  - used to + noun/-ing in the 'accustomed to' pattern taught here
 common_mistakes:
-- Prepositions are followed by a noun or -ing form in the patterns taught here.
-- For success, use happy about the result; happy for a person can express pleasure on their behalf.
+  - A preposition is followed by a noun or -ing form in the source patterns.
+  - Happy about a result differs from happy for a person when expressing pleasure on someone's behalf.
+examples:
+  - I'm looking forward to practising with real conversations.
+  - She's good at explaining things and proud of finishing the course.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Words and Prepositions; do not copy the source
-  exercise.
+  - Match words to prepositions and distinguish look at/for/after/forward to.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Words and Prepositions, then wait for an
-  English answer.
+  - Complete original prompts with the whole collocation, including two -ing forms.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Words and Prepositions.
+  - What are you good at, and what are you looking forward to?
+related: [grammar.adjective-preposition, grammar.verb-preposition]

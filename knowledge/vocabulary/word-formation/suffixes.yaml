@@ -3,50 +3,33 @@ title: Suffixes
 kind: vocabulary
 level: A1-A2
 category: vocabulary.word-formation
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 59
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for suffixes, with emphasis on natural combinations and
-  active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [59]
+source_coverage: Unit 59 common suffix patterns shown through person/device nouns, adverbs, adjective families and related derived words are represented.
+core_concept: Common suffixes can change a base word's word class or meaning, helping learners infer and build related vocabulary.
+mental_model: Base word -> suffix -> likely word class/meaning; confirm irregular spelling when necessary.
 key_items:
-- -er
-- -or
-- -ful
-- -less
-- -ly
-- -ness
-- -y
-- worker
-- swimmer
-- instructor
-- cooker
-- calculator
-- useful
-- beautiful
-- useless
-- endless
-- quickly
-- happily
-- happiness
-- sadness
-- sandy
-- sunny
-collocations:
-- -er/-or for person or thing
-- -ful = full of
-- -less = without
-- -ly forms many adverbs
-- -ness forms abstract nouns
-- -y forms adjectives
+  - -er/-or for people or things that perform an action in common source examples
+  - -ly for many adverbs
+  - -ful for 'with/full of' qualities
+  - -less for 'without' qualities
+  - -y for many adjective forms such as weather descriptions
+  - -ness for abstract noun forms in common derivations
+examples:
+  - teach -> teacher
+  - travel -> traveller
+  - slow -> slowly
+  - help -> helpful
+  - pain -> painless
+  - rain -> rainy
+  - kind -> kindness
+common_mistakes:
+  - Suffixes can trigger spelling changes, so do not assume simple letter addition in every word.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Suffixes; do not copy the source exercise.
+  - Identify the likely word class and base word from common suffixed forms.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Suffixes, then wait for an English answer.
+  - Build derived words from base-word clues and place them in original sentences.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Suffixes.
+  - Describe a helpful person and a rainy or sunny day using derived words.

@@ -3,54 +3,37 @@ title: Time Words
 kind: vocabulary
 level: A1-A2
 category: vocabulary.words-grammar
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 52
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for time words, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [52]
+source_coverage: Unit 52 now/then, ago/last/next, past-present-future, frequency adverbs, frequency-count expressions and short-time phrases are represented.
+core_concept: Use a small set of time and frequency words to locate events relative to now and say how often they happen.
+mental_model: First choose timeline position (past/now/future), then frequency if needed.
 key_items:
-- now
-- then
-- ago
-- last
-- next
-- past
-- present
-- future
-- always
-- usually
-- often
-- sometimes
-- occasionally
-- now and then
-- not often
-- rarely
-- never
-- once
-- twice
-- soon
-- recently
-- at the moment
-- in a moment
+  - now / then
+  - ago
+  - last / next
+  - past / present / future
+  - always / usually / often / sometimes / occasionally / rarely / never
+  - now and then
+  - once / twice / three times
+  - soon / recently
+  - at the moment / in a moment
 collocations:
-- an hour ago
-- last week
-- next month
-- in the past
-- in the future
-- once a week
-- twice a day
-- three times a year
-- at the moment
+  - two hours ago
+  - last week / next month
+  - once a week / twice a day / three times a year
+  - at the moment
+  - in a moment
+common_mistakes:
+  - Keep at the moment ('now') distinct from in a moment ('very soon').
+examples:
+  - I practise speaking twice a week at the moment.
+  - I changed jobs two years ago.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Time Words; do not copy the source exercise.
+  - Place time words on a past-now-future line and match frequency expressions.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Time Words, then wait for an English answer.
+  - Answer how-often prompts with once/twice/times and an appropriate period.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Time Words.
+  - How often do you practise English at the moment?

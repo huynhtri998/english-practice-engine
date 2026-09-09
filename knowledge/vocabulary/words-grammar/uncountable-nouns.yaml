@@ -3,53 +3,45 @@ title: Common Uncountable Nouns
 kind: vocabulary
 level: A1-A2
 category: vocabulary.words-grammar
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 55
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for common uncountable nouns, with emphasis on natural
-  combinations and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
+  - source: eviu-elementary-3e
+    units: [55]
+source_coverage: Unit 55 countability contrast, common everyday uncountables, food/drink uncountables, singular agreement and quantity-unit phrases are represented.
+core_concept: Learn common uncountable nouns inside phrases that reveal their grammar rather than memorizing the noun alone.
+mental_model: Store the noun with some/a piece of/a loaf of/etc. so countability becomes part of retrieval.
 key_items:
-- traffic
-- furniture
-- advice
-- information
-- news
-- weather
-- accommodation
-- air
-- travel
-- work
-- rice
-- spaghetti
-- butter
-- bread
-- milk
-- water
-- tea
-- coffee
-- sugar
-- money
-- luggage
+  - money
+  - luggage
+  - traffic
+  - furniture
+  - news
+  - advice
+  - information
+  - weather
+  - accommodation
+  - air
+  - travel
+  - work
+  - rice / spaghetti / butter / bread / milk / water / tea / coffee
 collocations:
-- some advice/information/news
-- bad traffic/weather
-- fresh air
-- hard work
-- a loaf of bread
-- a litre of milk
+  - some advice / information / luggage
+  - useful information
+  - bad news / weather / traffic
+  - a loaf of bread
+  - a litre of milk
+  - a kilo of rice
 common_mistakes:
-- Do not normally pluralize uncountable nouns such as luggage, furniture, advice, information or news.
+  - Use singular agreement with source nouns such as news, furniture and accommodation.
+  - Avoid plural forms such as informations, advices, furnitures and luggages in these source meanings.
+  - Do not use a/an directly before these uncountables; use a unit expression when needed.
+examples:
+  - I need some information about the accommodation.
+  - The news is good, but the traffic is terrible.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Common Uncountable Nouns; do not copy the source
-  exercise.
+  - Identify countability mistakes and choose natural quantity phrases.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Common Uncountable Nouns, then wait for
-  an English answer.
+  - Correct a short paragraph containing plural/article errors with uncountable nouns.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Common Uncountable Nouns.
+  - What information and luggage do you need before a trip?
+related: [grammar.countable-uncountable]

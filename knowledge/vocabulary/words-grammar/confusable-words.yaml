@@ -3,48 +3,31 @@ title: Words You May Confuse
 kind: vocabulary
 level: A1-A2
 category: vocabulary.words-grammar
-status: normalized-core
+status: expanded
 source_refs:
-- source: eviu-elementary-3e
-  units:
-  - 60
-source_coverage: Normalized core from the referenced source unit(s). The source book remains the detailed vocabulary
-  reference; copied exercises and long source passages are not stored here.
-core_concept: Core elementary vocabulary and useful chunks for words you may confuse, with emphasis on natural combinations
-  and active use.
-mental_model: Retrieve the idea first, then recall the natural English word or chunk together with the words it
-  normally combines with.
-key_items:
-- quite
-- quiet
-- lose
-- loose
-- fell
-- felt
-- cook
-- cooker
-- lend
-- borrow
-- check
-- control
-- hope
-- expect
-- afternoon
-- evening
-- night
+  - source: eviu-elementary-3e
+    units: [60]
+source_coverage: Unit 60 similar-sounding and related-meaning pairs plus hope/expect and afternoon/evening/night distinctions are represented.
+core_concept: Prevent frequent elementary mix-ups by storing each confusable pair with a short meaning contrast and a context trigger.
+mental_model: Do not memorize isolated definitions; retrieve the contrast pair and ask which role/meaning the situation requires.
 confusions:
-- quite = fairly; quiet = not noisy
-- lose = fail to find; loose = not tight
-- fell = past of fall; felt = past of feel
-- cook = person; cooker = appliance
-- lend = give temporarily; borrow = receive temporarily
-- check = inspect; control = direct/manage
-- hope = want something to happen; expect = think it is probable
+  - quite = fairly/to a degree; quiet = not noisy
+  - lose = no longer have/find; loose = not tight
+  - fell = past of fall; felt = past of feel
+  - cook = person who cooks; cooker = appliance used for cooking
+  - lend = give temporarily; borrow = receive temporarily
+  - check = examine; control = direct/manage operation
+  - hope = want a desired outcome; expect = believe something is likely
+  - afternoon, evening and night cover different later parts of the day in the source descriptions
+examples:
+  - Can I borrow your charger? I'll give it back tonight.
+  - I hope I pass, but I expect the test to be difficult.
+common_mistakes:
+  - Keep the direction of lend/borrow clear: the lender gives; the borrower receives.
+  - Quiet and quite differ in both pronunciation and meaning.
 recognition_drills:
-- Create a fresh matching/choice item using the key vocabulary for Words You May Confuse; do not copy the source
-  exercise.
+  - Choose the correct item from each confusable pair in short contexts.
 production_drills:
-- Give a short Vietnamese prompt that naturally requires vocabulary from Words You May Confuse, then wait for an English
-  answer.
+  - Write one contrasting sentence pair for lend/borrow and hope/expect.
 speaking_drills:
-- Ask one short personal question that naturally elicits two or more items from Words You May Confuse.
+  - Tell me something you hope will happen and something you expect will happen.

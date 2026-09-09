@@ -3,23 +3,32 @@ title: Movement Prepositions
 kind: grammar
 level: elementary
 category: grammar.prepositions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 110
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use prepositions/adverbs such as up, down, over, under, through, into, out of, across and along to
-  describe movement paths.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [110]
+source_coverage: Unit 110 movement paths including up/down, over/under, through, round/around, along, across, past, into and out of are represented.
+core_concept: Movement prepositions describe the path an action takes relative to places and objects.
+mental_model: Visualize the path: vertical, boundary crossing, interior passage, perimeter, line, side-to-side, passing a landmark, entering or leaving.
+key_items:
+  - up / down
+  - over / under
+  - through
+  - round / around
+  - along
+  - across
+  - past
+  - into
+  - out of
+common_mistakes:
+  - Across describes movement from one side to another; through describes movement within/inside and out of a space or opening.
+  - Into focuses on movement to the inside; in often describes location.
+examples:
+  - Walk along this road, go past the bank and turn left.
+  - The dog ran across the road and into the garden.
 recognition_drills:
-- Generate two original sentences that differ on the main Movement Prepositions distinction and ask the learner
-  to choose the natural/correct one.
+  - Match movement paths to the correct preposition.
 production_drills:
-- Ask for one original sentence that demonstrates Movement Prepositions; add a negative/question transformation
-  when that form is relevant.
+  - Give original directions using at least five movement prepositions.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Movement Prepositions without naming the grammar
-  point in the question.
+  - Explain how to walk from your home to a nearby place.

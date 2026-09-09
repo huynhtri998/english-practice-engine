@@ -1,25 +1,31 @@
 id: grammar.prepositions-movement-to-in-at
-title: 'Movement and Destination: To, In, At'
+title: To, In and At with Places
 kind: grammar
 level: elementary
 category: grammar.prepositions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 108
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use to for movement toward a destination, while in/at normally describe position; some destinations
-  such as home use no to.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [108]
+source_coverage: Unit 108 movement toward a destination with to, location with in/at, and common no-to forms such as home are represented.
+core_concept: Use to after movement verbs for a destination; use in/at with stative location patterns. Some destinations such as home do not take to.
+mental_model: Movement toward destination -> to; already located -> in/at.
+forms:
+  movement: go/come/return/walk/etc. + to + place
+  location: be/stay/live/work/etc. + in/at + place
+usage:
+  - go to bed/work/a party/a place
+  - go/get/come home without to
+  - arrive patterns are source-specific: arrive in/at rather than arrive to
+common_mistakes:
+  - Say go home/get home, not go to home/get to home.
+  - Do not use to after arrive in the source patterns.
+examples:
+  - I went to the office, but now I'm at home.
+  - We arrived at the hotel after midnight.
 recognition_drills:
-- 'Generate two original sentences that differ on the main Movement and Destination: To, In, At distinction and
-  ask the learner to choose the natural/correct one.'
+  - Choose to/in/at/no preposition from movement versus location context.
 production_drills:
-- 'Ask for one original sentence that demonstrates Movement and Destination: To, In, At; add a negative/question
-  transformation when that form is relevant.'
+  - Rewrite a short journey from movement statements into location statements.
 speaking_drills:
-- 'Ask one short everyday or work question that naturally elicits Movement and Destination: To, In, At without naming
-  the grammar point in the question.'
+  - Where do you go after work, and what time do you get home?

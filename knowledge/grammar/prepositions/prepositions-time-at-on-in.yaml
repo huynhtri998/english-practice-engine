@@ -1,25 +1,30 @@
 id: grammar.prepositions-time-at-on-in
-title: 'Time Prepositions: At, On, In'
+title: At, On and In for Time
 kind: grammar
 level: elementary
 category: grammar.prepositions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 103
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Use at for clock times/specific points, on for days/dates and in for longer periods such as months,
-  years and parts of the day.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [103]
+source_coverage: Unit 103 core at/on/in time patterns and common no-preposition time expressions are represented.
+core_concept: Use at for clock points and certain short time points, on for days/dates, and in for months, years, seasons and broader periods.
+mental_model: Point -> at; calendar day/date -> on; larger container of time -> in.
+forms:
+  at: clock times and source fixed points such as night
+  on: days and dates
+  in: months, years, seasons and longer periods
+usage:
+  - in can also express time from now in patterns such as in a few minutes
+  - common next/last/this/every time expressions normally appear without at/on/in
+common_mistakes:
+  - Match the preposition to the type of time expression, not to a direct Vietnamese translation.
+examples:
+  - The meeting starts at nine on Monday in September.
+  - I'll call you in ten minutes.
 recognition_drills:
-- 'Generate two original sentences that differ on the main Time Prepositions: At, On, In distinction and ask the
-  learner to choose the natural/correct one.'
+  - Choose at/on/in or no preposition for mixed time expressions.
 production_drills:
-- 'Ask for one original sentence that demonstrates Time Prepositions: At, On, In; add a negative/question transformation
-  when that form is relevant.'
+  - Describe a weekly schedule using clock time, day and month/year expressions.
 speaking_drills:
-- 'Ask one short everyday or work question that naturally elicits Time Prepositions: At, On, In without naming the
-  grammar point in the question.'
+  - What time do you start work, and what do you usually do at the weekend?

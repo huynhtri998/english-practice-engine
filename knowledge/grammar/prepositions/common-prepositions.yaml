@@ -1,24 +1,36 @@
 id: grammar.common-prepositions
-title: Common Preposition Patterns
+title: Common Preposition Expressions
 kind: grammar
 level: elementary
 category: grammar.prepositions
-status: normalized-core
+status: expanded
 source_refs:
-- source: egiu-4e
-  units:
-  - 111
-source_coverage: All listed source units are mapped. The KU stores paraphrased core knowledge; source examples and
-  exercise sets remain in the source book.
-core_concept: Learn frequent fixed uses of on, at, by, with and about in everyday expressions.
-mental_model: Retrieve the intended meaning or relationship first, then choose the sentence pattern that expresses
-  it.
+  - source: egiu-4e
+    units: [111]
+source_coverage: Unit 111 fixed patterns with on/at/by/with/about and common transport, instrument, speed, age, media and topic expressions are represented.
+core_concept: Many frequent preposition choices are fixed lexical patterns, so retrieve the whole expression rather than choosing from a general translation rule.
+key_items:
+  - on holiday / TV / the radio / the phone / fire / time
+  - at the age of / at a speed / at a temperature
+  - by car/bus/train/plane/bike
+  - by + agent/creator
+  - with + instrument/tool
+  - about + topic
+collocations:
+  - on time
+  - by train
+  - cut with scissors
+  - a book by an author
+  - talk/read/know about a topic
+common_mistakes:
+  - For transport method, use by + transport without an article in the source pattern.
+  - Distinguish by for the agent/creator or method from with for an instrument/tool.
+examples:
+  - I heard about it on the radio.
+  - We travelled by train and opened the package with a knife.
 recognition_drills:
-- Generate two original sentences that differ on the main Common Preposition Patterns distinction and ask the learner
-  to choose the natural/correct one.
+  - Choose on/at/by/with/about for fixed source-level expressions.
 production_drills:
-- Ask for one original sentence that demonstrates Common Preposition Patterns; add a negative/question transformation
-  when that form is relevant.
+  - Create sentences for transport, tool, topic, media and time expressions.
 speaking_drills:
-- Ask one short everyday or work question that naturally elicits Common Preposition Patterns without naming the
-  grammar point in the question.
+  - How do you usually travel, and what do you listen to on the way?
