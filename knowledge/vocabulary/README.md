@@ -1,15 +1,15 @@
 # Vocabulary Knowledge
 
-Vocabulary should be normalized into reusable concepts rather than stored as copied book units.
+Vocabulary KUs focus on retrieval and use, not only recognition.
 
-Possible KU shapes include:
+A vocabulary KU may contain:
 
-- `vocabulary.family-relations`
-- `vocabulary.work.jobs`
-- `vocabulary.travel.holidays`
-- `vocabulary.collocation.do-vs-make`
-- `vocabulary.verb.get`
+- `key_items`
+- useful phrases/collocations
+- confusions and common mistakes
+- original examples
+- recognition, production and speaking drills
 
-Prefer useful phrases and collocations over isolated word lists when the source supports them. Track common confusions and production prompts so vocabulary can be retrieved in speech, not only recognized.
+Topic boundaries may resemble a source unit when that unit already represents a coherent retrieval context. Core-verb/collocation material can merge across books; for example, grammar and vocabulary sources may both contribute to `vocabulary.verb.get` or `vocabulary.collocation.do-vs-make`.
 
-Detailed vocabulary normalization is intentionally deferred until the grammar KU taxonomy and review workflow are stable.
+The source book remains the detailed reference. Repository KUs contain normalized core material rather than copied unit pages.

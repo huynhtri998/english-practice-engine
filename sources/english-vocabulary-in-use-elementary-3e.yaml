@@ -15,6 +15,6 @@ storage:
   expected_location: chatgpt-project-source
 
 notes:
-  - Source is registered now; detailed normalization is deferred until the grammar taxonomy is stable.
   - Normalize useful words, phrases, collocations, common mistakes, and usage patterns into reusable vocabulary KUs.
   - Explanations and practice items in the repository must be original/paraphrased rather than copied from the book.
+  - The 60 source units are mapped during the initial knowledge migration.
