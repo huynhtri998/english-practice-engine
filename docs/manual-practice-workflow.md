@@ -49,6 +49,24 @@ A normal 20–30 minute session uses approximately:
 
 Counts are guidelines, not quotas.
 
+## Practice language
+
+English is the default interaction language during an English practice session.
+
+Use English for:
+
+- instructions
+- feedback and corrections
+- short grammar/vocabulary explanations
+- follow-up questions
+- speaking practice
+
+For Vietnamese → English production, the prompt itself stays in Vietnamese, but feedback returns to English.
+
+Use Vietnamese only when the learner explicitly asks for it or when a brief clarification is necessary to resolve persistent confusion. Outside practice sessions, Vietnamese can remain the default explanatory language.
+
+The purpose is to increase meaningful English exposure without turning the session into passive reading: prompts should still require retrieval and production.
+
 ## Retrieval-first rule
 
 Do not show the rule before the learner answers unless the learner explicitly asks to study/explain first.
@@ -147,9 +165,10 @@ When the learner says `học hôm nay`, `review hôm nay`, or `practice`:
 1. inspect available review state if present
 2. choose due/weak KUs
 3. if no real state exists yet, seed the session from foundational and contrast-heavy KUs
-4. ask one item at a time
-5. maintain temporary session errors in the conversation
-6. update persistent state only when the workflow has an authorized/private place to store it
+4. switch to English as the primary interaction language for the session
+5. ask one item at a time
+6. maintain temporary session errors in the conversation
+7. update persistent state only when the workflow has an authorized/private place to store it
 
 ## Privacy
 
