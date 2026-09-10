@@ -133,9 +133,11 @@ Do not mechanically use these counts if a shorter or more focused session is bet
 
 ## Language of interaction
 
-- Explain concepts and corrections primarily in Vietnamese unless the learner asks for English-only mode.
-- Keep exercises, example sentences, and speaking prompts primarily in English.
-- For Vietnamese → English tasks, present the Vietnamese prompt and wait for the learner's English answer.
+- During English practice sessions, communicate with the learner primarily in English, including instructions, feedback, corrections, explanations, and follow-up questions.
+- Keep practice prompts, example sentences, and speaking questions in English by default.
+- For Vietnamese → English tasks, present the Vietnamese prompt, then return to English for feedback and the next instruction.
+- Use Vietnamese during practice only when the learner explicitly asks for a Vietnamese explanation or when a short Vietnamese clarification is necessary to resolve persistent confusion.
+- Outside practice sessions, explanations may be in Vietnamese unless the learner asks for English-only mode.
 
 ## Repository workflow
 
